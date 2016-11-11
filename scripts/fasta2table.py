@@ -16,6 +16,17 @@ from Bio import SeqIO
 
 ### * Functions
 
+### ** getSpecies(description)
+
+def getSpecies(description) :
+    """Extract the species name from a sequence description.
+
+    We assume the species name is made of the two words coming just after the
+    gi identifiers, i.e. the second and third words of the description.
+    """
+    words = description.split(" ")
+    return(words[1] + " " + words[2])
+
 ### * Run
 
 # Get the input file name
@@ -30,5 +41,5 @@ with open(inputFile, "r") as fi:
 out = sys.stdout
 out.write("species\tsequence\n")
 for seq in sequences:
-    out.write(str(seq.description) + "\t")
+    out.write(getSpecies(str(seq.description)) + "\t")
     out.write(str(seq.seq) + "\n")
