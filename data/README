@@ -1,13 +1,13 @@
 Data files for the case study: evolution of fish mitochondrial proteins
 
-All data files were taken from the 2013 project folder
-"2013-05_actinopterygii-mtDNA-evolution".
-
 
 
 ------------------
 fishbase_table.tsv
 ------------------
+
+Data file(s) taken from the 2013 project folder
+"2013-05_actinopterygii-mtDNA-evolution".
 
 md5sum: b13d37a6186ccba48d0b244121dd4bbd
 
@@ -26,6 +26,9 @@ much more efficient to use the R package rfishbase
 compilation_*.fasta
 -------------------
 
+Data file(s) taken from the 2013 project folder
+"2013-05_actinopterygii-mtDNA-evolution".
+
 md5sum: 26ed2e83361ee0409f908d22e1996bb1  compilation_COI.fasta
         276b3b992e8c5724fa46385b8de4c382  compilation_cytB.fasta
         caee562f14f679affb6e92e7787067aa  compilation_ND5.fasta
@@ -43,3 +46,20 @@ mitochondrial DNA; only 3 are used in this case study.
 - COI: cytochrome oxidase subunit 1
 - cytB: cytochrome b
 - ND5: NADH dehydrogenase, subunit 5
+
+
+
+-----------------
+compilation_*.tsv
+-----------------
+
+md5sum: 617a719fc34bf4d1adabeff0e6e8dc25  compilation_COI.tsv
+        a04987c9d5629aaf3d4a3a813c8c9f6d  compilation_cytB.tsv
+        074bd92075af72c70ea5034da03d7365  compilation_ND5.tsv
+
+format: Tab-separated table, with header
+
+Those files were derived from the compilation_*.fasta files using the Python
+script fasta2table.py, e.g.:
+
+python fasta2table.py compilation_COI.fasta > compilation_COI.tsv
