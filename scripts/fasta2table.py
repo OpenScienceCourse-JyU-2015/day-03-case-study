@@ -11,7 +11,7 @@
 
 ### * Import
 
-import sys # To get command line arguments
+import sys
 from Bio import SeqIO
 
 ### * Functions
@@ -26,7 +26,9 @@ with open(inputFile, "r") as fi:
     fasta = SeqIO.parse(fi, "fasta")
     sequences = list(fasta)
 
-# Print sequences
+# Print sequences to stdout
+out = sys.stdout
+out.write("species\tsequence\n")
 for seq in sequences:
-    print(seq.description)
-    print(seq.seq)
+    out.write(str(seq.description) + "\t")
+    out.write(str(seq.seq) + "\n")
