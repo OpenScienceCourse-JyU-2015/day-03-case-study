@@ -3,6 +3,8 @@ Data files for the case study: evolution of fish mitochondrial proteins
 All data files were taken from the 2013 project folder
 "2013-05_actinopterygii-mtDNA-evolution".
 
+
+
 ------------------
 fishbase_table.tsv
 ------------------
@@ -18,3 +20,26 @@ Note that if one was to extract information from fishbase in 2016, it would be
 much more efficient to use the R package rfishbase
 (https://github.com/ropensci/rfishbase).
 
+
+
+-------------------
+compilation_*.fasta
+-------------------
+
+md5sum: 26ed2e83361ee0409f908d22e1996bb1  compilation_COI.fasta
+        276b3b992e8c5724fa46385b8de4c382  compilation_cytB.fasta
+        caee562f14f679affb6e92e7787067aa  compilation_ND5.fasta
+
+format: Fasta files
+
+Those files have been compiled from GenBank records retrieved in 2013, in an
+attempt to gather all the complete actinopterygii mitochondrial genomes
+available at that time.
+
+All protein sequences were extracted from the GenBank records and compiled in
+one file for each protein. There are 13 proteins encoded by the fish
+mitochondrial DNA; only 3 are used in this case study.
+
+- COI: cytochrome oxidase subunit 1
+- cytB: cytochrome b
+- ND5: NADH dehydrogenase, subunit 5
