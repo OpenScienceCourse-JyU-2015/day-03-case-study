@@ -1,0 +1,20 @@
+Data files for the case study: evolution of fish mitochondrial proteins
+
+All data files were taken from the 2013 project folder
+"2013-05_actinopterygii-mtDNA-evolution".
+
+------------------
+fishbase_table.tsv
+------------------
+
+md5sum: b13d37a6186ccba48d0b244121dd4bbd
+
+format: Tab-separated table with header
+
+This file was originally compiled from information obtained from the fishbase
+website (www.fishbase.org) during the year 2013.
+
+Note that if one was to extract information from fishbase in 2016, it would be
+much more efficient to use the R package rfishbase
+(https://github.com/ropensci/rfishbase).
+

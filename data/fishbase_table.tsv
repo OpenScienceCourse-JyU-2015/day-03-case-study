@@ -1,0 +1,1266 @@
+species	temperature_min	temperature_max	climate	environment	depth_min	depth_max	metabolism_data	speed_data	gill_area_data
+Abalistes stellaris	NA	NA	tropical	amphidromous marine demersal	NA	NA	False	False	False
+Ablennes hians	NA	NA	subtropical	reef-associated oceanodromous marine brackish	0	3	False	False	False
+Abramis brama	10.0	24.0	temperate	freshwater benthopelagic brackish potamodromous	1	NA	True	True	False
+Abudefduf vaigiensis	NA	NA	tropical	reef-associated oceanodromous marine	1	15	False	False	False
+Acanthaluteres brownii	NA	NA	subtropical	reef-associated marine	NA	50	False	False	False
+Acanthogobius hasta	NA	NA	temperate	amphidromous freshwater marine brackish demersal	NA	NA	False	False	False
+Acanthopagrus latus	NA	NA	tropical	freshwater marine brackish demersal	NA	50	False	False	False
+Acanthopagrus schlegelii	NA	NA	subtropical	marine brackish demersal	15	NA	True	False	False
+Acanthurus leucosternon	23.0	28.0	tropical	reef-associated marine	0	25	False	False	False
+Acanthurus lineatus	24.0	30.0	tropical	reef-associated marine	0	15	False	False	False
+Acantopsis choirorhynchos	NA	NA	tropical	freshwater brackish demersal	NA	NA	False	False	False
+Acentrogobius chlorostigmatoides	NA	NA	tropical	freshwater brackish demersal	NA	NA	False	False	False
+Acentrogobius pflaumii	NA	NA	subtropical	marine brackish demersal	NA	NA	False	False	False
+Acentrophryne dolichonema	NA	NA	NA	bathypelagic marine deep-water	201	1105	False	False	False
+Acheilognathus intermedia	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Acheilognathus koreensis	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Acheilognathus macropterus	15.0	25.0	subtropical	freshwater benthopelagic brackish	NA	NA	False	False	False
+Acheilognathus signifer	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Acheilognathus somjinensis	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Acheilognathus typus	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Acheilognathus yamatsutae	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Acipenser baerii	10.0	20.0	temperate	anadromous freshwater marine brackish demersal	1	NA	False	False	False
+Acipenser dabryanus	NA	NA	temperate	anadromous freshwater demersal	NA	NA	False	False	False
+Acipenser gueldenstaedtii	10.0	20.0	temperate	anadromous freshwater marine brackish demersal	1	NA	True	False	False
+Acipenser ruthenus	NA	NA	temperate	freshwater brackish potamodromous demersal	1	NA	False	False	False
+Acipenser schrenckii	10.0	20.0	temperate	anadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Acipenser sinensis	NA	NA	temperate	anadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Acipenser transmontanus	NA	23.0	subtropical	anadromous freshwater marine brackish demersal	1	122	True	False	False
+Acreichthys tomentosus	NA	NA	tropical	reef-associated marine non-migratory	2	15	False	False	False
+Acrossocheilus hemispinus	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Acrossocheilus monticola	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Acrossocheilus wenchowensis	NA	NA	subtropical	freshwater benthopelagic brackish	NA	NA	False	False	False
+Aeoliscus strigatus	NA	NA	tropical	reef-associated marine	1	20	False	False	False
+Aesopia cornuta	NA	NA	tropical	reef-associated marine	8	100	False	False	False
+Aethaloperca rogaa	NA	NA	tropical	reef-associated marine non-migratory	3	50	False	False	False
+Agonostomus monticola	20.0	31.0	subtropical	catadromous freshwater marine brackish pelagic-neritic	NA	NA	False	False	False
+Albula glossodonta	NA	NA	tropical	reef-associated oceanodromous marine brackish	NA	NA	False	False	False
+Alburnus alburnus	10.0	20.0	temperate	freshwater benthopelagic brackish potamodromous	1	NA	True	True	False
+Alburnus istanbulensis	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Alburnus tarichi	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Aldrichetta forsteri	NA	28.0	temperate	catadromous freshwater marine brackish demersal	0	50	False	False	False
+Aldrovandia affinis	NA	NA	NA	benthopelagic marine deep-water	730	2560	False	False	False
+Alepocephalus agassizii	NA	NA	NA	bathydemersal marine deep-water	600	2500	False	False	False
+Alepocephalus australis	NA	NA	NA	bathydemersal marine deep-water	1000	2600	False	False	False
+Alepocephalus bairdii	NA	NA	NA	bathydemersal marine deep-water	365	1700	False	False	False
+Alepocephalus bicolor	NA	NA	NA	bathydemersal marine deep-water	439	1080	False	False	False
+Alepocephalus longiceps	NA	NA	NA	bathydemersal marine deep-water	1240	1300	False	False	False
+Alepocephalus productus	NA	NA	NA	bathydemersal marine deep-water	1150	3500	False	False	False
+Alepocephalus tenebrosus	NA	NA	NA	bathydemersal marine deep-water	46	5500	False	False	False
+Alepocephalus umbriceps	NA	NA	NA	bathydemersal marine deep-water	500	2000	False	False	False
+Allocyttus niger	NA	NA	NA	bathypelagic marine deep-water oceanodromous	560	1300	False	False	False
+Alosa alosa	NA	NA	temperate	anadromous freshwater marine brackish pelagic-neritic	NA	300	False	False	False
+Alosa pseudoharengus	NA	NA	temperate	anadromous freshwater marine brackish pelagic-neritic	5	145	False	True	False
+Alosa sapidissima	NA	NA	temperate	anadromous freshwater marine brackish pelagic-neritic	0	250	False	False	False
+Aluterus scriptus	NA	NA	subtropical	reef-associated marine	3	120	False	False	False
+Amanses scopas	NA	NA	tropical	reef-associated marine	3	18	False	False	False
+Amazonsprattus scintilla	NA	NA	tropical	pelagic freshwater	NA	NA	False	False	False
+Amblydoras gonzalezi	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Amia calva	15.0	20.0	temperate	freshwater demersal	NA	NA	False	False	False
+Ammodytes hexapterus	NA	NA	temperate	benthopelagic oceanodromous marine brackish	0	275	False	False	False
+Ammodytes personatus	NA	NA	temperate	oceanodromous marine demersal	NA	NA	False	False	False
+Amphiprion bicinctus	NA	NA	tropical	reef-associated marine non-migratory	1	30	False	False	False
+Amphiprion ocellaris	NA	NA	tropical	reef-associated marine non-migratory	1	15	False	False	False
+Anarchias sp.	NA	NA	subtropical	reef-associated marine	NA	NA	False	False	False
+Anarhichas denticulatus	NA	NA	polar	benthopelagic oceanodromous marine	60	1700	False	False	False
+Anarhichas lupus	NA	NA	temperate	oceanodromous marine demersal	1	600	False	False	False
+Anarhichas minor	NA	NA	temperate	oceanodromous marine demersal	25	600	True	False	False
+Ancherythroculter nigrocauda	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Anguilla anguilla	4.0	20.0	temperate	catadromous freshwater marine brackish demersal	0	700	True	False	True
+Anguilla australis	NA	NA	subtropical	benthopelagic freshwater marine brackish catadromous	0	NA	True	False	False
+Anguilla bengalensis	NA	NA	tropical	benthopelagic freshwater marine brackish catadromous	NA	NA	False	False	False
+Anguilla bicolor	NA	NA	tropical	catadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Anguilla celebesensis	NA	NA	tropical	catadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Anguilla dieffenbachii	NA	NA	subtropical	catadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Anguilla interioris	NA	NA	tropical	catadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Anguilla japonica	4.0	27.0	subtropical	catadromous freshwater marine brackish demersal	1	400	True	False	False
+Anguilla luzonensis	NA	NA	tropical	catadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Anguilla malgumora	NA	NA	tropical	catadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Anguilla marmorata	NA	NA	tropical	catadromous freshwater marine brackish demersal	1	400	False	False	False
+Anguilla megastoma	NA	NA	tropical	catadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Anguilla mossambica	NA	NA	tropical	catadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Anguilla nebulosa	NA	NA	tropical	catadromous freshwater marine brackish demersal	3	10	False	False	False
+Anguilla obscura	NA	NA	tropical	catadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Anguilla reinhardtii	NA	NA	tropical	catadromous freshwater marine brackish demersal	0	1	False	False	False
+Anguilla rostrata	4.0	25.0	subtropical	catadromous freshwater marine brackish demersal	0	464	True	False	True
+Anodontostoma chacunda	NA	NA	tropical	anadromous freshwater marine brackish pelagic-neritic	0	50	False	False	False
+Anomalops katoptron	NA	NA	tropical	reef-associated marine	2	400	False	False	False
+Anoplocapros lenticularis	NA	NA	subtropical	marine demersal	10	220	False	False	False
+Anoplogaster cornuta	NA	NA	NA	bathypelagic marine deep-water	2	4992	True	False	False
+Anoplopoma fimbria	NA	NA	NA	bathydemersal oceanodromous marine deep-water	0	2740	False	False	False
+Antennarius coccineus	NA	NA	tropical	reef-associated marine	0	104	False	False	False
+Antennarius striatus	NA	NA	subtropical	reef-associated marine brackish	10	219	False	False	False
+Antennatus coccineus	NA	NA	tropical	reef-associated marine	1	75	False	False	False
+Antigonia capros	NA	NA	tropical	marine demersal	50	900	False	False	False
+Anyperodon leucogrammicus	NA	NA	tropical	reef-associated marine non-migratory	1	80	False	False	False
+Apareiodon affinis	22.0	26.0	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Apeltes quadracus	4.0	20.0	temperate	benthopelagic freshwater marine brackish	0	3	False	False	False
+Aphredoderus sayanus	5.0	26.0	temperate	freshwater demersal	NA	NA	False	False	False
+Aphyocypris chinensis	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Aphyocypris kikuchii	NA	NA	subtropical	freshwater benthopelagic	0	5	False	False	False
+Aplocheilus panchax	20.0	25.0	tropical	freshwater benthopelagic brackish non-migratory	NA	NA	False	False	False
+Apogon semilineatus	NA	NA	tropical	reef-associated marine brackish	3	100	False	False	False
+Apteronotus albifrons	23.0	28.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Aptocyclus ventricosus	NA	NA	temperate	benthopelagic marine	0	1700	False	False	False
+Arapaima gigas	25.0	29.0	tropical	freshwater demersal	NA	NA	True	False	False
+Arctogadus glacialis	NA	NA	NA	bathypelagic marine non-migratory deep-water	0	1000	False	False	False
+Arctoscopus japonicus	NA	NA	NA	bathydemersal marine deep-water	0	550	False	False	False
+Argyrosomus japonicus	NA	NA	tropical	benthopelagic oceanodromous marine brackish	NA	NA	False	False	False
+Ariomma indica	NA	NA	tropical	benthopelagic oceanodromous marine	20	300	False	False	False
+Ariomma lurida	NA	NA	NA	bathypelagic marine deep-water	350	NA	False	False	False
+Ariosoma shiroanago	NA	NA	temperate	marine demersal	NA	NA	False	False	False
+Arothron firmamentum	NA	NA	subtropical	marine demersal	10	360	False	False	False
+Arothron hispidus	25.0	NA	tropical	reef-associated marine brackish non-migratory	3	50	False	False	False
+Arothron manilensis	NA	NA	tropical	reef-associated marine brackish	2	20	False	False	False
+Arothron mappa	NA	NA	tropical	reef-associated marine	4	30	False	False	False
+Arripis trutta	NA	NA	subtropical	anadromous marine brackish pelagic-neritic	30	39	False	False	False
+Aspasma minima	NA	NA	subtropical	marine demersal	NA	NA	False	False	False
+Aspidoparia morar	22.0	NA	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Assurger anzac	NA	NA	tropical	benthopelagic marine	150	400	False	False	False
+Astatotilapia calliptera	24.0	28.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Astronotus ocellatus	22.0	25.0	tropical	freshwater benthopelagic	NA	NA	True	False	False
+Astyanax mexicanus	NA	NA	subtropical	freshwater benthopelagic potamodromous	NA	NA	False	False	False
+Ataxolepis apus	NA	NA	tropical	bathypelagic marine	1464	NA	False	False	False
+Ateleopus japonicus	NA	NA	NA	bathydemersal marine deep-water	140	600	False	False	False
+Atractosteus spatula	NA	NA	subtropical	freshwater brackish demersal	0	NA	False	False	False
+Auchenoglanis occidentalis	21.0	25.0	tropical	freshwater demersal potamodromous	NA	NA	False	False	False
+Aulichthys japonicus	NA	NA	temperate	benthopelagic marine	NA	NA	False	False	False
+Aulopus japonicus	NA	NA	tropical	marine demersal	85	510	False	False	False
+Aulorhynchus flavidus	NA	NA	temperate	benthopelagic marine	0	30	False	False	False
+Aulostomus chinensis	NA	NA	tropical	reef-associated marine	3	122	False	False	False
+Auriglobus modestus	23.0	28.0	tropical	freshwater demersal	NA	NA	False	False	False
+Auxis rochei	NA	28.0	tropical	oceanodromous marine brackish pelagic-neritic	10	NA	False	True	False
+Auxis thazard	27.0	28.0	tropical	oceanodromous marine pelagic-neritic	50	NA	False	False	False
+Avocettina infans	NA	NA	NA	bathypelagic marine deep-water	0	4580	False	False	False
+Bagarius yarrelli	NA	NA	tropical	freshwater demersal potamodromous	NA	NA	False	False	False
+Bahaba taipingensis	NA	NA	subtropical	benthopelagic marine brackish	NA	NA	False	False	False
+Bajacalifornia megalops	NA	NA	NA	bathypelagic marine deep-water	150	3200	False	False	False
+Balistapus undulatus	NA	NA	tropical	reef-associated marine	2	50	False	False	False
+Balistes vetula	28.0	NA	tropical	reef-associated marine	2	275	False	False	False
+Balistoides conspicillum	NA	NA	tropical	reef-associated marine brackish	1	75	False	False	False
+Barbatula toni	NA	NA	temperate	freshwater demersal	NA	NA	False	False	False
+Barbonymus gonionotus	22.0	28.0	tropical	freshwater benthopelagic potamodromous	15	NA	False	False	False
+Barbourisia rufa	NA	NA	NA	bathydemersal marine deep-water	120	2000	False	False	False
+Barbus barbus	10.0	24.0	temperate	freshwater benthopelagic potamodromous	10	NA	False	False	False
+Barbus trimaculatus	24.0	26.0	tropical	freshwater benthopelagic potamodromous	NA	NA	False	False	False
+Barilius bendelisis	22.0	NA	tropical	freshwater benthopelagic potamodromous	NA	NA	False	False	False
+Bassozetus zenkevitchi	NA	NA	NA	bathypelagic marine deep-water	0	6930	False	False	False
+Bathygadus antrodes	NA	NA	NA	bathydemersal marine deep-water	792	1200	False	False	False
+Bathylaco nigricans	NA	NA	NA	bathypelagic marine deep-water	450	4376	False	False	False
+Bathyprion danae	NA	NA	NA	bathypelagic marine deep-water	100	3200	False	False	False
+Bathytroctes breviceps	NA	NA	NA	bathypelagic marine deep-water	NA	1650	False	False	False
+Bathytroctes macrolepis	NA	NA	NA	bathypelagic marine deep-water	2500	5850	False	False	False
+Bathytroctes michaelsarsi	NA	NA	NA	bathypelagic marine deep-water	2010	5057	False	False	False
+Bathytroctes microlepis	NA	NA	NA	bathypelagic marine deep-water	0	4900	False	False	False
+Batrachomoeus trispinosus	NA	NA	tropical	reef-associated marine brackish	NA	NA	False	False	False
+Benthodesmus tenuis	NA	NA	NA	benthopelagic marine deep-water	200	850	False	False	False
+Benthosema fibulatum	NA	NA	NA	bathypelagic marine deep-water oceanodromous	0	2000	False	False	False
+Benthosema glaciale	NA	NA	NA	pelagic-oceanic marine non-migratory deep-water	0	1407	False	False	False
+Benthosema pterotum	NA	NA	NA	bathypelagic marine deep-water	10	300	False	False	False
+Bertella idiomorpha	NA	NA	temperate	marine demersal	0	3475	False	False	False
+Beryx decadactylus	NA	NA	NA	bathydemersal marine deep-water	110	1000	False	False	False
+Beryx splendens	NA	NA	subtropical	benthopelagic marine	25	1300	False	False	False
+Biwia zezera	NA	NA	temperate	freshwater demersal	NA	NA	False	False	False
+Blicca bjoerkna	4.0	20.0	temperate	freshwater brackish potamodromous demersal	0	NA	False	False	True
+Boleophthalmus pectinirostris	26.0	30.0	tropical	non-migratory freshwater marine brackish demersal	0	NA	False	False	False
+Bolinichthys distofax	NA	NA	NA	pelagic-oceanic marine non-migratory deep-water	100	690	False	False	False
+Bolinichthys pyrsobolus	NA	NA	NA	pelagic-oceanic marine deep-water	NA	778	False	False	False
+Boraras maculatus	24.0	26.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Boreogadus saida	NA	NA	polar	oceanodromous marine brackish demersal	0	400	True	False	False
+Bostrychus sinensis	NA	NA	tropical	amphidromous freshwater marine brackish demersal	NA	NA	False	False	False
+Boulengerella maculata	23.0	27.0	tropical	pelagic freshwater	NA	NA	False	False	False
+Boulengeromyrus knoepffleri	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Brachaluteres ulvarum	NA	NA	temperate	reef-associated marine	25	30	False	False	False
+Brachyhypopomus occidentalis	24.0	28.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Brachymystax lenok	NA	NA	temperate	anadromous freshwater benthopelagic	NA	NA	False	False	False
+Brama japonica	9.0	21.0	subtropical	pelagic-oceanic oceanodromous marine	0	620	False	False	False
+Branchiostegus albus	NA	NA	temperate	benthopelagic marine	30	100	False	False	False
+Branchiostegus argentatus	NA	NA	tropical	marine demersal	51	65	False	False	False
+Branchiostegus japonicus	NA	NA	tropical	marine demersal	30	200	False	False	False
+Bregmaceros nectabanus	NA	NA	tropical	marine non-migratory pelagic-neritic	NA	350	False	False	False
+Brevimyrus niger	22.0	24.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Brevoortia tyrannus	NA	26.0	subtropical	oceanodromous marine brackish pelagic-neritic	0	50	True	True	True
+Brienomyrus brachyistius	25.0	28.0	tropical	freshwater benthopelagic brackish	NA	NA	False	False	False
+Brienomyrus niger	22.0	24.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Bufoceratias thele	NA	NA	NA	bathypelagic marine deep-water	0	1500	False	False	False
+Bunocephalus coracoideus	25.0	28.0	tropical	freshwater demersal	NA	NA	False	False	False
+Callionymus curvicornis	NA	NA	subtropical	freshwater marine brackish demersal	NA	NA	False	False	False
+Campostoma anomalum	NA	NA	subtropical	freshwater benthopelagic	NA	NA	True	False	False
+Campylomormyrus numenius	22.0	25.0	tropical	freshwater demersal	NA	NA	False	False	False
+Cantherhines pardalis	NA	NA	tropical	reef-associated marine	2	20	False	False	False
+Canthidermis maculata	NA	NA	subtropical	reef-associated marine	1	110	False	False	False
+Canthigaster coronata	NA	NA	tropical	reef-associated marine	6	165	False	False	False
+Canthigaster jactator	NA	NA	tropical	reef-associated marine	1	30	False	False	False
+Canthigaster rivulata	NA	NA	tropical	reef-associated marine	0	350	False	False	False
+Canthigaster valentini	NA	NA	tropical	reef-associated marine	1	55	False	False	False
+Carangoides armatus	NA	NA	tropical	reef-associated marine brackish	NA	NA	False	False	False
+Caranx melampygus	NA	NA	tropical	reef-associated marine brackish	0	190	False	False	False
+Carapus bermudensis	NA	NA	tropical	reef-associated marine non-migratory	1	235	False	False	False
+Carassius auratus	NA	41.0	subtropical	freshwater benthopelagic potamodromous	0	20	True	True	True
+Carassius carassius	2.0	22.0	temperate	freshwater brackish potamodromous demersal	5	NA	True	False	False
+Carassius gibelio	10.0	20.0	temperate	freshwater benthopelagic brackish potamodromous	0	NA	False	False	False
+Carinotetraodon lorteti	24.0	28.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Carinotetraodon salivator	NA	NA	tropical	freshwater benthopelagic	1	2	False	False	False
+Caristius macropus	NA	NA	NA	bathypelagic marine deep-water	200	1450	False	False	False
+Carnegiella strigata	24.0	28.0	tropical	pelagic freshwater	NA	NA	False	False	False
+Carpiodes carpio	NA	NA	subtropical	freshwater demersal	NA	NA	False	False	False
+Cataetyx rubrirostris	NA	NA	NA	bathydemersal marine deep-water	300	1000	False	False	False
+Catla catla	18.0	28.0	subtropical	freshwater benthopelagic brackish potamodromous	5	NA	False	False	True
+Catostomus commersonii	NA	29.0	temperate	catadromous freshwater demersal	NA	NA	True	False	True
+Caulophryne jordani	NA	NA	NA	bathypelagic marine deep-water	100	1510	False	False	False
+Caulophryne pelagica	NA	NA	NA	bathypelagic marine deep-water	NA	2500	False	False	False
+Centrobranchus choerocephalus	NA	NA	NA	bathypelagic marine deep-water	NA	1050	False	False	False
+Centromochlus perugiae	26.0	28.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Centropyge loricula	NA	NA	tropical	reef-associated marine brackish non-migratory	15	60	False	False	False
+Cephalopholis argus	24.0	28.0	tropical	reef-associated marine non-migratory	1	40	False	False	False
+Cephalopholis boenak	NA	NA	tropical	reef-associated marine non-migratory	1	64	False	False	False
+Cephalopholis sonnerati	NA	NA	tropical	reef-associated marine non-migratory	10	150	False	False	False
+Ceratias uranoscopus	NA	NA	NA	bathypelagic marine deep-water	0	2091	False	False	False
+Ceratoscopelus maderensis	NA	NA	NA	bathypelagic marine deep-water oceanodromous	51	1082	False	False	False
+Cetostoma regani	NA	NA	NA	bathypelagic marine deep-water	0	2250	False	False	False
+Chaca bankanensis	24.0	28.0	tropical	freshwater demersal	NA	NA	False	False	False
+Chaenocephalus aceratus	NA	NA	polar	marine demersal	5	770	True	False	True
+Chaenomugil proboscideus	NA	NA	tropical	marine pelagic-neritic	NA	NA	False	False	False
+Chaenophryne melanorhabdus	NA	NA	NA	bathypelagic marine deep-water	NA	1250	False	False	False
+Chaetodermis penicilligera	NA	NA	tropical	reef-associated marine	NA	NA	False	False	False
+Chaetodon auripes	NA	NA	tropical	reef-associated marine non-migratory	NA	NA	False	False	False
+Chaetodontoplus septentrionalis	NA	NA	tropical	reef-associated marine non-migratory	5	15	False	False	False
+Chaeturichthys stigmatias	NA	NA	temperate	marine demersal	NA	NA	False	False	False
+Chalceus macrolepidotus	23.0	28.0	tropical	pelagic freshwater	NA	NA	False	False	False
+Champsocephalus gunnari	NA	NA	polar	pelagic-oceanic marine	0	700	False	False	False
+Channa argus	14.0	22.0	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Channa maculata	NA	NA	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Chanodichthys dabryi	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Chanodichthys mongolicus	10.0	20.0	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Chanos chanos	15.0	43.0	tropical	amphidromous benthopelagic freshwater marine brackish	1	30	True	False	False
+Chauliodus sloani	NA	NA	NA	bathypelagic marine deep-water	200	4700	False	False	False
+Chaunax abei	NA	NA	tropical	marine demersal	90	500	False	False	False
+Chaunax pictus	NA	NA	NA	bathydemersal marine deep-water	200	978	False	False	False
+Chaunax tosaensis	NA	NA	temperate	marine demersal	NA	NA	False	False	False
+Cheilinus undulatus	NA	NA	tropical	reef-associated marine	1	100	False	False	False
+Cheilochromis euchilus	24.0	26.0	tropical	freshwater benthopelagic non-migratory	NA	NA	False	False	False
+Chelon labrosus	NA	NA	subtropical	catadromous freshwater marine brackish demersal	NA	NA	True	False	False
+Chelonodon patoca	23.0	28.0	tropical	anadromous reef-associated freshwater marine brackish	4	NA	False	False	False
+Chelonodon pleurospilus	NA	NA	subtropical	marine demersal	NA	NA	False	False	False
+Chilodus punctatus	24.0	28.0	tropical	pelagic freshwater	NA	NA	False	False	False
+Chilomycterus reticulatus	NA	NA	subtropical	reef-associated marine	20	100	False	False	False
+Chionodraco myersi	NA	NA	NA	bathydemersal marine deep-water	200	800	False	False	False
+Chirocentrus dorab	NA	NA	tropical	amphidromous reef-associated marine brackish	NA	120	False	False	False
+Chitala blanci	NA	NA	tropical	freshwater demersal potamodromous	NA	NA	False	False	False
+Chitala lopis	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Chitala ornata	24.0	28.0	tropical	pelagic freshwater potamodromous	NA	NA	False	False	False
+Chlorophthalmus agassizi	5.0	13.0	NA	bathydemersal marine brackish deep-water	50	1000	False	False	False
+Chlorurus sordidus	NA	NA	tropical	reef-associated oceanodromous marine brackish	0	50	False	False	False
+Chondrostoma lemmingii	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Chromobotia macracanthus	25.0	30.0	tropical	freshwater demersal	NA	NA	False	False	False
+Chrysochir aureus	NA	NA	tropical	benthopelagic marine brackish	NA	NA	False	False	False
+Cirrhinus molitorella	22.0	26.0	tropical	freshwater benthopelagic potamodromous	5	20	False	False	False
+Cirrhinus mrigala	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Citharinus congicus	22.0	26.0	tropical	pelagic freshwater	NA	NA	False	False	False
+Clinocottus analis	NA	NA	subtropical	marine demersal non-migratory	0	18	True	False	False
+Clupanodon thrissa	NA	NA	tropical	anadromous freshwater marine brackish pelagic-neritic	0	50	False	False	False
+Clupea harengus	1.0	18.0	temperate	benthopelagic oceanodromous marine brackish	0	364	False	True	True
+Clupea pallasii	NA	NA	temperate	non-migratory freshwater marine brackish pelagic-neritic	0	475	False	False	False
+Clupeichthys aesarnensis	NA	NA	tropical	pelagic freshwater potamodromous	NA	NA	False	False	False
+Clupeichthys goniognathus	NA	NA	tropical	pelagic freshwater	NA	NA	False	False	False
+Clupeichthys perakensis	NA	NA	tropical	pelagic freshwater	NA	NA	False	False	False
+Clupeoides borneensis	NA	NA	tropical	pelagic freshwater brackish	NA	NA	False	False	False
+Clupeonella cultriventris	NA	NA	temperate	anadromous freshwater marine brackish pelagic-neritic	10	13	False	False	False
+Cobitis choii	NA	NA	subtropical	freshwater demersal non-migratory	NA	NA	False	False	False
+Cobitis sinensis	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Cobitis striata	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Cobitis takatsuensis	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Coelophrys brevicaudata	NA	NA	subtropical	marine demersal	NA	1024	False	False	False
+Coelorinchus kishinouyei	8.0	12.0	NA	bathydemersal marine non-migratory deep-water	250	450	False	False	False
+Coilia ectenes	NA	NA	subtropical	anadromous freshwater marine brackish pelagic-neritic	0	50	False	False	False
+Coilia lindmani	NA	NA	tropical	pelagic freshwater brackish	NA	NA	False	False	False
+Coilia mystus	NA	NA	tropical	amphidromous freshwater marine brackish pelagic-neritic	10	NA	False	False	False
+Coilia nasus	NA	NA	subtropical	anadromous freshwater marine brackish pelagic-neritic	0	50	False	False	False
+Coilia reynaldi	NA	NA	tropical	amphidromous freshwater marine brackish pelagic-neritic	0	50	False	False	False
+Colisa lalia	25.0	28.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Collichthys lucidus	NA	NA	subtropical	oceanodromous marine demersal	NA	90	False	False	False
+Collichthys niveatus	NA	NA	subtropical	oceanodromous marine demersal	NA	NA	False	False	False
+Coloconger cadenati	NA	NA	NA	bathydemersal marine deep-water	270	600	False	False	False
+Cololabis saira	NA	NA	subtropical	pelagic-oceanic oceanodromous marine	0	230	False	False	False
+Colomesus asellus	22.0	28.0	tropical	freshwater demersal	NA	NA	False	False	False
+Colomesus psittacus	23.0	26.0	tropical	freshwater marine brackish demersal	NA	40	False	False	False
+Conger myriaster	NA	NA	temperate	oceanodromous marine demersal	320	830	False	False	False
+Conocara macropterum	NA	NA	NA	bathypelagic marine deep-water	800	2200	False	False	False
+Conocara murrayi	NA	NA	NA	bathypelagic marine deep-water	1200	2603	False	False	False
+Coregonus clupeaformis	NA	NA	temperate	anadromous freshwater marine brackish demersal	18	128	False	False	False
+Coregonus lavaretus	4.0	16.0	temperate	anadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Coregonus nasus	NA	NA	polar	anadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Coregonus oxyrinchus	4.0	20.0	temperate	anadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Coreius guichenoti	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Coreius heterodon	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Coreoleuciscus splendidus	NA	NA	temperate	freshwater demersal	NA	NA	False	False	False
+Coreoperca kawamebari	10.0	23.0	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Corydoras rabauti	23.0	25.0	tropical	freshwater demersal	NA	NA	False	False	False
+Coryphaena equiselis	24.0	NA	subtropical	pelagic-oceanic oceanodromous marine	0	NA	False	False	False
+Coryphaena hippurus	21.0	30.0	subtropical	oceanodromous marine brackish pelagic-neritic	0	85	False	False	False
+Cottus hangiongensis	NA	NA	temperate	catadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Cottus poecilopus	NA	NA	temperate	freshwater brackish demersal	0	15	False	False	False
+Cottus reinii	NA	NA	temperate	freshwater demersal	NA	NA	False	False	False
+Cranoglanis bouderius	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Crenimugil crenilabis	NA	NA	tropical	reef-associated marine brackish non-migratory	0	20	False	False	False
+Crenuchus spilurus	24.0	28.0	tropical	pelagic freshwater	NA	NA	False	False	False
+Creteuchiloglanis kamengensis	NA	NA	NA	freshwater benthopelagic	NA	NA	False	False	False
+Cromeria nilotica	NA	NA	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Cromeria occidentalis	25.0	30.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Cromileptes altivelis	NA	NA	tropical	reef-associated marine	2	40	False	False	False
+Crossorhombus azureus	NA	NA	tropical	marine demersal	13	60	False	False	False
+Crossostoma lacustre	NA	NA	subtropical	freshwater demersal	1	10	False	False	False
+Cryptopsaras couesii	NA	NA	NA	bathypelagic marine deep-water	0	3085	False	False	False
+Ctenolucius hujeta	22.0	25.0	tropical	pelagic freshwater	NA	NA	False	False	False
+Ctenopharyngodon idella	NA	35.0	subtropical	freshwater demersal potamodromous	0	30	True	False	True
+Cubiceps pauciradiatus	NA	NA	tropical	bathypelagic marine	58	1000	False	False	False
+Culaea inconstans	4.0	18.0	temperate	freshwater demersal	0	55	False	False	False
+Culter alburnus	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Culter mongolicus	10.0	20.0	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Curimatopsis evelynae	NA	NA	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Cycleptus elongatus	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Cyema atrum	NA	NA	NA	bathypelagic marine deep-water	330	5100	False	False	False
+Cymatogaster aggregata	NA	NA	subtropical	non-migratory freshwater marine brackish demersal	NA	146	False	True	False
+Cynoglossus abbreviatus	NA	NA	NA	marine demersal deep-water	20	85	False	False	False
+Cynoglossus semilaevis	NA	NA	subtropical	freshwater marine brackish demersal	NA	NA	False	False	False
+Cynoponticus ferox	NA	NA	subtropical	marine demersal	10	100	False	False	False
+Cynotilapia afra	23.0	27.0	tropical	freshwater benthopelagic	3	30	False	False	False
+Cyphomyrus discorhynchus	22.0	24.0	tropical	freshwater demersal	NA	NA	False	False	False
+Cyprinella lutrensis	15.0	25.0	temperate	freshwater benthopelagic	NA	NA	True	False	False
+Cyprinella spiloptera	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Cyprinodon rubrofluviatilis	10.0	30.0	temperate	freshwater benthopelagic non-migratory	NA	NA	False	False	False
+Cyprinus carpio	3.0	35.0	subtropical	freshwater benthopelagic brackish potamodromous	NA	NA	True	True	True
+Cypselurus hiraii	NA	NA	temperate	marine pelagic-neritic	NA	NA	False	False	False
+Dactyloptena peterseni	NA	NA	tropical	marine demersal	50	210	False	False	False
+Dactyloptena tiltoni	NA	NA	NA	bathydemersal marine deep-water	119	565	False	False	False
+Dallia pectoralis	4.0	14.0	boreal	freshwater demersal	NA	NA	False	False	False
+Danacetichthys galathenus	NA	NA	NA	bathypelagic marine deep-water	0	1330	False	False	False
+Danio dangila	NA	NA	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Danio rerio	18.0	24.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Danionella mirifica	NA	NA	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Dendrophysa russelii	NA	NA	tropical	amphidromous freshwater marine brackish demersal	NA	NA	False	False	False
+Denticeps clupeoides	20.0	25.0	tropical	pelagic freshwater	NA	NA	False	False	False
+Derichthys serpentinus	NA	NA	NA	bathypelagic marine deep-water	0	2000	False	False	False
+Diagramma picta	NA	NA	tropical	reef-associated marine non-migratory	1	170	False	False	False
+Diaphus chrysorhynchus	NA	NA	NA	bathypelagic marine deep-water	213	587	False	False	False
+Diaphus gigas	NA	NA	temperate	pelagic-oceanic marine	100	500	False	False	False
+Diaphus lucidus	NA	NA	NA	bathypelagic marine deep-water oceanodromous	0	2999	False	False	False
+Diaphus luetkeni	NA	NA	NA	bathypelagic marine deep-water oceanodromous	40	750	False	False	False
+Diaphus splendidus	NA	NA	NA	bathypelagic marine deep-water oceanodromous	0	8000	False	False	False
+Diaphus theta	NA	NA	NA	bathypelagic marine deep-water	0	3400	True	False	False
+Diceratias pileatus	NA	NA	NA	bathypelagic marine deep-water	640	1430	False	False	False
+Dimidiochromis compressiceps	22.0	28.0	tropical	freshwater benthopelagic	NA	NA	True	False	False
+Diodon holocanthus	NA	NA	subtropical	reef-associated marine	2	200	False	False	False
+Diogenichthys atlanticus	NA	NA	NA	bathypelagic marine deep-water oceanodromous	0	1050	False	False	False
+Diplacanthopoma brachysoma	NA	NA	NA	bathydemersal marine deep-water	460	1670	False	False	False
+Diplomystes nahuelbutaensis	NA	NA	subtropical	freshwater demersal	NA	NA	False	False	False
+Diplotaxodon limnothrissa	NA	NA	tropical	pelagic freshwater	20	220	False	False	False
+Diretmoides veriginae	NA	NA	NA	bathypelagic marine deep-water	340	1300	False	False	False
+Diretmus argenteus	NA	NA	NA	bathypelagic marine deep-water	0	2000	False	False	False
+Dissostichus eleginoides	NA	NA	temperate	pelagic-oceanic oceanodromous marine	50	3850	False	False	False
+Distichodus sexfasciatus	22.0	26.0	tropical	pelagic freshwater	NA	NA	False	False	False
+Distoechodon tumirostris	NA	NA	subtropical	freshwater benthopelagic	10	20	False	False	False
+Ditrema temminckii	NA	NA	temperate	marine demersal	NA	NA	False	False	False
+Doederleinia berycoides	NA	NA	tropical	marine demersal	100	600	False	False	False
+Dorosoma cepedianum	NA	32.0	subtropical	anadromous freshwater marine brackish pelagic-neritic	NA	33	True	False	False
+Dorosoma petenense	1.0	35.0	subtropical	anadromous freshwater marine brackish pelagic-neritic	0	15	False	False	False
+Dysalotus alcocki	NA	NA	NA	bathypelagic marine deep-water oceanodromous	0	2100	False	False	False
+Echeneis naucrates	NA	NA	subtropical	reef-associated marine brackish	1	50	False	False	False
+Ehirava fluviatilis	NA	NA	tropical	amphidromous freshwater marine brackish pelagic-neritic	NA	NA	False	False	False
+Elassoma evergladei	10.0	30.0	temperate	freshwater demersal	NA	NA	False	False	False
+Elassoma zonatum	10.0	25.0	temperate	freshwater demersal	NA	NA	False	False	False
+Electrona antarctica	NA	NA	polar	oceanodromous marine demersal	NA	NA	True	False	False
+Electrophorus electricus	23.0	28.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Eleotris acanthopoma	NA	NA	tropical	amphidromous freshwater marine brackish demersal	NA	NA	False	False	False
+Eleutheronema tetradactylum	NA	NA	tropical	amphidromous freshwater marine brackish pelagic-neritic	0	23	False	False	False
+Elops hawaiensis	NA	NA	tropical	anadromous freshwater marine brackish pelagic-neritic	1	30	False	False	False
+Elops saurus	NA	NA	subtropical	amphidromous reef-associated marine brackish	NA	50	False	False	False
+Emmelichthys struhsakeri	NA	NA	temperate	benthopelagic marine	180	428	False	False	False
+Engraulis encrasicolus	NA	NA	subtropical	oceanodromous marine brackish pelagic-neritic	0	400	False	False	True
+Engraulis japonicus	8.0	30.0	temperate	oceanodromous marine pelagic-neritic	0	400	True	False	False
+Enophrys diceraus	NA	NA	temperate	marine demersal	0	380	False	False	False
+Enoplosus armatus	NA	NA	temperate	reef-associated marine brackish	NA	90	False	False	False
+Epinephelus akaara	NA	NA	tropical	reef-associated marine	NA	55	True	False	False
+Epinephelus areolatus	NA	NA	tropical	reef-associated marine	6	200	False	False	False
+Epinephelus awoara	NA	NA	tropical	reef-associated marine	10	50	False	False	False
+Epinephelus bruneus	NA	NA	tropical	reef-associated marine	20	200	False	False	False
+Epinephelus coioides	NA	NA	subtropical	reef-associated marine brackish	NA	100	False	False	False
+Epinephelus epistictus	NA	NA	tropical	marine demersal	71	291	False	False	False
+Epinephelus fasciatomaculosus	NA	NA	tropical	reef-associated marine	15	30	False	False	False
+Epinephelus fuscoguttatus	NA	NA	tropical	reef-associated marine	1	60	False	False	False
+Epinephelus lanceolatus	NA	NA	tropical	reef-associated marine brackish	4	100	False	False	False
+Epinephelus latifasciatus	NA	NA	tropical	marine demersal	20	230	False	False	False
+Epinephelus merra	NA	NA	tropical	reef-associated marine	0	50	False	False	False
+Epinephelus moara	NA	NA	tropical	reef-associated marine	20	200	False	False	False
+Epinephelus quoyanus	NA	NA	tropical	reef-associated marine	NA	50	False	False	False
+Epinephelus septemfasciatus	NA	NA	tropical	reef-associated marine non-migratory	5	30	False	False	False
+Epinephelus sexfasciatus	NA	NA	tropical	reef-associated marine	10	80	False	False	False
+Epinephelus stictus	NA	NA	tropical	marine demersal	60	142	False	False	False
+Epinephelus trimaculatus	NA	NA	tropical	reef-associated marine	NA	30	False	False	False
+Erimyzon oblongus	NA	NA	subtropical	freshwater demersal	NA	NA	True	False	False
+Erpetoichthys calabaricus	22.0	28.0	tropical	freshwater brackish demersal	0	NA	True	False	False
+Escualosa thoracata	NA	NA	tropical	amphidromous freshwater marine brackish pelagic-neritic	0	50	False	False	False
+Esomus metallicus	22.0	26.0	tropical	freshwater benthopelagic brackish	NA	NA	False	False	False
+Esox lucius	10.0	28.0	subtropical	freshwater brackish potamodromous demersal	0	30	True	True	True
+Esox niger	10.0	20.0	temperate	freshwater demersal non-migratory	NA	6	False	False	False
+Etheostoma radiosum	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Ethmalosa fimbriata	NA	NA	tropical	catadromous freshwater marine brackish pelagic-neritic	0	NA	False	False	False
+Ethmidium maculatum	NA	NA	tropical	marine pelagic-neritic	0	50	False	False	False
+Etroplus maculatus	20.0	25.0	tropical	amphidromous freshwater benthopelagic brackish	NA	NA	False	False	False
+Etrumeus micropus	NA	NA	subtropical	marine pelagic-neritic	NA	NA	False	False	False
+Eubalichthys mosaicus	NA	NA	temperate	reef-associated marine	NA	140	False	False	False
+Euchiloglanis kishinouyei	NA	NA	subtropical	freshwater demersal	NA	NA	False	False	False
+Eumegistus illustris	NA	NA	NA	bathypelagic marine deep-water	1	520	False	False	False
+Eurypegasus draconis	NA	NA	tropical	reef-associated marine brackish	3	91	False	False	False
+Eutaeniophorus festivus	NA	NA	NA	bathypelagic marine deep-water	0	200	False	False	False
+Euthynnus alletteratus	NA	NA	tropical	reef-associated oceanodromous marine brackish	1	150	False	False	True
+Evoxymetopon poeyi	NA	NA	tropical	benthopelagic marine	NA	NA	False	False	False
+Exocoetus volitans	NA	NA	subtropical	oceanodromous marine pelagic-neritic	0	20	False	False	False
+Exostoma labiatum	NA	NA	NA	freshwater demersal	NA	NA	False	False	False
+Facciolella oxyrhyncha	NA	NA	subtropical	marine demersal	30	731	False	False	False
+Fistularia commersonii	NA	NA	tropical	reef-associated marine	0	132	False	False	False
+Fundulus diaphanus	10.0	25.0	temperate	freshwater benthopelagic brackish non-migratory	NA	NA	False	False	False
+Fundulus grandis	22.0	26.0	tropical	freshwater benthopelagic brackish potamodromous	NA	NA	True	False	False
+Fundulus heteroclitus	10.0	24.0	temperate	benthopelagic freshwater marine brackish non-migratory	NA	NA	True	False	False
+Fundulus olivaceus	15.0	25.0	temperate	freshwater benthopelagic non-migratory	NA	NA	False	False	False
+Gadus chalcogrammus	NA	NA	polar	benthopelagic marine brackish non-migratory	0	1280	True	False	False
+Gadus morhua	NA	15.0	temperate	benthopelagic oceanodromous marine brackish	0	600	True	True	False
+Gadus ogac	NA	NA	polar	oceanodromous marine brackish demersal	0	200	True	False	False
+Gagata dolichonema	NA	NA	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Galaxias gollumoides	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Galaxias maculatus	10.0	22.0	temperate	benthopelagic freshwater marine brackish catadromous	NA	NA	False	True	False
+Galaxiella nigrostriata	10.0	30.0	temperate	freshwater demersal	NA	NA	False	False	False
+Gambusia affinis	12.0	29.0	subtropical	freshwater benthopelagic brackish potamodromous	NA	NA	True	False	False
+Garra orientalis	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Gasterochisma melampus	8.0	15.0	subtropical	pelagic-oceanic oceanodromous marine	200	NA	False	False	False
+Gasterosteus aculeatus	4.0	20.0	temperate	benthopelagic freshwater marine brackish anadromous	0	100	True	True	False
+Gasterosteus wheatlandi	NA	NA	temperate	benthopelagic marine brackish	NA	NA	False	False	False
+Gempylus serpens	NA	NA	NA	pelagic-oceanic oceanodromous marine deep-water	0	600	False	False	False
+Genyochromis mento	24.0	28.0	tropical	freshwater benthopelagic	2	25	False	False	False
+Genyomyrus donnyi	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Gigantactis vanhoeffeni	NA	NA	NA	bathypelagic marine deep-water	300	5300	False	False	False
+Gila conspersa	NA	NA	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Gila robusta	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Gilchristella aestuaria	NA	NA	subtropical	amphidromous freshwater marine brackish pelagic-neritic	NA	NA	True	False	False
+Gillichthys mirabilis	NA	NA	subtropical	marine brackish demersal	NA	NA	True	False	False
+Gillichthys seta	NA	NA	subtropical	marine demersal	NA	NA	False	False	False
+Girella punctata	NA	NA	temperate	reef-associated oceanodromous marine	NA	NA	False	False	False
+Glaridoglanis andersonii	NA	NA	NA	freshwater demersal	NA	NA	False	False	False
+Glossanodon semifasciatus	NA	NA	temperate	benthopelagic marine	70	430	False	False	False
+Glossogobius circumspectus	NA	NA	tropical	freshwater brackish demersal	NA	NA	False	False	False
+Glossogobius olivaceus	NA	NA	temperate	amphidromous freshwater marine brackish demersal	NA	NA	False	False	False
+Glyptosternon maculatum	NA	NA	NA	freshwater demersal	NA	NA	False	False	False
+Glyptothorax fokiensis	NA	NA	subtropical	freshwater benthopelagic brackish	NA	NA	False	False	False
+Glyptothorax trilineatus	10.0	20.0	NA	freshwater benthopelagic	NA	NA	False	False	False
+Gnathonemus petersii	22.0	28.0	tropical	freshwater demersal	NA	NA	True	False	False
+Gnathopogon elongatus	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Gnathopogon strigatus	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Gobio gobio	2.0	18.0	temperate	freshwater benthopelagic brackish potamodromous	NA	NA	True	False	False
+Gobiobotia brevibarba	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Gobiobotia macrocephala	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Gobiobotia naktongensis	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Gobiocypris rarus	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Gonorynchus abbreviatus	NA	NA	subtropical	marine demersal	50	100	False	False	False
+Gonorynchus greyi	NA	NA	subtropical	marine brackish demersal	NA	160	False	False	False
+Grammatobothus krempfi	NA	NA	tropical	marine demersal	NA	NA	False	False	False
+Grasseichthys gabonensis	NA	NA	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Gudusia chapra	NA	NA	subtropical	pelagic freshwater brackish potamodromous	NA	NA	False	False	False
+Gymnarchus niloticus	23.0	28.0	tropical	freshwater demersal potamodromous	NA	NA	False	False	False
+Gymnocypris dobula	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Gymnocypris eckloni	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Gymnocypris namensis	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Gymnocypris przewalskii	NA	NA	temperate	freshwater benthopelagic potamodromous	NA	NA	False	False	False
+Gymnogobius petschiliensis	NA	NA	temperate	amphidromous freshwater marine brackish demersal	NA	NA	False	False	False
+Gymnosarda unicolor	20.0	28.0	tropical	reef-associated oceanodromous marine	10	100	False	False	False
+Gymnoscopelus nicholsi	NA	NA	NA	bathypelagic marine deep-water oceanodromous	300	NA	False	False	False
+Gymnothorax kidako	NA	NA	tropical	reef-associated marine	2	350	False	False	False
+Gymnotus carapo	22.0	28.0	subtropical	freshwater benthopelagic potamodromous	NA	NA	False	False	False
+Gyrinocheilus aymonieri	25.0	28.0	tropical	freshwater demersal potamodromous	NA	NA	False	False	False
+Gyrinomimus myersi	NA	NA	NA	bathypelagic marine deep-water	1280	2791	False	False	False
+Gyrinomimus sp.	NA	NA	polar	benthopelagic marine	0	1400	False	False	False
+Halichoeres melanurus	NA	NA	tropical	reef-associated marine	1	NA	False	False	False
+Halichoeres tenuispinis	NA	NA	tropical	reef-associated marine	NA	4	False	False	False
+Halichoeres trimaculatus	NA	NA	tropical	reef-associated marine	2	30	False	False	False
+Halieutaea stellata	NA	NA	tropical	marine demersal	50	400	False	False	False
+Hapalogenys analis	NA	NA	tropical	benthopelagic marine	NA	NA	False	False	False
+Hapalogenys nigripinnis	NA	NA	temperate	benthopelagic marine brackish	NA	NA	False	False	False
+Haplophryne mollis	NA	NA	NA	bathypelagic marine deep-water oceanodromous	NA	2250	False	False	False
+Hara jerdoni	18.0	24.0	tropical	freshwater demersal	NA	NA	False	False	False
+Harengula jaguana	NA	NA	tropical	reef-associated marine brackish	NA	22	False	False	False
+Harpadon microchir	NA	NA	tropical	marine demersal	NA	NA	False	False	False
+Harpadon nehereus	NA	NA	tropical	benthopelagic oceanodromous marine brackish	50	NA	False	False	False
+Helicolenus avius	NA	NA	NA	bathydemersal marine deep-water	450	600	False	False	False
+Helicolenus hilgendorfi	NA	NA	temperate	marine demersal	150	500	False	False	False
+Helogenes marmoratus	22.0	26.0	tropical	freshwater demersal	NA	NA	False	False	False
+Hemibagrus macropterus	NA	NA	temperate	freshwater demersal	NA	NA	False	False	False
+Hemibarbus barbus	NA	NA	temperate	freshwater benthopelagic potamodromous	5	20	False	False	False
+Hemibarbus labeo	NA	NA	temperate	freshwater benthopelagic potamodromous	5	20	False	False	False
+Hemibarbus longirostris	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Hemibarbus maculatus	10.0	24.0	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Hemibarbus mylodon	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Hemibarbus umbrifer	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Hemigrammocypris rasborella	NA	NA	temperate	freshwater benthopelagic brackish	NA	NA	False	False	False
+Hemiodopsis gracilis	23.0	27.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Heniochus diphreutes	NA	NA	subtropical	reef-associated marine non-migratory	15	210	False	False	False
+Hepsetus odoe	26.0	28.0	tropical	freshwater demersal potamodromous	NA	NA	False	False	False
+Herwigia kreffti	NA	NA	NA	bathypelagic marine deep-water	1000	3200	False	False	False
+Heteroconger hassi	NA	NA	tropical	reef-associated marine non-migratory	7	45	False	False	False
+Heteropneustes fossilis	21.0	25.0	tropical	freshwater brackish demersal	NA	NA	True	False	True
+Heterotis niloticus	25.0	30.0	tropical	pelagic freshwater	1	NA	False	False	False
+Hexagrammos agrammus	NA	NA	temperate	oceanodromous marine demersal	NA	NA	False	False	False
+Himantolophus albinares	NA	NA	NA	bathypelagic marine deep-water	845	NA	False	False	False
+Himantolophus groenlandicus	NA	NA	NA	bathypelagic marine deep-water	830	NA	False	False	False
+Hiodon alosoides	NA	NA	temperate	pelagic freshwater potamodromous	NA	NA	False	False	False
+Hiodon tergisus	NA	NA	temperate	pelagic freshwater	NA	NA	False	False	False
+Hippocampus comes	NA	NA	tropical	reef-associated marine non-migratory	NA	20	False	False	False
+Hippocampus histrix	NA	NA	tropical	reef-associated marine non-migratory	NA	82	False	False	False
+Hippocampus kuda	NA	NA	tropical	reef-associated marine brackish non-migratory	0	68	False	False	False
+Hippocampus trimaculatus	NA	NA	tropical	reef-associated marine non-migratory	NA	100	False	False	False
+Hippoglossus hippoglossus	NA	NA	temperate	oceanodromous marine demersal	50	2000	False	False	False
+Hippoglossus stenolepis	NA	NA	temperate	oceanodromous marine demersal	0	1200	False	False	False
+Histiopterus typus	NA	NA	NA	reef-associated marine deep-water	40	421	False	False	False
+Histrio histrio	NA	NA	subtropical	reef-associated oceanodromous marine	0	50	False	False	False
+Homaloptera leonardi	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Homatula variegatus	NA	NA	subtropical	freshwater demersal	NA	NA	False	False	False
+Hoplias malabaricus	20.0	26.0	tropical	freshwater benthopelagic potamodromous	NA	NA	True	False	True
+Hoplostethus japonicus	NA	NA	NA	bathypelagic marine deep-water	336	605	False	False	False
+Hoplunnis punctata	NA	NA	NA	marine demersal deep-water	NA	NA	False	False	False
+Horadandia atukorali	24.0	26.0	tropical	pelagic freshwater brackish	NA	NA	False	False	False
+Hucho bleekeri	NA	NA	subtropical	freshwater benthopelagic potamodromous	NA	NA	False	False	False
+Hucho taimen	NA	NA	temperate	freshwater benthopelagic potamodromous	NA	NA	False	False	False
+Huso huso	10.0	20.0	temperate	anadromous freshwater marine brackish demersal	70	180	False	False	False
+Hydrolycus scomberoides	24.0	28.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Hypentelium nigricans	NA	NA	temperate	freshwater demersal potamodromous	NA	NA	False	False	False
+Hyperlophus vittatus	NA	NA	temperate	amphidromous marine brackish pelagic-neritic	10	13	False	False	False
+Hyperoglyphe japonica	NA	NA	temperate	benthopelagic oceanodromous marine	150	400	False	False	False
+Hyperopisus bebe	22.0	24.0	tropical	freshwater brackish potamodromous demersal	NA	NA	False	False	False
+Hypoatherina tsurugae	NA	NA	temperate	marine pelagic-neritic	NA	NA	False	False	False
+Hypomesus nipponensis	NA	NA	temperate	pelagic anadromous freshwater brackish	NA	NA	False	False	False
+Hypophthalmichthys molitrix	6.0	28.0	subtropical	freshwater benthopelagic potamodromous	0	20	False	False	False
+Hypophthalmichthys nobilis	4.0	26.0	temperate	freshwater benthopelagic potamodromous	5	NA	False	False	False
+Hypoplectrus gemma	NA	NA	tropical	reef-associated marine	NA	NA	False	False	False
+Hypoptychus dybowskii	NA	NA	temperate	benthopelagic marine	NA	NA	False	False	False
+Hyporhamphus sajori	NA	NA	temperate	amphidromous freshwater marine brackish pelagic-neritic	30	NA	False	False	False
+Hyporthodus octofasciatus	NA	NA	NA	bathydemersal marine deep-water	150	300	False	False	False
+Hypselecara temporalis	25.0	30.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Icichthys lockingtoni	NA	NA	subtropical	pelagic-oceanic marine	0	900	False	False	False
+Icosteus aenigmaticus	NA	NA	NA	bathypelagic marine deep-water	0	1420	False	False	False
+Ictalurus punctatus	10.0	32.0	subtropical	freshwater benthopelagic	15	NA	True	False	False
+Ictiobus bubalus	NA	32.0	temperate	freshwater demersal	NA	NA	False	False	False
+Ijimaia dofleini	NA	NA	NA	bathydemersal marine deep-water	NA	1281	False	False	False
+Ilisha africana	NA	NA	tropical	marine brackish pelagic-neritic	0	25	False	False	False
+Ilisha elongata	NA	NA	tropical	marine brackish pelagic-neritic	5	NA	False	False	False
+Ilyophis brunneus	3.0	5.0	NA	bathypelagic marine deep-water	450	3120	False	False	False
+Indostomus paradoxus	24.0	28.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Ischikauia steenackeri	NA	NA	temperate	freshwater demersal	NA	NA	False	False	False
+Isichthys henryi	22.0	24.0	tropical	freshwater demersal	NA	NA	False	False	False
+Iso hawaiiensis	NA	NA	tropical	reef-associated marine	0	2	False	False	False
+Istiophorus albicans	21.0	28.0	subtropical	pelagic-oceanic oceanodromous marine	0	200	False	False	False
+Istiophorus platypterus	NA	NA	subtropical	pelagic-oceanic oceanodromous marine	0	200	False	False	False
+Ivindomyrus marchei	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Jenkinsia lamprotaenia	NA	NA	subtropical	reef-associated marine	0	50	False	False	False
+Johnius belangerii	NA	NA	tropical	amphidromous marine brackish demersal	NA	40	False	False	False
+Johnius grypotus	NA	NA	tropical	benthopelagic marine	NA	NA	False	False	False
+Jordanella floridae	18.0	22.0	subtropical	freshwater benthopelagic brackish non-migratory	NA	NA	False	False	False
+Kali indica	NA	NA	NA	bathypelagic marine deep-water	1000	3300	False	False	False
+Kareius bicoloratus	NA	NA	temperate	oceanodromous freshwater marine brackish demersal	NA	150	False	False	False
+Katsuwonus pelamis	15.0	30.0	tropical	pelagic-oceanic oceanodromous marine	0	260	True	True	True
+Kaupichthys hyoproroides	NA	NA	subtropical	reef-associated marine	1	95	False	False	False
+Kentrocapros aculeatus	NA	NA	temperate	benthopelagic marine	100	200	False	False	False
+Konosirus punctatus	NA	NA	subtropical	oceanodromous marine brackish pelagic-neritic	NA	NA	False	False	False
+Koreocobitis naktongensis	NA	NA	subtropical	freshwater demersal	NA	NA	False	False	False
+Koreocobitis rotundicaudata	NA	NA	temperate	freshwater demersal	NA	NA	False	False	False
+Krefftichthys anderssoni	NA	NA	NA	bathypelagic marine deep-water oceanodromous	NA	2700	False	False	False
+Kuhlia mugil	NA	NA	tropical	reef-associated marine brackish	3	18	False	False	False
+Kurtus gulliveri	20.0	28.0	tropical	freshwater benthopelagic brackish	NA	NA	False	False	False
+Kyphosus cinerascens	NA	NA	tropical	reef-associated marine	1	45	False	False	False
+Labeo bata	NA	NA	tropical	freshwater benthopelagic potamodromous	NA	NA	False	False	False
+Labeo batesii	NA	NA	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Labeo calbasu	NA	NA	tropical	freshwater brackish potamodromous demersal	10	10	True	False	False
+Labeo rohita	NA	NA	tropical	freshwater benthopelagic brackish potamodromous	5	NA	True	False	True
+Labeo senegalensis	22.0	26.0	tropical	freshwater benthopelagic potamodromous	NA	NA	False	False	False
+Labichthys carinatus	NA	NA	NA	bathypelagic marine deep-water	0	2000	False	False	False
+Labracinus cyclophthalmus	22.0	26.0	tropical	reef-associated marine	2	20	False	False	False
+Labracoglossa argentiventris	NA	NA	temperate	reef-associated marine	NA	NA	False	False	False
+Lactoria diaphana	NA	NA	subtropical	reef-associated marine brackish	8	50	False	False	False
+Lagocephalus laevigatus	NA	NA	subtropical	marine brackish pelagic-neritic	10	180	False	False	False
+Lagocephalus lagocephalus	NA	NA	subtropical	benthopelagic oceanodromous marine	10	476	False	False	False
+Lagocephalus lunaris	NA	NA	tropical	oceanodromous marine brackish demersal	NA	NA	False	False	False
+Lagocephalus sceleratus	NA	NA	tropical	reef-associated marine	18	100	False	False	False
+Lagocephalus wheeleri	NA	NA	temperate	marine demersal	NA	NA	False	False	False
+Lampadena atlantica	NA	NA	NA	bathypelagic marine deep-water oceanodromous	60	1000	False	False	False
+Lampadena yaquinae	NA	NA	NA	bathypelagic marine deep-water	100	900	False	False	False
+Lampanyctus crocodilus	NA	NA	NA	bathypelagic marine deep-water oceanodromous	0	1192	False	False	False
+Lampanyctus macdonaldi	NA	NA	NA	bathypelagic marine deep-water oceanodromous	60	1464	False	False	False
+Lampris guttatus	NA	NA	NA	bathypelagic marine deep-water oceanodromous	100	500	False	False	False
+Lamprogrammus niger	NA	NA	NA	bathypelagic marine deep-water	741	2000	False	False	False
+Larimichthys crocea	NA	NA	temperate	benthopelagic oceanodromous marine brackish	10	NA	False	False	False
+Larimichthys polyactis	NA	NA	subtropical	benthopelagic oceanodromous marine	NA	120	False	False	False
+Lateolabrax japonicus	NA	NA	subtropical	catadromous reef-associated freshwater marine brackish	5	NA	False	False	False
+Lates calcarifer	15.0	28.0	tropical	catadromous freshwater marine brackish demersal	10	40	False	False	False
+Lebiasina astrigata	22.0	26.0	tropical	freshwater demersal	NA	NA	False	False	False
+Lefua echigonia	NA	NA	temperate	freshwater demersal	NA	NA	False	False	False
+Leiocassis crassilabris	15.0	25.0	subtropical	freshwater demersal	NA	NA	False	False	False
+Leiocassis longirostris	NA	NA	temperate	freshwater demersal	NA	NA	False	False	False
+Lepidocybium flavobrunneum	NA	NA	NA	benthopelagic oceanodromous marine deep-water	200	1100	False	False	False
+Lepisosteus oculatus	12.0	20.0	temperate	freshwater brackish demersal	NA	NA	False	False	False
+Lepisosteus osseus	12.0	20.0	temperate	freshwater brackish demersal	0	NA	False	False	False
+Lepomis cyanellus	18.0	32.0	subtropical	freshwater benthopelagic	NA	NA	True	False	False
+Lepomis macrochirus	1.0	36.0	subtropical	freshwater benthopelagic	NA	NA	True	False	False
+Leporinus affinis	23.0	27.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Leptobarbus hoevenii	23.0	26.0	tropical	pelagic freshwater potamodromous	3	NA	False	False	False
+Leptobotia elongata	22.0	28.0	subtropical	freshwater demersal	NA	NA	False	False	False
+Leptobotia mantschurica	16.0	20.0	temperate	freshwater demersal non-migratory	NA	NA	False	False	False
+Leptochilichthys agassizii	NA	NA	NA	bathypelagic marine deep-water	2000	3100	False	False	False
+Leptoderma lubricum	NA	NA	NA	bathypelagic marine deep-water	0	1700	False	False	False
+Leptoderma macrophthalmum	NA	NA	NA	bathydemersal marine deep-water	2063	2107	False	False	False
+Leptoderma retropinna	NA	NA	NA	bathypelagic marine deep-water	600	1100	False	False	False
+Lethrinus obsoletus	NA	NA	tropical	reef-associated marine non-migratory	NA	30	False	False	False
+Leucaspius delineatus	2.0	32.0	temperate	pelagic freshwater brackish potamodromous	0	1	True	True	False
+Leuciscus waleckii	10.0	20.0	temperate	freshwater benthopelagic potamodromous	NA	NA	False	False	False
+Linophryne bicornis	NA	NA	NA	bathypelagic marine deep-water	NA	NA	False	False	False
+Liobagrus anguillicauda	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Liobagrus kingi	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Liobagrus marginatoides	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Liobagrus nigricauda	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Liobagrus obesus	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Liobagrus reinii	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Lipolagus ochotensis	NA	NA	NA	bathypelagic marine deep-water	0	6100	True	False	False
+Liza affinis	NA	NA	subtropical	marine brackish pelagic-neritic	NA	NA	False	False	False
+Lobianchia gemellarii	NA	NA	NA	bathypelagic marine deep-water oceanodromous	25	800	False	False	False
+Lophiodes caulinaris	NA	NA	NA	marine demersal deep-water	15	311	False	False	False
+Lophiogobius ocellicauda	NA	NA	temperate	freshwater demersal	NA	NA	False	False	False
+Lophiomus setigerus	NA	NA	tropical	marine demersal	30	800	False	False	False
+Lophius americanus	NA	NA	temperate	oceanodromous marine demersal	0	668	False	False	False
+Lota lota	4.0	18.0	temperate	freshwater brackish potamodromous demersal	1	700	True	False	True
+Luciobarbus capito	NA	NA	temperate	freshwater benthopelagic brackish	NA	NA	False	False	False
+Luciogobius platycephalus	NA	NA	temperate	marine demersal	NA	NA	False	False	False
+Luciosoma bleekeri	NA	NA	tropical	pelagic freshwater	NA	NA	False	False	False
+Luciosoma setigerum	NA	NA	tropical	pelagic freshwater	NA	NA	False	False	False
+Lutjanus argentimaculatus	16.0	30.0	subtropical	reef-associated freshwater marine brackish oceanodromous	10	120	False	False	False
+Lutjanus bengalensis	NA	NA	tropical	reef-associated marine	10	30	False	False	False
+Lutjanus erythropterus	NA	NA	tropical	reef-associated marine	5	100	False	False	False
+Lutjanus kasmira	20.0	28.0	tropical	reef-associated marine	3	265	False	False	False
+Lutjanus malabaricus	NA	NA	tropical	reef-associated marine	12	100	False	False	False
+Lutjanus rivulatus	NA	NA	tropical	reef-associated marine	50	100	False	False	False
+Lutjanus russellii	NA	NA	tropical	reef-associated marine brackish	10	80	False	False	False
+Lutjanus sebae	NA	NA	tropical	reef-associated marine brackish	5	180	False	False	False
+Luvarus imperialis	NA	NA	subtropical	pelagic-oceanic oceanodromous marine	0	200	False	False	False
+Lycengraulis grossidens	NA	NA	subtropical	anadromous freshwater marine brackish pelagic-neritic	NA	40	False	False	False
+Lycodes toyamensis	NA	NA	temperate	marine demersal	NA	NA	False	False	False
+Lycothrissa crocodilus	NA	NA	tropical	pelagic freshwater brackish potamodromous	NA	NA	False	False	False
+Macrochirichthys macrochirus	NA	NA	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Macroramphosus scolopax	NA	NA	subtropical	marine demersal	25	600	False	False	False
+Macrorhamphosodes uradoi	NA	NA	tropical	marine demersal	50	675	False	False	False
+Makaira indica	15.0	30.0	subtropical	pelagic-oceanic oceanodromous marine	0	915	False	True	False
+Makaira mazara	21.0	NA	subtropical	pelagic-oceanic oceanodromous marine	0	200	False	False	False
+Malapterurus electricus	23.0	30.0	tropical	freshwater benthopelagic potamodromous	NA	NA	False	False	False
+Mallotus villosus	NA	NA	polar	pelagic-oceanic freshwater marine brackish anadromous	0	725	False	False	False
+Malthopsis jordani	NA	NA	NA	bathydemersal marine deep-water	185	520	False	False	False
+Marcusenius senegalensis	NA	NA	tropical	freshwater demersal potamodromous	NA	NA	False	False	False
+Marilyna darwinii	NA	NA	tropical	marine brackish demersal	NA	NA	False	False	False
+Mastacembelus favus	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Masturus lanceolatus	NA	NA	NA	bathypelagic marine brackish deep-water	NA	670	False	False	False
+Maulisia mauli	NA	NA	NA	bathypelagic marine deep-water	400	1200	False	False	False
+Megalobrama amblycephala	10.0	20.0	temperate	freshwater benthopelagic	5	20	False	False	False
+Megalobrama terminalis	10.0	24.0	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Megalops atlanticus	NA	NA	subtropical	amphidromous reef-associated freshwater marine brackish	0	30	False	False	False
+Megalops cyprinoides	22.0	24.0	tropical	amphidromous benthopelagic freshwater marine brackish	50	NA	False	False	False
+Melanocetus johnsoni	NA	NA	NA	bathypelagic marine deep-water	100	4500	True	False	False
+Melanocetus murrayi	NA	NA	NA	bathypelagic marine deep-water	100	6370	False	False	False
+Melanogrammus aeglefinus	NA	NA	temperate	oceanodromous marine demersal	10	450	True	True	False
+Melanotaenia lacustris	20.0	24.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Melichthys vidua	NA	NA	tropical	reef-associated marine	4	60	False	False	False
+Mene maculata	NA	NA	tropical	reef-associated marine brackish	50	200	False	False	False
+Menidia menidia	1.0	33.0	temperate	oceanodromous marine brackish pelagic-neritic	0	3	False	False	False
+Merlangius merlangus	NA	NA	temperate	benthopelagic oceanodromous marine	10	200	False	True	True
+Merluccius merluccius	NA	NA	temperate	marine demersal	30	1075	False	True	False
+Mesocottus haitej	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Metzia formosae	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Meuschenia hippocrepis	NA	NA	temperate	marine demersal	NA	120	False	False	False
+Microcanthus strigatus	NA	NA	tropical	reef-associated oceanodromous marine brackish	1	140	False	False	False
+Microdevario nana	NA	NA	tropical	freshwater benthopelagic brackish	NA	NA	False	False	False
+Micromesistius poutassou	NA	NA	temperate	bathypelagic marine oceanodromous	150	3000	False	False	False
+Micropercops swinhonis	18.0	22.0	subtropical	freshwater demersal	NA	NA	False	False	False
+Microphis brachyurus	NA	NA	tropical	anadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Microphysogobio alticorpus	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Microphysogobio brevirostris	NA	NA	subtropical	freshwater benthopelagic	1	5	False	False	False
+Microphysogobio koreensis	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Microphysogobio longidorsalis	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Micropterus dolomieu	10.0	30.0	temperate	freshwater benthopelagic	NA	NA	False	False	True
+Micropterus floridanus	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Micropterus salmoides	10.0	32.0	subtropical	freshwater benthopelagic	NA	7	True	True	False
+Microrasbora erythromicron	21.0	25.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Microthrissa congica	NA	NA	tropical	pelagic freshwater	NA	NA	False	False	False
+Microthrissa royauxi	NA	NA	tropical	pelagic freshwater	NA	NA	False	False	False
+Miichthys miiuy	NA	NA	temperate	oceanodromous marine brackish demersal	15	100	False	False	False
+Minytrema melanops	NA	NA	subtropical	freshwater demersal	NA	NA	False	False	False
+Misgurnus anguillicaudatus	5.0	25.0	subtropical	freshwater demersal	5	NA	False	False	False
+Misgurnus nikolskyi	NA	NA	temperate	freshwater demersal	NA	NA	False	False	False
+Mola mola	12.0	25.0	subtropical	pelagic-oceanic oceanodromous marine	30	480	False	False	True
+Monacanthus chinensis	NA	NA	tropical	reef-associated marine	3	12	False	False	False
+Monocentris japonicus	NA	NA	tropical	reef-associated marine	10	200	False	False	False
+Monodactylus argenteus	24.0	28.0	tropical	freshwater marine brackish pelagic-neritic	NA	NA	False	False	False
+Monognathus jesperseni	NA	NA	NA	bathypelagic marine deep-water	NA	3000	False	False	False
+Monopterus albus	25.0	28.0	tropical	freshwater brackish potamodromous demersal	3	NA	False	False	False
+Monotrete cochinchinensis	24.0	28.0	tropical	freshwater demersal	NA	NA	False	False	False
+Moolgarda cunnesius	NA	NA	tropical	catadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Moringua edwardsi	NA	NA	subtropical	reef-associated marine brackish	NA	NA	False	False	False
+Moringua microchir	NA	NA	tropical	reef-associated marine brackish	3	20	False	False	False
+Mormyrops anguilloides	22.0	24.0	tropical	freshwater demersal potamodromous	NA	NA	False	False	False
+Mormyrus rume	NA	NA	tropical	freshwater demersal potamodromous	NA	NA	False	False	False
+Morone saxatilis	8.0	25.0	temperate	anadromous freshwater marine brackish demersal	30	NA	True	True	True
+Moxostoma congestum	NA	NA	subtropical	freshwater demersal	NA	NA	False	False	False
+Moxostoma poecilurum	NA	NA	temperate	freshwater demersal	NA	NA	False	False	False
+Mugil cephalus	8.0	24.0	subtropical	benthopelagic freshwater marine brackish catadromous	0	120	True	True	True
+Mugil curema	NA	NA	subtropical	catadromous reef-associated freshwater marine brackish	15	NA	True	False	False
+Muraenesox bagio	NA	NA	tropical	oceanodromous marine brackish demersal	NA	100	False	False	False
+Myctophum affine	NA	NA	NA	bathypelagic marine brackish deep-water oceanodromous	0	600	False	False	False
+Myctophum asperum	NA	NA	NA	bathypelagic marine deep-water oceanodromous	0	750	False	False	False
+Myctophum nitidulum	NA	NA	NA	bathypelagic marine deep-water oceanodromous	0	1000	False	False	False
+Myctophum orientale	NA	NA	NA	bathypelagic marine deep-water	NA	NA	False	False	False
+Myctophum punctatum	NA	NA	NA	bathypelagic marine deep-water oceanodromous	0	1000	False	False	False
+Mylocheilus caurinus	NA	NA	temperate	freshwater brackish demersal	NA	NA	False	False	False
+Mylopharyngodon piceus	NA	40.0	subtropical	freshwater demersal potamodromous	5	30	False	True	False
+Myomyrus macrops	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Myrichthys maculosus	NA	NA	tropical	reef-associated marine	0	262	False	False	False
+Myripristis berndti	NA	NA	tropical	reef-associated marine	1	50	False	False	False
+Myroconger compressus	NA	NA	tropical	marine demersal	NA	NA	False	False	False
+Myxocyprinus asiaticus	15.0	28.0	subtropical	freshwater demersal potamodromous	NA	NA	False	False	False
+Myxus capensis	NA	NA	subtropical	catadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Nannobrachium ritteri	NA	NA	NA	bathypelagic marine deep-water	20	1095	True	False	False
+Nannoperca australis	10.0	30.0	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Nannoperca obscura	10.0	30.0	temperate	freshwater benthopelagic brackish	NA	NA	False	False	False
+Nansenia ardesiaca	NA	NA	NA	bathydemersal marine deep-water	260	553	False	False	False
+Narcetes erimelas	NA	NA	NA	bathypelagic marine deep-water	1300	2600	False	False	False
+Narcetes stomias	NA	NA	NA	bathypelagic marine deep-water	1500	2300	False	False	False
+Naso lopezi	NA	NA	tropical	reef-associated marine	6	20	False	False	False
+Nealotus tripes	NA	NA	NA	bathypelagic marine deep-water oceanodromous	914	1646	False	False	False
+Nelusetta ayraudi	NA	NA	subtropical	marine demersal	0	360	False	False	False
+Nematalosa come	NA	NA	tropical	marine pelagic-neritic	10	13	False	False	False
+Nematalosa japonica	NA	NA	tropical	benthopelagic marine	NA	NA	False	False	False
+Nemichthys scolopaceus	NA	NA	NA	bathypelagic marine deep-water	0	3656	False	False	False
+Neoceratias spinifer	NA	NA	NA	marine demersal deep-water	0	1200	False	False	False
+Neocyttus rhomboidalis	NA	NA	NA	bathypelagic marine deep-water oceanodromous	200	1240	False	False	False
+Neolamprologus brichardi	22.0	25.0	tropical	freshwater benthopelagic	NA	NA	True	False	False
+Neosalanx taihuensis	NA	NA	subtropical	freshwater demersal	NA	NA	False	False	False
+Neoscopelus macrolepidotus	NA	NA	NA	bathypelagic marine non-migratory deep-water	300	1180	False	False	False
+Neoscopelus microchir	NA	NA	NA	bathypelagic marine deep-water	250	700	False	False	False
+Nesiarchus nasutus	NA	NA	NA	benthopelagic marine deep-water	200	1200	False	False	False
+Nessorhamphus ingolfianus	NA	NA	NA	bathypelagic marine deep-water	0	1800	False	False	False
+Nettastoma parviceps	NA	NA	NA	benthopelagic marine deep-water	60	1190	False	False	False
+Nibea albiflora	NA	NA	temperate	benthopelagic marine	25	80	False	False	False
+Nicholsicypris normalis	NA	NA	subtropical	freshwater benthopelagic brackish	NA	NA	False	False	False
+Nimbochromis linni	23.0	25.0	tropical	freshwater demersal	2	61	False	False	False
+Niwaella delicata	NA	NA	temperate	freshwater demersal	NA	NA	False	False	False
+Normichthys operosus	NA	NA	NA	bathypelagic marine deep-water	NA	1000	False	False	False
+Notacanthus chemnitzi	2.0	4.0	NA	benthopelagic marine deep-water	125	3285	False	False	False
+Notemigonus crysoleucas	NA	35.0	temperate	freshwater demersal	10	NA	True	False	False
+Nothobranchius furzeri	23.0	30.0	tropical	freshwater benthopelagic non-migratory	NA	NA	False	False	False
+Notolychnus valdiviae	NA	NA	NA	bathypelagic marine deep-water oceanodromous	25	700	False	False	False
+Notopterus notopterus	24.0	28.0	tropical	freshwater brackish potamodromous demersal	NA	NA	False	False	False
+Notoscopelus caudispinosus	NA	NA	NA	bathypelagic marine deep-water oceanodromous	0	NA	False	False	False
+Notoscopelus elongatus	NA	NA	subtropical	pelagic-oceanic oceanodromous marine	45	1000	False	False	False
+Notoscopelus japonicus	NA	NA	NA	bathypelagic marine deep-water	0	785	False	False	False
+Notoscopelus kroyeri	NA	NA	temperate	pelagic-oceanic oceanodromous marine	0	1000	False	False	False
+Notothenia coriiceps	NA	NA	polar	marine demersal	0	550	True	False	False
+Notropis stramineus	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Novumbra hubbsi	4.0	25.0	temperate	freshwater demersal	NA	NA	False	False	False
+Odax cyanomelas	NA	NA	subtropical	marine pelagic-neritic	1	15	False	False	False
+Odaxothrissa losera	NA	NA	tropical	pelagic freshwater	NA	NA	False	False	False
+Odontamblyopus rubicundus	20.0	30.0	subtropical	amphidromous benthopelagic marine brackish	NA	NA	False	False	False
+Odontobutis platycephala	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Odonus niger	NA	NA	tropical	reef-associated oceanodromous marine	5	40	False	False	False
+Oedalechilus labeo	NA	NA	subtropical	marine brackish demersal	NA	NA	False	False	False
+Omegophora armilla	NA	NA	temperate	marine demersal	NA	146	False	False	False
+Oncorhynchus clarkii	NA	23.0	temperate	anadromous freshwater marine brackish demersal	0	200	False	False	False
+Oncorhynchus gorbuscha	NA	21.0	subtropical	anadromous freshwater marine brackish demersal	0	250	False	True	False
+Oncorhynchus keta	NA	24.0	temperate	benthopelagic freshwater marine brackish anadromous	0	250	False	False	False
+Oncorhynchus kisutch	NA	25.0	temperate	anadromous freshwater marine brackish demersal	0	250	True	True	False
+Oncorhynchus masou	NA	NA	temperate	benthopelagic freshwater marine brackish anadromous	0	200	False	False	False
+Oncorhynchus mykiss	10.0	24.0	subtropical	benthopelagic freshwater marine brackish anadromous	0	200	True	True	True
+Oncorhynchus nerka	NA	25.0	temperate	pelagic-oceanic freshwater marine brackish anadromous	0	250	True	True	False
+Oncorhynchus tshawytscha	NA	25.0	temperate	benthopelagic freshwater marine brackish anadromous	0	375	True	True	False
+Oneirodes thompsoni	2.0	4.0	NA	bathypelagic marine deep-water	100	2014	False	False	False
+Onychostoma alticorpus	NA	NA	subtropical	freshwater benthopelagic	0	10	False	False	False
+Onychostoma barbatulum	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Onychostoma barbatum	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Onychostoma lini	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Onychostoma simum	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Ophisurus macrorhynchos	NA	NA	temperate	marine demersal	NA	NA	False	False	False
+Opisthoproctus soleatus	NA	NA	NA	bathypelagic marine deep-water	300	800	False	False	False
+Opistognathus jacksoniensis	22.0	28.0	subtropical	reef-associated marine	20	NA	False	False	False
+Oplegnathus fasciatus	NA	NA	temperate	reef-associated marine	1	10	False	False	False
+Oplegnathus punctatus	NA	NA	tropical	reef-associated oceanodromous marine	3	135	False	False	False
+Opsariichthys bidens	10.0	20.0	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Opsariichthys uncirostris	10.0	22.0	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Oreochromis aureus	8.0	30.0	tropical	freshwater benthopelagic brackish potamodromous	5	NA	True	False	False
+Oreochromis mossambicus	17.0	35.0	tropical	amphidromous freshwater benthopelagic brackish	1	12	True	False	False
+Oreochromis niloticus	14.0	33.0	tropical	freshwater benthopelagic brackish potamodromous	0	6	True	False	True
+Oreoglanis macropterus	NA	NA	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Oreoleuciscus potanini	10.0	20.0	temperate	freshwater demersal	NA	NA	False	False	False
+Oryzias celebensis	22.0	30.0	tropical	freshwater benthopelagic non-migratory	NA	NA	False	False	False
+Oryzias dancena	NA	NA	tropical	freshwater benthopelagic brackish	NA	NA	False	False	False
+Oryzias javanicus	22.0	25.0	tropical	freshwater benthopelagic brackish non-migratory	NA	NA	False	False	False
+Oryzias latipes	18.0	24.0	subtropical	amphidromous freshwater benthopelagic brackish	NA	NA	True	False	False
+Oryzias luzonensis	NA	NA	tropical	freshwater benthopelagic non-migratory	NA	NA	False	False	False
+Oryzias marmoratus	22.0	25.0	tropical	freshwater benthopelagic non-migratory	NA	NA	False	False	False
+Oryzias melastigma	NA	NA	tropical	freshwater benthopelagic brackish	NA	NA	False	False	False
+Oryzias minutillus	22.0	25.0	tropical	freshwater benthopelagic non-migratory	NA	NA	False	False	False
+Oryzias sarasinorum	24.0	29.0	tropical	pelagic freshwater	NA	NA	False	False	False
+Oryzias sinensis	NA	NA	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Osmerus mordax	NA	NA	temperate	pelagic-oceanic freshwater marine brackish anadromous	0	425	False	False	False
+Osteochilus salsburyi	NA	NA	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Osteoglossum bicirrhosum	24.0	30.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Ostichthys japonicus	NA	NA	tropical	reef-associated marine	NA	NA	False	False	False
+Ostracion immaculatus	NA	NA	temperate	marine demersal	NA	NA	False	False	False
+Oxuderces dentatus	NA	NA	tropical	amphidromous freshwater brackish demersal	NA	NA	False	False	False
+Oxymonacanthus longirostris	NA	NA	tropical	reef-associated marine non-migratory	4	30	False	False	False
+Oxyurichthys formosanus	NA	NA	tropical	amphidromous marine brackish demersal	NA	NA	False	False	False
+Paedocypris progenetica	NA	NA	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Pagellus bogaraveo	NA	NA	temperate	benthopelagic marine	NA	700	False	False	False
+Pagrus auriga	NA	NA	subtropical	benthopelagic oceanodromous marine	NA	170	False	False	False
+Pagrus major	NA	NA	subtropical	oceanodromous marine demersal	10	200	False	False	True
+Pampus punctatissimus	NA	NA	subtropical	benthopelagic marine	NA	NA	False	False	False
+Pangasianodon gigas	NA	NA	tropical	freshwater benthopelagic potamodromous	NA	NA	False	False	False
+Pangasianodon hypophthalmus	22.0	26.0	tropical	freshwater benthopelagic potamodromous	NA	NA	False	False	False
+Pangasius larnaudii	NA	NA	tropical	freshwater benthopelagic potamodromous	NA	NA	False	False	False
+Pangio anguillaris	24.0	26.0	tropical	freshwater demersal	NA	NA	False	False	False
+Pantodon buchholzi	23.0	30.0	tropical	pelagic freshwater potamodromous	NA	NA	False	False	False
+Papyrocranus congoensis	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Parabramis pekinensis	10.0	20.0	temperate	amphidromous freshwater benthopelagic	NA	NA	False	False	False
+Parachanna insignis	22.0	28.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Paracheirodon innesi	20.0	26.0	tropical	pelagic freshwater	NA	NA	False	False	False
+Paracirrhites arcatus	25.0	27.0	tropical	reef-associated marine	1	91	False	False	False
+Paraconger notialis	NA	NA	tropical	marine demersal	25	50	False	False	False
+Parahucho perryi	NA	NA	temperate	benthopelagic freshwater marine brackish anadromous	0	100	False	False	False
+Parajulis poecilepterus	NA	NA	subtropical	marine demersal	NA	NA	False	False	False
+Parakneria cameronensis	NA	NA	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Paralaubuca typus	NA	NA	tropical	freshwater benthopelagic potamodromous	NA	NA	False	False	False
+Paralichthys olivaceus	NA	NA	subtropical	oceanodromous marine demersal	10	200	False	False	False
+Paraluteres prionurus	NA	NA	tropical	reef-associated marine non-migratory	1	25	False	False	False
+Paramonacanthus choirocephalus	NA	NA	tropical	marine demersal	NA	8	False	False	False
+Paramormyrops gabonensis	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Paraplagusia japonica	NA	NA	tropical	marine demersal	20	65	False	False	False
+Parapristipoma trilineatum	NA	NA	subtropical	benthopelagic oceanodromous marine	NA	NA	False	False	False
+Pararasbora moltrechti	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Parargyrops edita	NA	NA	subtropical	freshwater brackish demersal	NA	NA	False	False	False
+Parataeniophorus gulosus	NA	NA	NA	bathypelagic marine deep-water	0	1400	False	False	False
+Paratilapia polleni	24.0	28.0	tropical	freshwater demersal	NA	NA	False	False	False
+Parazen pacificus	NA	NA	NA	bathydemersal marine deep-water	145	500	False	False	False
+Paretroplus maculatus	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Pareuchiloglanis gracilicaudata	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Pareutropius debauwi	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Pegasus volitans	NA	NA	tropical	marine brackish demersal	1	73	False	False	False
+Pelagocephalus marki	NA	NA	temperate	marine demersal	NA	NA	False	False	False
+Pelecus cultratus	10.0	20.0	temperate	pelagic anadromous freshwater brackish	20	NA	False	False	False
+Pellona ditchela	NA	NA	tropical	anadromous freshwater marine brackish pelagic-neritic	10	55	False	False	False
+Pellona flavipinnis	NA	NA	subtropical	pelagic freshwater brackish	NA	NA	False	False	False
+Pellonula leonensis	NA	NA	tropical	anadromous freshwater marine brackish pelagic-neritic	NA	NA	False	False	False
+Pellonula vorax	NA	NA	tropical	anadromous freshwater marine brackish pelagic-neritic	NA	NA	False	False	False
+Pelteobagrus eupogon	NA	NA	temperate	freshwater demersal	NA	NA	False	False	False
+Pelteobagrus fulvidraco	16.0	25.0	temperate	freshwater demersal non-migratory	NA	NA	False	False	False
+Pelteobagrus nitidus	NA	NA	temperate	freshwater demersal	NA	NA	False	False	False
+Pelteobagrus vachellii	NA	NA	subtropical	freshwater demersal	NA	NA	False	False	False
+Pennahia argentata	NA	NA	temperate	benthopelagic oceanodromous marine	20	140	False	False	False
+Pentaceros japonicus	NA	NA	subtropical	benthopelagic marine	100	830	False	False	False
+Peprilus triacanthus	NA	NA	subtropical	benthopelagic oceanodromous marine brackish	15	420	False	False	False
+Perca flavescens	NA	30.0	temperate	freshwater benthopelagic brackish	NA	56	True	False	False
+Perccottus glenii	15.0	30.0	temperate	freshwater brackish demersal	NA	NA	False	False	False
+Percina macrolepida	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Percocypris pingi	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Percopsis transmontana	NA	NA	temperate	freshwater demersal	NA	NA	False	False	False
+Pervagor janthinosoma	NA	NA	tropical	reef-associated marine	8	20	False	False	False
+Petrocephalus microphthalmus	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Petrocephalus soudanensis	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Petrochromis trewavasae	23.0	25.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Petroscirtes breviceps	22.0	28.0	tropical	reef-associated oceanodromous marine	NA	10	False	False	False
+Petrotilapia nigra	NA	NA	tropical	freshwater demersal	3	30	False	False	False
+Phenacobius mirabilis	5.0	25.0	subtropical	freshwater demersal	NA	NA	False	False	False
+Phenacogrammus interruptus	23.0	26.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Pholis crassispina	NA	NA	temperate	marine demersal	0	5	False	False	False
+Phoxinus eos	NA	NA	temperate	freshwater demersal	NA	NA	False	False	False
+Phoxinus oxycephalus	10.0	20.0	temperate	freshwater demersal	NA	NA	False	False	False
+Phoxinus percnurus	15.0	23.0	subtropical	freshwater benthopelagic non-migratory	NA	NA	False	False	False
+Phoxinus perenurus	15.0	23.0	subtropical	freshwater benthopelagic non-migratory	NA	NA	False	False	False
+Phoxinus phoxinus	2.0	20.0	temperate	freshwater brackish potamodromous demersal	NA	NA	False	False	False
+Phoxinus steindachneri	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Phractolaemus ansorgii	25.0	30.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Physiculus japonicus	NA	NA	NA	bathydemersal marine deep-water	150	350	False	False	False
+Pimelodus pictus	22.0	25.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Plagiognathops microlepis	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Platax orbicularis	22.0	28.0	tropical	reef-associated marine brackish	5	30	False	False	False
+Platichthys stellatus	NA	NA	polar	catadromous freshwater marine brackish demersal	0	375	True	False	False
+Platycephalus indicus	NA	NA	subtropical	reef-associated oceanodromous marine brackish	20	200	False	False	False
+Platytroctes apus	NA	NA	NA	bathypelagic marine deep-water	385	5393	False	False	False
+Plecoglossus altivelis	NA	NA	subtropical	amphidromous freshwater marine brackish demersal	10	NA	True	False	False
+Plectropomus areolatus	NA	NA	tropical	reef-associated marine	1	20	False	False	False
+Plectropomus leopardus	24.0	NA	tropical	reef-associated oceanodromous marine	3	100	False	False	False
+Pleuragramma antarcticum	NA	2.0	polar	pelagic-oceanic marine	0	728	False	False	False
+Pleuronichthys cornutus	NA	NA	temperate	marine demersal	2	170	False	False	False
+Plotosus japonicus	NA	NA	temperate	benthopelagic marine	NA	NA	False	False	False
+Pollachius pollachius	NA	NA	temperate	benthopelagic oceanodromous marine	NA	200	True	False	False
+Pollachius virens	NA	NA	temperate	oceanodromous marine demersal	37	364	False	True	True
+Pollimyrus adspersus	22.0	24.0	tropical	freshwater demersal	NA	NA	False	False	False
+Polymixia japonica	NA	NA	NA	bathypelagic marine deep-water	160	628	False	False	False
+Polymixia lowei	NA	NA	NA	bathydemersal marine deep-water	50	600	False	False	False
+Polyodon spathula	10.0	18.0	temperate	freshwater demersal potamodromous	2	NA	False	False	False
+Polypterus ansorgii	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Polypterus bichir	NA	NA	tropical	freshwater demersal potamodromous	NA	NA	False	False	False
+Polypterus delhezi	26.0	28.0	tropical	freshwater demersal	NA	NA	False	False	False
+Polypterus endlicherii	NA	NA	tropical	freshwater demersal potamodromous	NA	NA	False	False	False
+Polypterus mokelembembe	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Polypterus ornatipinnis	26.0	28.0	tropical	freshwater demersal	NA	NA	False	False	False
+Polypterus palmas	26.0	28.0	tropical	freshwater demersal	NA	NA	False	False	False
+Polypterus retropinnis	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Polypterus senegalus	25.0	28.0	tropical	freshwater demersal potamodromous	NA	NA	False	False	False
+Polypterus teugelsi	25.0	27.0	tropical	freshwater demersal	NA	NA	False	False	False
+Polypterus weeksii	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Polyspina piosae	NA	NA	subtropical	benthopelagic marine	NA	NA	False	False	False
+Pomatomus saltatrix	NA	NA	subtropical	pelagic-oceanic oceanodromous marine brackish	0	200	False	False	False
+Porichthys myriaster	NA	NA	subtropical	marine demersal	0	126	False	False	False
+Poromitra oscitans	NA	NA	NA	bathypelagic marine deep-water	645	5320	False	False	False
+Potamalosa richmondia	NA	NA	temperate	catadromous freshwater marine brackish pelagic-neritic	NA	NA	False	False	False
+Potamothrissa acutirostris	NA	NA	tropical	pelagic freshwater	NA	NA	False	False	False
+Potamothrissa obtusirostris	NA	NA	tropical	pelagic freshwater	NA	NA	False	False	False
+Pristipomoides multidens	NA	NA	tropical	marine demersal	40	245	False	False	False
+Procetichthys kreffti	NA	NA	NA	bathypelagic marine deep-water	0	2200	False	False	False
+Procypris rabaudi	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Promethichthys prometheus	NA	NA	subtropical	benthopelagic oceanodromous marine	80	800	False	False	False
+Prosopium cylindraceum	NA	NA	temperate	freshwater brackish potamodromous demersal	NA	72	False	False	False
+Prosopium williamsoni	NA	23.0	temperate	freshwater benthopelagic	5	20	False	False	False
+Protoanguilla palau	NA	NA	tropical	reef-associated marine	35	NA	False	False	False
+Psenes cyanophrys	NA	NA	NA	bathypelagic marine deep-water oceanodromous	20	550	False	False	False
+Psenes pellucidus	NA	NA	NA	bathypelagic marine deep-water	NA	1000	False	False	False
+Psenopsis anomala	NA	NA	tropical	benthopelagic marine	0	370	False	False	False
+Psephurus gladius	NA	NA	subtropical	freshwater demersal potamodromous	NA	NA	False	False	False
+Psetta maxima	NA	NA	temperate	oceanodromous marine brackish demersal	20	70	True	False	False
+Psettodes erumei	NA	NA	tropical	marine demersal	1	100	False	False	False
+Pseudalutarius nasicornis	NA	NA	subtropical	reef-associated marine	1	55	False	False	False
+Pseudaspius leptocephalus	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Pseudecheneis sulcata	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Pseudexostoma yunnanensis	NA	NA	temperate	freshwater demersal	NA	NA	False	False	False
+Pseudobagrus brevicaudatus	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Pseudobagrus brevicorpus	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Pseudobagrus tokiensis	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Pseudobagrus trilineatus	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Pseudobagrus truncatus	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Pseudobagrus ussuriensis	12.0	25.0	temperate	freshwater demersal non-migratory	NA	NA	False	False	False
+Pseudobalistes flavimarginatus	NA	NA	tropical	reef-associated marine	2	50	False	False	False
+Pseudogobio esocinus	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Pseudogobius javanicus	23.0	25.0	tropical	amphidromous benthopelagic freshwater marine brackish	NA	NA	False	False	False
+Pseudohemiculter dispar	NA	NA	subtropical	freshwater benthopelagic brackish	NA	NA	False	False	False
+Pseudolabrus eoethinus	NA	NA	subtropical	reef-associated marine	NA	NA	False	False	False
+Pseudolabrus sieboldi	NA	NA	subtropical	marine demersal	NA	NA	False	False	False
+Pseudolaubuca engraulis	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Pseudomonacanthus peroni	NA	NA	tropical	reef-associated marine	NA	NA	False	False	False
+Pseudopentaceros richardsoni	NA	NA	temperate	pelagic-oceanic marine	0	1000	False	False	False
+Pseudopentaceros wheeleri	NA	NA	temperate	benthopelagic marine	146	800	False	False	False
+Pseudopungtungia nigra	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Pseudopungtungia tenuicorpus	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Pseudorasbora elongata	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Pseudorasbora parva	5.0	22.0	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Pseudorasbora pumila	15.0	20.0	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Pseudotropheus crabro	24.0	26.0	tropical	freshwater demersal	15	18	False	False	False
+Psilorhynchus homaloptera	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Psilorhynchus sucatio	15.0	23.0	subtropical	freshwater demersal	NA	NA	False	False	False
+Pteraclis aesticola	NA	NA	temperate	benthopelagic oceanodromous marine	0	100	False	False	False
+Pteragogus flagellifer	NA	NA	tropical	reef-associated marine	NA	NA	False	False	False
+Pterapogon kauderni	NA	NA	tropical	marine demersal	0	16	False	False	False
+Pterocaesio tile	NA	NA	tropical	reef-associated marine non-migratory	NA	60	False	False	False
+Pterygoplichthys disjunctivus	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Ptychochromoides katria	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Puck pinnata	NA	NA	NA	bathypelagic marine deep-water	NA	NA	False	False	False
+Pungitius kaibarae	NA	NA	temperate	benthopelagic freshwater marine brackish	NA	NA	False	False	False
+Pungitius pungitius	10.0	20.0	temperate	benthopelagic freshwater marine brackish anadromous	NA	110	False	False	False
+Pungitius sinensis	NA	NA	temperate	benthopelagic freshwater marine brackish	NA	NA	False	False	False
+Pungtungia herzi	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Puntius chalakkudiensis	NA	NA	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Puntius denisonii	15.0	25.0	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Puntius semifasciolatus	18.0	24.0	subtropical	freshwater benthopelagic	0	5	False	False	False
+Puntius snyderi	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Puntius tetrazona	20.0	26.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Puntius ticto	14.0	22.0	subtropical	freshwater benthopelagic brackish potamodromous	NA	NA	True	False	False
+Pygocentrus nattereri	23.0	27.0	subtropical	pelagic freshwater	NA	NA	True	False	False
+Pythonichthys microphthalmus	NA	NA	tropical	marine demersal	40	150	False	False	False
+Rachycentron canadum	NA	NA	subtropical	reef-associated oceanodromous marine brackish	0	1200	False	False	False
+Raiamas guttatus	NA	NA	tropical	freshwater benthopelagic potamodromous	NA	NA	False	False	False
+Raiamas senegalensis	22.0	26.0	tropical	freshwater benthopelagic potamodromous	NA	NA	False	False	False
+Ranzania laevis	NA	NA	subtropical	pelagic-oceanic marine	1	140	False	False	False
+Rasbora cephalotaenia	22.0	24.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Rasbora daniconius	24.0	26.0	tropical	freshwater benthopelagic brackish potamodromous	NA	NA	False	False	False
+Rasbora steineri	22.0	24.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Rasbora vaterifloris	25.0	29.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Rastrelliger brachysoma	20.0	30.0	tropical	oceanodromous marine brackish pelagic-neritic	15	200	False	False	False
+Rastrelliger kanagurta	17.0	NA	tropical	oceanodromous marine pelagic-neritic	20	90	False	False	False
+Reinhardtius hippoglossoides	-1.0	4.0	boreal	benthopelagic oceanodromous marine	1	2000	False	False	False
+Retropinna retropinna	NA	NA	subtropical	anadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Rexea nakamurai	NA	NA	NA	benthopelagic marine deep-water	340	370	False	False	False
+Rhamphochromis esox	23.0	27.0	tropical	freshwater demersal	2	65	False	False	False
+Rhinecanthus aculeatus	NA	NA	tropical	reef-associated marine	0	50	False	False	False
+Rhinogobius giurinus	NA	NA	subtropical	amphidromous freshwater marine brackish demersal	NA	NA	False	False	False
+Rhinomugil nasutus	NA	NA	tropical	pelagic freshwater brackish	NA	NA	False	False	False
+Rhinomuraena quaesita	NA	NA	tropical	reef-associated marine non-migratory	1	57	False	False	False
+Rhodeus ocellatus	18.0	24.0	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Rhodeus pseudosericeus	NA	NA	temperate	pelagic freshwater	NA	NA	False	False	False
+Rhodeus shitaiensis	NA	NA	subtropical	pelagic freshwater	NA	NA	False	False	False
+Rhodeus suigensis	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Rhodeus uyekii	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Rhyacichthys aspro	NA	NA	tropical	amphidromous freshwater marine brackish demersal	NA	NA	False	False	False
+Rhynchactis macrothrix	NA	NA	NA	bathypelagic marine deep-water	0	2000	False	False	False
+Rhynchocypris kumgangensis	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Rhynchocypris lagowskii	16.0	20.0	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Rhynchopelates oxyrhynchus	NA	NA	tropical	benthopelagic freshwater marine brackish	NA	NA	False	False	False
+Rinoctes nasutus	NA	NA	NA	bathypelagic marine deep-water	2000	4156	False	False	False
+Rivulus marmoratus	18.0	24.0	tropical	freshwater benthopelagic brackish non-migratory	0	NA	False	False	False
+Robinsia catherinae	NA	NA	tropical	marine demersal	140	243	False	False	False
+Rondeletia loricata	NA	NA	NA	bathypelagic marine deep-water	100	3500	False	False	False
+Rudarius ercodes	NA	NA	temperate	reef-associated oceanodromous marine	NA	NA	False	False	False
+Ruvettus pretiosus	NA	NA	subtropical	benthopelagic oceanodromous marine	100	800	False	False	False
+Saccopharynx lavenbergi	NA	NA	NA	bathypelagic marine deep-water	2000	3000	False	False	False
+Sagamichthys abei	NA	NA	NA	bathypelagic marine deep-water	37	1500	True	False	False
+Salangichthys microdon	NA	NA	polar	anadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Salanx ariakensis	NA	NA	subtropical	anadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Salarias fasciatus	NA	NA	tropical	reef-associated marine	0	8	False	False	False
+Salmo salar	2.0	9.0	temperate	benthopelagic freshwater marine brackish anadromous	0	210	True	False	False
+Salmo trutta	18.0	24.0	subtropical	anadromous freshwater marine brackish pelagic-neritic	0	NA	True	True	True
+Salmostoma bacaila	NA	NA	tropical	freshwater benthopelagic brackish potamodromous	NA	NA	False	False	False
+Salvelinus alpinus	4.0	16.0	temperate	benthopelagic freshwater marine brackish anadromous	30	70	True	False	False
+Salvelinus fontinalis	NA	25.0	temperate	anadromous freshwater marine brackish demersal	15	27	True	False	False
+Sander canadensis	NA	30.0	temperate	freshwater demersal	5	NA	False	False	False
+Sarcocheilichthys nigripinnis	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Sarcocheilichthys parvus	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Sarcocheilichthys sinensis	16.0	22.0	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Sarcocheilichthys variegatus	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Sardina pilchardus	NA	NA	subtropical	oceanodromous freshwater marine brackish pelagic-neritic	10	100	False	False	False
+Sardinella albella	NA	NA	tropical	reef-associated marine	0	50	False	False	False
+Sardinella maderensis	24.0	NA	subtropical	oceanodromous marine brackish pelagic-neritic	0	80	False	False	False
+Sardinops melanostictus	9.0	21.0	subtropical	oceanodromous marine pelagic-neritic	0	200	False	False	False
+Sargocentron rubrum	NA	NA	subtropical	reef-associated marine	1	84	False	False	False
+Sarotherodon melanotheron	23.0	25.0	tropical	freshwater brackish demersal	3	NA	False	False	False
+Satyrichthys amiscus	NA	NA	NA	marine demersal deep-water	NA	NA	False	False	False
+Saurida undosquamis	NA	NA	subtropical	amphidromous reef-associated marine	1	350	False	False	False
+Saurogobio dumerili	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Scaphiodonichthys acanthopterus	NA	NA	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Scartelaos histophorus	NA	NA	tropical	amphidromous marine brackish demersal	NA	NA	False	False	True
+Scarus forsteni	NA	NA	tropical	reef-associated marine	3	30	False	False	False
+Scarus ghobban	NA	NA	tropical	reef-associated marine brackish	3	36	False	False	False
+Scarus rubroviolaceus	NA	NA	tropical	reef-associated marine	1	36	False	False	False
+Scarus schlegeli	NA	NA	tropical	reef-associated marine	1	50	False	False	False
+Scatophagus argus	20.0	28.0	tropical	amphidromous reef-associated freshwater marine brackish	1	4	False	False	False
+Schedophilus velaini	NA	NA	NA	bathypelagic marine deep-water	40	500	False	False	False
+Schistura balteata	NA	NA	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Schizopygopsis thermalis	NA	NA	NA	freshwater benthopelagic	NA	NA	False	False	False
+Schizopygopsis younghusbandi	NA	NA	NA	freshwater benthopelagic	NA	NA	False	False	False
+Schizothorax biddulphi	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Schizothorax macropogon	NA	NA	NA	freshwater benthopelagic	NA	NA	False	False	False
+Schizothorax oconnori	NA	NA	NA	freshwater benthopelagic	NA	NA	False	False	False
+Schizothorax richardsonii	NA	NA	tropical	freshwater demersal potamodromous	NA	NA	False	False	False
+Schizothorax waltoni	NA	NA	NA	freshwater benthopelagic	NA	NA	False	False	False
+Schizothorax wangchiachii	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Sciades seemanni	22.0	26.0	tropical	freshwater marine brackish demersal	NA	NA	False	False	False
+Sciaenops ocellatus	NA	NA	subtropical	oceanodromous marine brackish demersal	10	NA	False	False	False
+Scleropages formosus	24.0	30.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Scobinichthys granulatus	NA	NA	temperate	reef-associated marine	NA	NA	False	False	False
+Scomber australasicus	NA	NA	subtropical	oceanodromous marine pelagic-neritic	87	200	False	False	False
+Scomber colias	NA	NA	temperate	marine brackish pelagic-neritic	NA	NA	False	False	False
+Scomber japonicus	10.0	27.0	subtropical	oceanodromous marine pelagic-neritic	0	300	False	True	False
+Scomber scombrus	NA	NA	temperate	oceanodromous marine brackish pelagic-neritic	0	1000	False	True	True
+Scomberomorus cavalla	NA	NA	tropical	reef-associated oceanodromous marine	5	140	False	False	False
+Scomberomorus munroi	NA	NA	tropical	oceanodromous marine pelagic-neritic	NA	100	False	False	False
+Scomberomorus niphonius	NA	NA	temperate	oceanodromous marine pelagic-neritic	0	200	False	False	False
+Scomberomorus semifasciatus	NA	NA	tropical	oceanodromous marine brackish pelagic-neritic	NA	100	False	False	False
+Scombrolabrax heterolepis	NA	NA	subtropical	benthopelagic oceanodromous marine	100	900	False	False	False
+Scopelengys tristis	NA	NA	NA	bathypelagic marine deep-water oceanodromous	400	1830	True	False	False
+Scopelogadus mizolepis	NA	NA	NA	bathypelagic marine deep-water	300	3385	True	False	False
+Scorpis lineolata	NA	NA	temperate	reef-associated marine brackish	1	30	False	False	False
+Sebastiscus marmoratus	NA	NA	tropical	oceanodromous marine demersal	NA	NA	False	False	False
+Sebates schlegeli	NA	NA	temperate	marine demersal	3	100	False	False	False
+Seriola dumerili	NA	NA	subtropical	reef-associated oceanodromous marine	1	360	False	False	False
+Seriola lalandi	18.0	24.0	subtropical	benthopelagic marine brackish	3	825	False	False	False
+Seriola quinqueradiata	NA	NA	subtropical	oceanodromous marine demersal	100	NA	True	False	True
+Serrivomer beanii	NA	NA	NA	bathypelagic marine deep-water	0	5998	False	False	False
+Serrivomer sector	NA	NA	NA	bathypelagic marine deep-water	0	3243	False	False	False
+Setipinna melanochir	NA	NA	tropical	freshwater marine brackish pelagic-neritic	NA	NA	False	False	False
+Setipinna taty	NA	NA	tropical	oceanodromous marine brackish pelagic-neritic	0	50	False	False	False
+Sewellia lineolata	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Sicamugil cascasia	NA	NA	tropical	freshwater demersal potamodromous	NA	NA	False	False	False
+Sicyopterus japonicus	NA	NA	subtropical	amphidromous freshwater marine brackish demersal	NA	NA	False	False	False
+Siganus fuscescens	NA	NA	tropical	reef-associated oceanodromous marine brackish	NA	50	False	False	False
+Siganus unimaculatus	26.0	28.0	tropical	reef-associated marine	NA	30	False	False	False
+Sillago sihama	26.0	29.0	tropical	amphidromous reef-associated marine brackish	0	60	False	False	False
+Silurus asotus	5.0	25.0	temperate	freshwater demersal	NA	NA	False	False	False
+Silurus glanis	4.0	20.0	temperate	freshwater benthopelagic brackish non-migratory	0	30	False	False	False
+Silurus lanzhouensis	NA	NA	temperate	freshwater demersal	NA	NA	False	False	False
+Silurus meridionalis	NA	NA	subtropical	freshwater demersal	NA	NA	False	False	False
+Simenchelys parasitica	4.0	9.0	NA	bathydemersal marine deep-water	136	2620	False	False	False
+Sinibotia superciliaris	20.0	26.0	subtropical	freshwater demersal	NA	NA	False	False	False
+Sinibrama macrops	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Siniperca chuatsi	4.0	22.0	temperate	freshwater benthopelagic	10	NA	False	False	False
+Siniperca knerii	NA	NA	temperate	freshwater benthopelagic brackish	NA	NA	False	False	False
+Siniperca obscura	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Siniperca scherzeri	NA	NA	temperate	freshwater benthopelagic brackish	NA	NA	False	False	False
+Sinocyclocheilus altishoulderus	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Sinocyclocheilus furcodorsalis	NA	NA	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Sinocyclocheilus grahami	NA	NA	temperate	freshwater benthopelagic brackish	NA	NA	False	False	False
+Sinogastromyzon puliensis	18.0	30.0	subtropical	freshwater demersal	0	10	False	False	False
+Sirembo imberbis	NA	NA	subtropical	marine demersal	100	200	False	False	False
+Solea senegalensis	NA	NA	subtropical	marine demersal	12	65	False	False	False
+Solenostomus cyanopterus	NA	NA	tropical	reef-associated marine	0	25	False	False	False
+Solivomer arenidens	NA	NA	NA	benthopelagic marine deep-water	1413	1413	False	False	False
+Sphoeroides annulatus	NA	NA	subtropical	reef-associated marine brackish	0	11	False	False	False
+Sphoeroides pachygaster	NA	NA	subtropical	benthopelagic marine	50	480	False	False	False
+Sphoeroides parvus	NA	NA	subtropical	marine brackish demersal	NA	NA	False	False	False
+Sphoeroides testudineus	NA	NA	subtropical	reef-associated marine brackish	NA	48	False	False	False
+Sphyraena barracuda	NA	NA	subtropical	reef-associated marine brackish	1	100	False	False	False
+Sphyraena japonica	NA	NA	temperate	marine pelagic-neritic	NA	NA	False	False	False
+Spicara maena	NA	NA	subtropical	marine pelagic-neritic	30	130	False	False	True
+Spinachia spinachia	NA	NA	temperate	benthopelagic marine brackish non-migratory	NA	NA	True	True	False
+Spinibarbus caldwelli	NA	NA	subtropical	freshwater benthopelagic	2	30	False	False	False
+Spinibarbus denticulatus	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Spinibarbus sinensis	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Spratelloides delicatulus	NA	NA	tropical	reef-associated marine	0	50	False	False	False
+Spratelloides gracilis	NA	NA	tropical	marine pelagic-neritic	10	NA	False	False	False
+Sprattus antipodum	NA	NA	subtropical	marine pelagic-neritic	0	72	False	False	False
+Sprattus muelleri	NA	NA	subtropical	marine pelagic-neritic	28	110	False	False	False
+Sprattus sprattus	NA	NA	temperate	oceanodromous marine brackish pelagic-neritic	10	150	False	True	False
+Squalidus wolterstorffi	NA	NA	subtropical	freshwater benthopelagic brackish	NA	NA	False	False	False
+Squaliobarbus curriculus	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Squalogadus modificatus	NA	NA	NA	bathypelagic marine deep-water	600	1740	False	False	False
+Stemonidium hypomelas	NA	NA	NA	bathypelagic marine deep-water	500	1229	False	False	False
+Stenobrachius leucopsarus	NA	NA	NA	bathypelagic marine deep-water	0	3400	True	False	False
+Stenodus leucichthys	NA	NA	boreal	anadromous freshwater marine brackish demersal	10	NA	False	False	False
+Stephanolepis cirrhifer	NA	NA	temperate	oceanodromous marine demersal	NA	NA	False	False	False
+Stiphodon alcedo	NA	NA	subtropical	freshwater demersal	NA	NA	False	False	False
+Stolephorus chinensis	NA	NA	tropical	marine pelagic-neritic	0	50	False	False	False
+Stolephorus waitei	NA	NA	tropical	oceanodromous freshwater marine brackish pelagic-neritic	0	50	False	False	False
+Stylephorus chordatus	NA	NA	NA	bathypelagic marine deep-water	NA	NA	False	False	False
+Sufflamen fraenatum	NA	NA	tropical	reef-associated oceanodromous marine	8	186	False	False	False
+Sundasalanx mekongensis	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Sundasalanx praecox	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Symbolophorus californiensis	NA	NA	subtropical	pelagic-oceanic marine	0	1497	True	False	False
+Synaphobranchus kaupii	-1.0	10.0	NA	bathydemersal marine deep-water	120	4800	False	False	False
+Synbranchus marmoratus	22.0	34.0	subtropical	freshwater brackish potamodromous demersal	NA	NA	True	False	False
+Synechogobius ommaturus	NA	NA	subtropical	freshwater demersal	NA	NA	False	False	False
+Synodontis schoutedeni	22.0	26.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Synodus variegatus	NA	NA	tropical	reef-associated marine	3	121	False	False	False
+Taaningichthys minimus	NA	NA	NA	bathypelagic marine deep-water oceanodromous	90	800	False	False	False
+Takifugu chinensis	NA	NA	temperate	marine demersal	NA	NA	False	False	False
+Takifugu chrysops	NA	NA	temperate	marine demersal	NA	NA	False	False	False
+Takifugu exascurus	NA	NA	temperate	marine demersal	NA	NA	False	False	False
+Takifugu niphobles	NA	NA	temperate	marine demersal	NA	NA	False	False	False
+Takifugu oblongus	NA	NA	tropical	marine brackish demersal	NA	NA	False	False	False
+Takifugu obscurus	NA	NA	subtropical	anadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Takifugu ocellatus	NA	NA	subtropical	anadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Takifugu pardalis	NA	NA	temperate	marine demersal	NA	NA	False	False	False
+Takifugu poecilonotus	NA	NA	temperate	freshwater marine brackish demersal	NA	NA	False	False	False
+Takifugu porphyreus	NA	NA	temperate	marine demersal	NA	NA	False	False	False
+Takifugu rubripes	NA	NA	temperate	non-migratory freshwater marine brackish demersal	NA	NA	False	False	False
+Takifugu snyderi	NA	NA	subtropical	marine demersal	NA	NA	False	False	False
+Takifugu stictonotus	NA	NA	temperate	marine demersal	NA	NA	False	False	False
+Takifugu vermicularis	NA	NA	temperate	marine demersal	NA	NA	False	False	False
+Takifugu xanthopterus	NA	NA	temperate	marine demersal	NA	NA	False	False	False
+Talismania bifurcata	NA	NA	NA	bathydemersal marine deep-water	300	2000	False	False	False
+Tanichthys albonubes	18.0	22.0	tropical	freshwater demersal	NA	NA	False	False	False
+Taractes asper	NA	NA	temperate	pelagic-oceanic oceanodromous marine	1	140	False	False	False
+Tenualosa ilisha	NA	NA	tropical	anadromous freshwater marine brackish pelagic-neritic	NA	200	False	False	True
+Tenualosa thibaudeaui	NA	NA	tropical	pelagic freshwater potamodromous	NA	NA	False	False	False
+Tenualosa toli	NA	NA	tropical	anadromous freshwater marine brackish pelagic-neritic	10	NA	False	False	False
+Tetrabrachium ocellatum	NA	NA	tropical	marine demersal	NA	51	False	False	False
+Tetractenos glaber	NA	NA	subtropical	freshwater marine brackish demersal	NA	NA	False	False	False
+Tetragonurus atlanticus	NA	NA	subtropical	pelagic-oceanic oceanodromous marine	0	800	False	False	False
+Tetragonurus cuvieri	NA	NA	NA	bathypelagic marine deep-water oceanodromous	1	800	False	False	False
+Tetranematichthys quadrifilis	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Tetraodon biocellatus	22.0	26.0	tropical	freshwater demersal	NA	NA	False	False	False
+Tetraodon cutcutia	24.0	28.0	tropical	freshwater brackish potamodromous demersal	NA	NA	False	False	False
+Tetraodon mbu	24.0	26.0	tropical	freshwater brackish demersal	NA	NA	False	False	False
+Tetraodon miurus	24.0	28.0	tropical	freshwater demersal	NA	NA	False	False	False
+Tetraodon nigroviridis	24.0	28.0	tropical	freshwater brackish demersal	NA	NA	False	False	False
+Tetraodon palembangensis	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Tetrapturus angustirostris	NA	NA	subtropical	pelagic-oceanic oceanodromous marine	0	1830	False	False	False
+Tetrapturus audax	20.0	25.0	subtropical	pelagic-oceanic oceanodromous marine	0	200	False	True	False
+Thamnaconus modestus	NA	NA	tropical	reef-associated oceanodromous marine	NA	NA	False	False	False
+Thaumatichthys pagidostomus	NA	NA	NA	bathydemersal marine deep-water	1392	1393	False	False	False
+Theragra finnmarchica	NA	NA	polar	benthopelagic marine	NA	NA	False	False	False
+Thryssa baelama	NA	NA	tropical	reef-associated marine brackish	0	50	False	False	False
+Thunnus alalunga	10.0	25.0	subtropical	pelagic-oceanic oceanodromous marine	0	600	True	False	False
+Thunnus albacares	15.0	31.0	tropical	pelagic-oceanic oceanodromous marine brackish	1	250	False	True	True
+Thunnus maccoyii	5.0	20.0	temperate	pelagic-oceanic oceanodromous marine	50	2743	False	False	False
+Thunnus obesus	13.0	29.0	subtropical	pelagic-oceanic oceanodromous marine	0	250	False	True	False
+Thunnus orientalis	NA	NA	subtropical	pelagic-oceanic oceanodromous marine brackish	1	200	False	False	False
+Thunnus thynnus	3.0	30.0	subtropical	pelagic-oceanic oceanodromous marine brackish	0	985	False	True	True
+Thunnus tonggol	NA	NA	tropical	oceanodromous marine pelagic-neritic	10	NA	False	False	False
+Thymallus arcticus	NA	NA	temperate	freshwater benthopelagic	30	NA	True	False	False
+Thymallus thymallus	6.0	18.0	temperate	freshwater benthopelagic brackish non-migratory	15	NA	False	False	False
+Thyrsitoides marleyi	NA	NA	NA	benthopelagic marine deep-water	0	400	False	False	False
+Tinca tinca	4.0	24.0	temperate	freshwater brackish potamodromous demersal	1	NA	True	False	True
+Tor putitora	13.0	30.0	subtropical	freshwater benthopelagic potamodromous	0	NA	False	False	False
+Tor sinensis	NA	NA	tropical	freshwater benthopelagic potamodromous	NA	NA	False	False	False
+Torquigener brevipennis	NA	NA	subtropical	marine demersal	20	100	False	False	False
+Torquigener hypselogeneion	NA	NA	tropical	marine brackish demersal	18	22	False	False	False
+Torquigener pleurogramma	NA	NA	subtropical	marine brackish demersal	NA	30	False	False	False
+Toxotes chatareus	25.0	30.0	tropical	pelagic amphidromous freshwater brackish	NA	NA	False	False	False
+Trachidermus fasciatus	NA	NA	subtropical	benthopelagic freshwater marine brackish catadromous	NA	NA	False	False	False
+Trachinops taeniatus	NA	NA	temperate	marine pelagic-neritic	NA	NA	False	False	False
+Trachinotus ovatus	NA	NA	subtropical	marine brackish pelagic-neritic	50	200	False	False	False
+Trachipterus trachipterus	NA	NA	NA	bathypelagic marine deep-water	100	600	False	False	False
+Trachurus japonicus	NA	NA	tropical	oceanodromous marine pelagic-neritic	0	275	False	False	False
+Trachurus trachurus	NA	NA	subtropical	oceanodromous marine pelagic-neritic	0	1050	False	False	True
+Trachyrincus murrayi	NA	NA	temperate	benthopelagic marine	0	1630	False	False	False
+Trematocranus placodon	24.0	26.0	tropical	freshwater demersal	NA	32	False	False	False
+Triacanthodes anomalus	NA	NA	tropical	marine demersal	NA	NA	False	False	False
+Triacanthus biaculeatus	20.0	30.0	tropical	marine brackish demersal	NA	60	False	False	False
+Tribolodon brandtii	10.0	24.0	temperate	anadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Tribolodon hakonensis	NA	NA	temperate	freshwater benthopelagic brackish	NA	NA	False	False	False
+Tribolodon nakamurai	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Tribolodon sachalinensis	NA	NA	temperate	benthopelagic freshwater marine brackish anadromous	NA	NA	False	False	False
+Trichiurus japonicus	NA	NA	subtropical	amphidromous benthopelagic marine brackish	0	589	False	False	True
+Trichiurus lepturus	NA	NA	subtropical	amphidromous benthopelagic marine brackish	0	589	False	False	True
+Trichomycterus areolatus	NA	NA	temperate	freshwater benthopelagic	NA	NA	False	False	False
+Tridentiger barbatus	NA	NA	temperate	brackish demersal	NA	NA	False	False	False
+Tridentiger bifasciatus	10.0	25.0	temperate	amphidromous freshwater marine brackish demersal	NA	NA	False	False	False
+Trigonostigma espei	23.0	28.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Trigonostigma heteromorpha	22.0	25.0	tropical	freshwater benthopelagic	NA	NA	False	False	False
+Triodon macropterus	NA	NA	tropical	reef-associated marine	50	300	False	False	False
+Triphoturus nigrescens	NA	NA	NA	bathypelagic marine deep-water oceanodromous	100	1000	False	False	False
+Triplophysa bleekeri	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Triplophysa rosa	13.0	NA	subtropical	freshwater demersal	NA	NA	False	False	False
+Triplophysa stoliczkai	16.0	20.0	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Triso dermopterus	NA	NA	tropical	marine demersal	22	103	False	False	False
+Trixiphichthys weberi	NA	NA	tropical	marine demersal	NA	65	False	False	False
+Tropheus duboisi	24.0	26.0	tropical	freshwater demersal	NA	NA	False	False	False
+Tropheus moorii	24.0	26.0	tropical	freshwater benthopelagic	NA	NA	True	False	False
+Trypauchen vagina	NA	NA	tropical	amphidromous marine brackish demersal	NA	NA	False	False	True
+Tylerius spinosissimus	NA	NA	NA	bathydemersal marine deep-water	250	435	False	False	False
+Tylochromis polylepis	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Umbra pygmaea	4.0	23.0	temperate	freshwater demersal non-migratory	NA	NA	False	False	False
+Vaillantella maassi	NA	NA	tropical	freshwater demersal	NA	NA	False	False	False
+Valamugil cunnesius	NA	NA	tropical	catadromous freshwater marine brackish demersal	NA	NA	False	False	False
+Variola albimarginata	NA	NA	tropical	reef-associated marine	4	200	False	False	False
+Variola louti	NA	NA	tropical	reef-associated marine non-migratory	3	250	False	False	False
+Ventrifossa garmani	NA	NA	NA	bathydemersal marine non-migratory deep-water	200	720	False	False	False
+Verasper moseri	NA	NA	temperate	marine demersal	1	900	False	False	False
+Verasper variegatus	NA	NA	subtropical	marine demersal	NA	NA	False	False	False
+Xanthichthys auromarginatus	NA	NA	tropical	reef-associated marine	8	150	False	False	False
+Xenobalistes tumidipectoris	NA	NA	tropical	marine demersal	NA	NA	False	False	False
+Xenocypris argentea	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Xenocypris davidi	NA	NA	subtropical	freshwater benthopelagic brackish	NA	NA	False	False	False
+Xenodermichthys copei	NA	NA	NA	bathypelagic marine deep-water	100	2650	False	False	False
+Xenomystus nigri	22.0	28.0	tropical	freshwater demersal	NA	NA	False	False	False
+Xenotoca eiseni	15.0	32.0	temperate	freshwater demersal	NA	NA	False	False	False
+Xiphias gladius	5.0	27.0	temperate	pelagic-oceanic oceanodromous marine	0	800	False	True	False
+Xiphophorus hellerii	22.0	28.0	tropical	freshwater benthopelagic brackish non-migratory	NA	NA	True	False	False
+Xiphophorus maculatus	18.0	25.0	tropical	freshwater benthopelagic non-migratory	NA	NA	False	False	False
+Xyrauchen texanus	NA	NA	temperate	freshwater demersal potamodromous	NA	NA	False	False	False
+Yaoshanicus arcus	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Zacco platypus	10.0	22.0	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Zacco sieboldii	NA	NA	subtropical	freshwater benthopelagic	NA	NA	False	False	False
+Zalieutes elater	NA	NA	tropical	marine demersal	18	113	False	False	False
+Zanclus cornutus	24.0	28.0	subtropical	reef-associated marine	3	182	False	False	False
+Zebrasoma flavescens	24.0	28.0	tropical	reef-associated marine	2	46	False	False	False
+Zebrias zebra	NA	NA	tropical	reef-associated marine brackish	NA	NA	False	False	False
+Zenion japonicum	NA	NA	NA	bathydemersal marine deep-water	200	400	False	False	False
+Zenopsis nebulosus	NA	NA	NA	benthopelagic marine deep-water	30	800	False	False	False
+Zeus faber	NA	NA	temperate	benthopelagic oceanodromous marine brackish	5	400	False	True	True
+Zu cristatus	NA	NA	NA	bathypelagic marine deep-water	NA	90	False	False	False
