@@ -8,7 +8,9 @@
 
 ### * Parameters
 
-FISHBASE_TSV = "../data/fishbase_table.tsv"
+FISHBASE_TEMP_TSV = "../data/fishbase_temperature.tsv"
+FISHBASE_ENV_TSV = "../data/fishbase_environment.tsv"
+FISHBASE_DATA_TSV = "../data/fishbase_extra_data.tsv"
 COI_TSV = "../data/compilation_COI.tsv"
 CYTB_TSV = "../data/compilation_cytB.tsv"
 ND5_TSV = "../data/compilation_ND5.tsv"
@@ -30,8 +32,12 @@ con = sql.connect("../data/fish-prot-evolution.sqlite")
 
 ### ** Load and save Fishbase data
 
-fishbase = pd.read_table(FISHBASE_TSV, sep = "\t")
-fishbase.to_sql("fishbase", con)
+fishbase_temp = pd.read_table(FISHBASE_TEMP_TSV, sep = "\t")
+fishbase_temp.to_sql("fishbase_temperature", con)
+fishbase_env = pd.read_table(FISHBASE_ENV_TSV, sep = "\t")
+fishbase_env.to_sql("fishbase_environment", con)
+fishbase_data = pd.read_table(FISHBASE_DATA_TSV, sep = "\t")
+fishbase_data.to_sql("fishbase_extra_data", con)
 
 ### ** Load and save COI data
 
