@@ -15,6 +15,7 @@ ND5_TSV = "../data/compilation_ND5.tsv"
 
 ### * Import
 
+import os
 import sqlite3 as sql
 import pandas as pd
 
@@ -22,6 +23,9 @@ import pandas as pd
 
 ### ** Create an SQLite connection to a database file
 
+# Delete the database file if it already exists
+if os.path.isfile("../data/fish-prot-evolution.sqlite") :
+    os.remove("../data/fish-prot-evolution.sqlite")
 con = sql.connect("../data/fish-prot-evolution.sqlite")
 
 ### ** Load and save Fishbase data
