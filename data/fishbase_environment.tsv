@@ -1,1266 +1,1266 @@
-	species	climate	environment	depth_min	depth_max
-0	Abalistes stellaris	tropical	amphidromous marine demersal		
-1	Ablennes hians	subtropical	reef-associated oceanodromous marine brackish	0.0	3.0
-2	Abramis brama	temperate	freshwater benthopelagic brackish potamodromous	1.0	
-3	Abudefduf vaigiensis	tropical	reef-associated oceanodromous marine	1.0	15.0
-4	Acanthaluteres brownii	subtropical	reef-associated marine		50.0
-5	Acanthogobius hasta	temperate	amphidromous freshwater marine brackish demersal		
-6	Acanthopagrus latus	tropical	freshwater marine brackish demersal		50.0
-7	Acanthopagrus schlegelii	subtropical	marine brackish demersal	15.0	
-8	Acanthurus leucosternon	tropical	reef-associated marine	0.0	25.0
-9	Acanthurus lineatus	tropical	reef-associated marine	0.0	15.0
-10	Acantopsis choirorhynchos	tropical	freshwater brackish demersal		
-11	Acentrogobius chlorostigmatoides	tropical	freshwater brackish demersal		
-12	Acentrogobius pflaumii	subtropical	marine brackish demersal		
-13	Acentrophryne dolichonema		bathypelagic marine deep-water	201.0	1105.0
-14	Acheilognathus intermedia	temperate	freshwater benthopelagic		
-15	Acheilognathus koreensis	temperate	freshwater benthopelagic		
-16	Acheilognathus macropterus	subtropical	freshwater benthopelagic brackish		
-17	Acheilognathus signifer	temperate	freshwater benthopelagic		
-18	Acheilognathus somjinensis	temperate	freshwater benthopelagic		
-19	Acheilognathus typus	temperate	freshwater benthopelagic		
-20	Acheilognathus yamatsutae	temperate	freshwater benthopelagic		
-21	Acipenser baerii	temperate	anadromous freshwater marine brackish demersal	1.0	
-22	Acipenser dabryanus	temperate	anadromous freshwater demersal		
-23	Acipenser gueldenstaedtii	temperate	anadromous freshwater marine brackish demersal	1.0	
-24	Acipenser ruthenus	temperate	freshwater brackish potamodromous demersal	1.0	
-25	Acipenser schrenckii	temperate	anadromous freshwater marine brackish demersal		
-26	Acipenser sinensis	temperate	anadromous freshwater marine brackish demersal		
-27	Acipenser transmontanus	subtropical	anadromous freshwater marine brackish demersal	1.0	122.0
-28	Acreichthys tomentosus	tropical	reef-associated marine non-migratory	2.0	15.0
-29	Acrossocheilus hemispinus	subtropical	freshwater benthopelagic		
-30	Acrossocheilus monticola	temperate	freshwater benthopelagic		
-31	Acrossocheilus wenchowensis	subtropical	freshwater benthopelagic brackish		
-32	Aeoliscus strigatus	tropical	reef-associated marine	1.0	20.0
-33	Aesopia cornuta	tropical	reef-associated marine	8.0	100.0
-34	Aethaloperca rogaa	tropical	reef-associated marine non-migratory	3.0	50.0
-35	Agonostomus monticola	subtropical	catadromous freshwater marine brackish pelagic-neritic		
-36	Albula glossodonta	tropical	reef-associated oceanodromous marine brackish		
-37	Alburnus alburnus	temperate	freshwater benthopelagic brackish potamodromous	1.0	
-38	Alburnus istanbulensis	subtropical	freshwater benthopelagic		
-39	Alburnus tarichi	temperate	freshwater benthopelagic		
-40	Aldrichetta forsteri	temperate	catadromous freshwater marine brackish demersal	0.0	50.0
-41	Aldrovandia affinis		benthopelagic marine deep-water	730.0	2560.0
-42	Alepocephalus agassizii		bathydemersal marine deep-water	600.0	2500.0
-43	Alepocephalus australis		bathydemersal marine deep-water	1000.0	2600.0
-44	Alepocephalus bairdii		bathydemersal marine deep-water	365.0	1700.0
-45	Alepocephalus bicolor		bathydemersal marine deep-water	439.0	1080.0
-46	Alepocephalus longiceps		bathydemersal marine deep-water	1240.0	1300.0
-47	Alepocephalus productus		bathydemersal marine deep-water	1150.0	3500.0
-48	Alepocephalus tenebrosus		bathydemersal marine deep-water	46.0	5500.0
-49	Alepocephalus umbriceps		bathydemersal marine deep-water	500.0	2000.0
-50	Allocyttus niger		bathypelagic marine deep-water oceanodromous	560.0	1300.0
-51	Alosa alosa	temperate	anadromous freshwater marine brackish pelagic-neritic		300.0
-52	Alosa pseudoharengus	temperate	anadromous freshwater marine brackish pelagic-neritic	5.0	145.0
-53	Alosa sapidissima	temperate	anadromous freshwater marine brackish pelagic-neritic	0.0	250.0
-54	Aluterus scriptus	subtropical	reef-associated marine	3.0	120.0
-55	Amanses scopas	tropical	reef-associated marine	3.0	18.0
-56	Amazonsprattus scintilla	tropical	pelagic freshwater		
-57	Amblydoras gonzalezi	tropical	freshwater demersal		
-58	Amia calva	temperate	freshwater demersal		
-59	Ammodytes hexapterus	temperate	benthopelagic oceanodromous marine brackish	0.0	275.0
-60	Ammodytes personatus	temperate	oceanodromous marine demersal		
-61	Amphiprion bicinctus	tropical	reef-associated marine non-migratory	1.0	30.0
-62	Amphiprion ocellaris	tropical	reef-associated marine non-migratory	1.0	15.0
-63	Anarchias sp.	subtropical	reef-associated marine		
-64	Anarhichas denticulatus	polar	benthopelagic oceanodromous marine	60.0	1700.0
-65	Anarhichas lupus	temperate	oceanodromous marine demersal	1.0	600.0
-66	Anarhichas minor	temperate	oceanodromous marine demersal	25.0	600.0
-67	Ancherythroculter nigrocauda	subtropical	freshwater benthopelagic		
-68	Anguilla anguilla	temperate	catadromous freshwater marine brackish demersal	0.0	700.0
-69	Anguilla australis	subtropical	benthopelagic freshwater marine brackish catadromous	0.0	
-70	Anguilla bengalensis	tropical	benthopelagic freshwater marine brackish catadromous		
-71	Anguilla bicolor	tropical	catadromous freshwater marine brackish demersal		
-72	Anguilla celebesensis	tropical	catadromous freshwater marine brackish demersal		
-73	Anguilla dieffenbachii	subtropical	catadromous freshwater marine brackish demersal		
-74	Anguilla interioris	tropical	catadromous freshwater marine brackish demersal		
-75	Anguilla japonica	subtropical	catadromous freshwater marine brackish demersal	1.0	400.0
-76	Anguilla luzonensis	tropical	catadromous freshwater marine brackish demersal		
-77	Anguilla malgumora	tropical	catadromous freshwater marine brackish demersal		
-78	Anguilla marmorata	tropical	catadromous freshwater marine brackish demersal	1.0	400.0
-79	Anguilla megastoma	tropical	catadromous freshwater marine brackish demersal		
-80	Anguilla mossambica	tropical	catadromous freshwater marine brackish demersal		
-81	Anguilla nebulosa	tropical	catadromous freshwater marine brackish demersal	3.0	10.0
-82	Anguilla obscura	tropical	catadromous freshwater marine brackish demersal		
-83	Anguilla reinhardtii	tropical	catadromous freshwater marine brackish demersal	0.0	1.0
-84	Anguilla rostrata	subtropical	catadromous freshwater marine brackish demersal	0.0	464.0
-85	Anodontostoma chacunda	tropical	anadromous freshwater marine brackish pelagic-neritic	0.0	50.0
-86	Anomalops katoptron	tropical	reef-associated marine	2.0	400.0
-87	Anoplocapros lenticularis	subtropical	marine demersal	10.0	220.0
-88	Anoplogaster cornuta		bathypelagic marine deep-water	2.0	4992.0
-89	Anoplopoma fimbria		bathydemersal oceanodromous marine deep-water	0.0	2740.0
-90	Antennarius coccineus	tropical	reef-associated marine	0.0	104.0
-91	Antennarius striatus	subtropical	reef-associated marine brackish	10.0	219.0
-92	Antennatus coccineus	tropical	reef-associated marine	1.0	75.0
-93	Antigonia capros	tropical	marine demersal	50.0	900.0
-94	Anyperodon leucogrammicus	tropical	reef-associated marine non-migratory	1.0	80.0
-95	Apareiodon affinis	subtropical	freshwater benthopelagic		
-96	Apeltes quadracus	temperate	benthopelagic freshwater marine brackish	0.0	3.0
-97	Aphredoderus sayanus	temperate	freshwater demersal		
-98	Aphyocypris chinensis	temperate	freshwater benthopelagic		
-99	Aphyocypris kikuchii	subtropical	freshwater benthopelagic	0.0	5.0
-100	Aplocheilus panchax	tropical	freshwater benthopelagic brackish non-migratory		
-101	Apogon semilineatus	tropical	reef-associated marine brackish	3.0	100.0
-102	Apteronotus albifrons	tropical	freshwater benthopelagic		
-103	Aptocyclus ventricosus	temperate	benthopelagic marine	0.0	1700.0
-104	Arapaima gigas	tropical	freshwater demersal		
-105	Arctogadus glacialis		bathypelagic marine non-migratory deep-water	0.0	1000.0
-106	Arctoscopus japonicus		bathydemersal marine deep-water	0.0	550.0
-107	Argyrosomus japonicus	tropical	benthopelagic oceanodromous marine brackish		
-108	Ariomma indica	tropical	benthopelagic oceanodromous marine	20.0	300.0
-109	Ariomma lurida		bathypelagic marine deep-water	350.0	
-110	Ariosoma shiroanago	temperate	marine demersal		
-111	Arothron firmamentum	subtropical	marine demersal	10.0	360.0
-112	Arothron hispidus	tropical	reef-associated marine brackish non-migratory	3.0	50.0
-113	Arothron manilensis	tropical	reef-associated marine brackish	2.0	20.0
-114	Arothron mappa	tropical	reef-associated marine	4.0	30.0
-115	Arripis trutta	subtropical	anadromous marine brackish pelagic-neritic	30.0	39.0
-116	Aspasma minima	subtropical	marine demersal		
-117	Aspidoparia morar	tropical	freshwater benthopelagic		
-118	Assurger anzac	tropical	benthopelagic marine	150.0	400.0
-119	Astatotilapia calliptera	tropical	freshwater benthopelagic		
-120	Astronotus ocellatus	tropical	freshwater benthopelagic		
-121	Astyanax mexicanus	subtropical	freshwater benthopelagic potamodromous		
-122	Ataxolepis apus	tropical	bathypelagic marine	1464.0	
-123	Ateleopus japonicus		bathydemersal marine deep-water	140.0	600.0
-124	Atractosteus spatula	subtropical	freshwater brackish demersal	0.0	
-125	Auchenoglanis occidentalis	tropical	freshwater demersal potamodromous		
-126	Aulichthys japonicus	temperate	benthopelagic marine		
-127	Aulopus japonicus	tropical	marine demersal	85.0	510.0
-128	Aulorhynchus flavidus	temperate	benthopelagic marine	0.0	30.0
-129	Aulostomus chinensis	tropical	reef-associated marine	3.0	122.0
-130	Auriglobus modestus	tropical	freshwater demersal		
-131	Auxis rochei	tropical	oceanodromous marine brackish pelagic-neritic	10.0	
-132	Auxis thazard	tropical	oceanodromous marine pelagic-neritic	50.0	
-133	Avocettina infans		bathypelagic marine deep-water	0.0	4580.0
-134	Bagarius yarrelli	tropical	freshwater demersal potamodromous		
-135	Bahaba taipingensis	subtropical	benthopelagic marine brackish		
-136	Bajacalifornia megalops		bathypelagic marine deep-water	150.0	3200.0
-137	Balistapus undulatus	tropical	reef-associated marine	2.0	50.0
-138	Balistes vetula	tropical	reef-associated marine	2.0	275.0
-139	Balistoides conspicillum	tropical	reef-associated marine brackish	1.0	75.0
-140	Barbatula toni	temperate	freshwater demersal		
-141	Barbonymus gonionotus	tropical	freshwater benthopelagic potamodromous	15.0	
-142	Barbourisia rufa		bathydemersal marine deep-water	120.0	2000.0
-143	Barbus barbus	temperate	freshwater benthopelagic potamodromous	10.0	
-144	Barbus trimaculatus	tropical	freshwater benthopelagic potamodromous		
-145	Barilius bendelisis	tropical	freshwater benthopelagic potamodromous		
-146	Bassozetus zenkevitchi		bathypelagic marine deep-water	0.0	6930.0
-147	Bathygadus antrodes		bathydemersal marine deep-water	792.0	1200.0
-148	Bathylaco nigricans		bathypelagic marine deep-water	450.0	4376.0
-149	Bathyprion danae		bathypelagic marine deep-water	100.0	3200.0
-150	Bathytroctes breviceps		bathypelagic marine deep-water		1650.0
-151	Bathytroctes macrolepis		bathypelagic marine deep-water	2500.0	5850.0
-152	Bathytroctes michaelsarsi		bathypelagic marine deep-water	2010.0	5057.0
-153	Bathytroctes microlepis		bathypelagic marine deep-water	0.0	4900.0
-154	Batrachomoeus trispinosus	tropical	reef-associated marine brackish		
-155	Benthodesmus tenuis		benthopelagic marine deep-water	200.0	850.0
-156	Benthosema fibulatum		bathypelagic marine deep-water oceanodromous	0.0	2000.0
-157	Benthosema glaciale		pelagic-oceanic marine non-migratory deep-water	0.0	1407.0
-158	Benthosema pterotum		bathypelagic marine deep-water	10.0	300.0
-159	Bertella idiomorpha	temperate	marine demersal	0.0	3475.0
-160	Beryx decadactylus		bathydemersal marine deep-water	110.0	1000.0
-161	Beryx splendens	subtropical	benthopelagic marine	25.0	1300.0
-162	Biwia zezera	temperate	freshwater demersal		
-163	Blicca bjoerkna	temperate	freshwater brackish potamodromous demersal	0.0	
-164	Boleophthalmus pectinirostris	tropical	non-migratory freshwater marine brackish demersal	0.0	
-165	Bolinichthys distofax		pelagic-oceanic marine non-migratory deep-water	100.0	690.0
-166	Bolinichthys pyrsobolus		pelagic-oceanic marine deep-water		778.0
-167	Boraras maculatus	tropical	freshwater benthopelagic		
-168	Boreogadus saida	polar	oceanodromous marine brackish demersal	0.0	400.0
-169	Bostrychus sinensis	tropical	amphidromous freshwater marine brackish demersal		
-170	Boulengerella maculata	tropical	pelagic freshwater		
-171	Boulengeromyrus knoepffleri	tropical	freshwater demersal		
-172	Brachaluteres ulvarum	temperate	reef-associated marine	25.0	30.0
-173	Brachyhypopomus occidentalis	tropical	freshwater benthopelagic		
-174	Brachymystax lenok	temperate	anadromous freshwater benthopelagic		
-175	Brama japonica	subtropical	pelagic-oceanic oceanodromous marine	0.0	620.0
-176	Branchiostegus albus	temperate	benthopelagic marine	30.0	100.0
-177	Branchiostegus argentatus	tropical	marine demersal	51.0	65.0
-178	Branchiostegus japonicus	tropical	marine demersal	30.0	200.0
-179	Bregmaceros nectabanus	tropical	marine non-migratory pelagic-neritic		350.0
-180	Brevimyrus niger	tropical	freshwater benthopelagic		
-181	Brevoortia tyrannus	subtropical	oceanodromous marine brackish pelagic-neritic	0.0	50.0
-182	Brienomyrus brachyistius	tropical	freshwater benthopelagic brackish		
-183	Brienomyrus niger	tropical	freshwater benthopelagic		
-184	Bufoceratias thele		bathypelagic marine deep-water	0.0	1500.0
-185	Bunocephalus coracoideus	tropical	freshwater demersal		
-186	Callionymus curvicornis	subtropical	freshwater marine brackish demersal		
-187	Campostoma anomalum	subtropical	freshwater benthopelagic		
-188	Campylomormyrus numenius	tropical	freshwater demersal		
-189	Cantherhines pardalis	tropical	reef-associated marine	2.0	20.0
-190	Canthidermis maculata	subtropical	reef-associated marine	1.0	110.0
-191	Canthigaster coronata	tropical	reef-associated marine	6.0	165.0
-192	Canthigaster jactator	tropical	reef-associated marine	1.0	30.0
-193	Canthigaster rivulata	tropical	reef-associated marine	0.0	350.0
-194	Canthigaster valentini	tropical	reef-associated marine	1.0	55.0
-195	Carangoides armatus	tropical	reef-associated marine brackish		
-196	Caranx melampygus	tropical	reef-associated marine brackish	0.0	190.0
-197	Carapus bermudensis	tropical	reef-associated marine non-migratory	1.0	235.0
-198	Carassius auratus	subtropical	freshwater benthopelagic potamodromous	0.0	20.0
-199	Carassius carassius	temperate	freshwater brackish potamodromous demersal	5.0	
-200	Carassius gibelio	temperate	freshwater benthopelagic brackish potamodromous	0.0	
-201	Carinotetraodon lorteti	tropical	freshwater benthopelagic		
-202	Carinotetraodon salivator	tropical	freshwater benthopelagic	1.0	2.0
-203	Caristius macropus		bathypelagic marine deep-water	200.0	1450.0
-204	Carnegiella strigata	tropical	pelagic freshwater		
-205	Carpiodes carpio	subtropical	freshwater demersal		
-206	Cataetyx rubrirostris		bathydemersal marine deep-water	300.0	1000.0
-207	Catla catla	subtropical	freshwater benthopelagic brackish potamodromous	5.0	
-208	Catostomus commersonii	temperate	catadromous freshwater demersal		
-209	Caulophryne jordani		bathypelagic marine deep-water	100.0	1510.0
-210	Caulophryne pelagica		bathypelagic marine deep-water		2500.0
-211	Centrobranchus choerocephalus		bathypelagic marine deep-water		1050.0
-212	Centromochlus perugiae	tropical	freshwater benthopelagic		
-213	Centropyge loricula	tropical	reef-associated marine brackish non-migratory	15.0	60.0
-214	Cephalopholis argus	tropical	reef-associated marine non-migratory	1.0	40.0
-215	Cephalopholis boenak	tropical	reef-associated marine non-migratory	1.0	64.0
-216	Cephalopholis sonnerati	tropical	reef-associated marine non-migratory	10.0	150.0
-217	Ceratias uranoscopus		bathypelagic marine deep-water	0.0	2091.0
-218	Ceratoscopelus maderensis		bathypelagic marine deep-water oceanodromous	51.0	1082.0
-219	Cetostoma regani		bathypelagic marine deep-water	0.0	2250.0
-220	Chaca bankanensis	tropical	freshwater demersal		
-221	Chaenocephalus aceratus	polar	marine demersal	5.0	770.0
-222	Chaenomugil proboscideus	tropical	marine pelagic-neritic		
-223	Chaenophryne melanorhabdus		bathypelagic marine deep-water		1250.0
-224	Chaetodermis penicilligera	tropical	reef-associated marine		
-225	Chaetodon auripes	tropical	reef-associated marine non-migratory		
-226	Chaetodontoplus septentrionalis	tropical	reef-associated marine non-migratory	5.0	15.0
-227	Chaeturichthys stigmatias	temperate	marine demersal		
-228	Chalceus macrolepidotus	tropical	pelagic freshwater		
-229	Champsocephalus gunnari	polar	pelagic-oceanic marine	0.0	700.0
-230	Channa argus	subtropical	freshwater benthopelagic		
-231	Channa maculata	tropical	freshwater benthopelagic		
-232	Chanodichthys dabryi	temperate	freshwater benthopelagic		
-233	Chanodichthys mongolicus	subtropical	freshwater benthopelagic		
-234	Chanos chanos	tropical	amphidromous benthopelagic freshwater marine brackish	1.0	30.0
-235	Chauliodus sloani		bathypelagic marine deep-water	200.0	4700.0
-236	Chaunax abei	tropical	marine demersal	90.0	500.0
-237	Chaunax pictus		bathydemersal marine deep-water	200.0	978.0
-238	Chaunax tosaensis	temperate	marine demersal		
-239	Cheilinus undulatus	tropical	reef-associated marine	1.0	100.0
-240	Cheilochromis euchilus	tropical	freshwater benthopelagic non-migratory		
-241	Chelon labrosus	subtropical	catadromous freshwater marine brackish demersal		
-242	Chelonodon patoca	tropical	anadromous reef-associated freshwater marine brackish	4.0	
-243	Chelonodon pleurospilus	subtropical	marine demersal		
-244	Chilodus punctatus	tropical	pelagic freshwater		
-245	Chilomycterus reticulatus	subtropical	reef-associated marine	20.0	100.0
-246	Chionodraco myersi		bathydemersal marine deep-water	200.0	800.0
-247	Chirocentrus dorab	tropical	amphidromous reef-associated marine brackish		120.0
-248	Chitala blanci	tropical	freshwater demersal potamodromous		
-249	Chitala lopis	tropical	freshwater demersal		
-250	Chitala ornata	tropical	pelagic freshwater potamodromous		
-251	Chlorophthalmus agassizi		bathydemersal marine brackish deep-water	50.0	1000.0
-252	Chlorurus sordidus	tropical	reef-associated oceanodromous marine brackish	0.0	50.0
-253	Chondrostoma lemmingii	temperate	freshwater benthopelagic		
-254	Chromobotia macracanthus	tropical	freshwater demersal		
-255	Chrysochir aureus	tropical	benthopelagic marine brackish		
-256	Cirrhinus molitorella	tropical	freshwater benthopelagic potamodromous	5.0	20.0
-257	Cirrhinus mrigala	tropical	freshwater demersal		
-258	Citharinus congicus	tropical	pelagic freshwater		
-259	Clinocottus analis	subtropical	marine demersal non-migratory	0.0	18.0
-260	Clupanodon thrissa	tropical	anadromous freshwater marine brackish pelagic-neritic	0.0	50.0
-261	Clupea harengus	temperate	benthopelagic oceanodromous marine brackish	0.0	364.0
-262	Clupea pallasii	temperate	non-migratory freshwater marine brackish pelagic-neritic	0.0	475.0
-263	Clupeichthys aesarnensis	tropical	pelagic freshwater potamodromous		
-264	Clupeichthys goniognathus	tropical	pelagic freshwater		
-265	Clupeichthys perakensis	tropical	pelagic freshwater		
-266	Clupeoides borneensis	tropical	pelagic freshwater brackish		
-267	Clupeonella cultriventris	temperate	anadromous freshwater marine brackish pelagic-neritic	10.0	13.0
-268	Cobitis choii	subtropical	freshwater demersal non-migratory		
-269	Cobitis sinensis	subtropical	freshwater benthopelagic		
-270	Cobitis striata	temperate	freshwater benthopelagic		
-271	Cobitis takatsuensis	temperate	freshwater benthopelagic		
-272	Coelophrys brevicaudata	subtropical	marine demersal		1024.0
-273	Coelorinchus kishinouyei		bathydemersal marine non-migratory deep-water	250.0	450.0
-274	Coilia ectenes	subtropical	anadromous freshwater marine brackish pelagic-neritic	0.0	50.0
-275	Coilia lindmani	tropical	pelagic freshwater brackish		
-276	Coilia mystus	tropical	amphidromous freshwater marine brackish pelagic-neritic	10.0	
-277	Coilia nasus	subtropical	anadromous freshwater marine brackish pelagic-neritic	0.0	50.0
-278	Coilia reynaldi	tropical	amphidromous freshwater marine brackish pelagic-neritic	0.0	50.0
-279	Colisa lalia	tropical	freshwater benthopelagic		
-280	Collichthys lucidus	subtropical	oceanodromous marine demersal		90.0
-281	Collichthys niveatus	subtropical	oceanodromous marine demersal		
-282	Coloconger cadenati		bathydemersal marine deep-water	270.0	600.0
-283	Cololabis saira	subtropical	pelagic-oceanic oceanodromous marine	0.0	230.0
-284	Colomesus asellus	tropical	freshwater demersal		
-285	Colomesus psittacus	tropical	freshwater marine brackish demersal		40.0
-286	Conger myriaster	temperate	oceanodromous marine demersal	320.0	830.0
-287	Conocara macropterum		bathypelagic marine deep-water	800.0	2200.0
-288	Conocara murrayi		bathypelagic marine deep-water	1200.0	2603.0
-289	Coregonus clupeaformis	temperate	anadromous freshwater marine brackish demersal	18.0	128.0
-290	Coregonus lavaretus	temperate	anadromous freshwater marine brackish demersal		
-291	Coregonus nasus	polar	anadromous freshwater marine brackish demersal		
-292	Coregonus oxyrinchus	temperate	anadromous freshwater marine brackish demersal		
-293	Coreius guichenoti	subtropical	freshwater benthopelagic		
-294	Coreius heterodon	subtropical	freshwater benthopelagic		
-295	Coreoleuciscus splendidus	temperate	freshwater demersal		
-296	Coreoperca kawamebari	temperate	freshwater benthopelagic		
-297	Corydoras rabauti	tropical	freshwater demersal		
-298	Coryphaena equiselis	subtropical	pelagic-oceanic oceanodromous marine	0.0	
-299	Coryphaena hippurus	subtropical	oceanodromous marine brackish pelagic-neritic	0.0	85.0
-300	Cottus hangiongensis	temperate	catadromous freshwater marine brackish demersal		
-301	Cottus poecilopus	temperate	freshwater brackish demersal	0.0	15.0
-302	Cottus reinii	temperate	freshwater demersal		
-303	Cranoglanis bouderius	tropical	freshwater demersal		
-304	Crenimugil crenilabis	tropical	reef-associated marine brackish non-migratory	0.0	20.0
-305	Crenuchus spilurus	tropical	pelagic freshwater		
-306	Creteuchiloglanis kamengensis		freshwater benthopelagic		
-307	Cromeria nilotica	tropical	freshwater benthopelagic		
-308	Cromeria occidentalis	tropical	freshwater benthopelagic		
-309	Cromileptes altivelis	tropical	reef-associated marine	2.0	40.0
-310	Crossorhombus azureus	tropical	marine demersal	13.0	60.0
-311	Crossostoma lacustre	subtropical	freshwater demersal	1.0	10.0
-312	Cryptopsaras couesii		bathypelagic marine deep-water	0.0	3085.0
-313	Ctenolucius hujeta	tropical	pelagic freshwater		
-314	Ctenopharyngodon idella	subtropical	freshwater demersal potamodromous	0.0	30.0
-315	Cubiceps pauciradiatus	tropical	bathypelagic marine	58.0	1000.0
-316	Culaea inconstans	temperate	freshwater demersal	0.0	55.0
-317	Culter alburnus	temperate	freshwater benthopelagic		
-318	Culter mongolicus	subtropical	freshwater benthopelagic		
-319	Curimatopsis evelynae	tropical	freshwater benthopelagic		
-320	Cycleptus elongatus	subtropical	freshwater benthopelagic		
-321	Cyema atrum		bathypelagic marine deep-water	330.0	5100.0
-322	Cymatogaster aggregata	subtropical	non-migratory freshwater marine brackish demersal		146.0
-323	Cynoglossus abbreviatus		marine demersal deep-water	20.0	85.0
-324	Cynoglossus semilaevis	subtropical	freshwater marine brackish demersal		
-325	Cynoponticus ferox	subtropical	marine demersal	10.0	100.0
-326	Cynotilapia afra	tropical	freshwater benthopelagic	3.0	30.0
-327	Cyphomyrus discorhynchus	tropical	freshwater demersal		
-328	Cyprinella lutrensis	temperate	freshwater benthopelagic		
-329	Cyprinella spiloptera	temperate	freshwater benthopelagic		
-330	Cyprinodon rubrofluviatilis	temperate	freshwater benthopelagic non-migratory		
-331	Cyprinus carpio	subtropical	freshwater benthopelagic brackish potamodromous		
-332	Cypselurus hiraii	temperate	marine pelagic-neritic		
-333	Dactyloptena peterseni	tropical	marine demersal	50.0	210.0
-334	Dactyloptena tiltoni		bathydemersal marine deep-water	119.0	565.0
-335	Dallia pectoralis	boreal	freshwater demersal		
-336	Danacetichthys galathenus		bathypelagic marine deep-water	0.0	1330.0
-337	Danio dangila	tropical	freshwater benthopelagic		
-338	Danio rerio	tropical	freshwater benthopelagic		
-339	Danionella mirifica	tropical	freshwater benthopelagic		
-340	Dendrophysa russelii	tropical	amphidromous freshwater marine brackish demersal		
-341	Denticeps clupeoides	tropical	pelagic freshwater		
-342	Derichthys serpentinus		bathypelagic marine deep-water	0.0	2000.0
-343	Diagramma picta	tropical	reef-associated marine non-migratory	1.0	170.0
-344	Diaphus chrysorhynchus		bathypelagic marine deep-water	213.0	587.0
-345	Diaphus gigas	temperate	pelagic-oceanic marine	100.0	500.0
-346	Diaphus lucidus		bathypelagic marine deep-water oceanodromous	0.0	2999.0
-347	Diaphus luetkeni		bathypelagic marine deep-water oceanodromous	40.0	750.0
-348	Diaphus splendidus		bathypelagic marine deep-water oceanodromous	0.0	8000.0
-349	Diaphus theta		bathypelagic marine deep-water	0.0	3400.0
-350	Diceratias pileatus		bathypelagic marine deep-water	640.0	1430.0
-351	Dimidiochromis compressiceps	tropical	freshwater benthopelagic		
-352	Diodon holocanthus	subtropical	reef-associated marine	2.0	200.0
-353	Diogenichthys atlanticus		bathypelagic marine deep-water oceanodromous	0.0	1050.0
-354	Diplacanthopoma brachysoma		bathydemersal marine deep-water	460.0	1670.0
-355	Diplomystes nahuelbutaensis	subtropical	freshwater demersal		
-356	Diplotaxodon limnothrissa	tropical	pelagic freshwater	20.0	220.0
-357	Diretmoides veriginae		bathypelagic marine deep-water	340.0	1300.0
-358	Diretmus argenteus		bathypelagic marine deep-water	0.0	2000.0
-359	Dissostichus eleginoides	temperate	pelagic-oceanic oceanodromous marine	50.0	3850.0
-360	Distichodus sexfasciatus	tropical	pelagic freshwater		
-361	Distoechodon tumirostris	subtropical	freshwater benthopelagic	10.0	20.0
-362	Ditrema temminckii	temperate	marine demersal		
-363	Doederleinia berycoides	tropical	marine demersal	100.0	600.0
-364	Dorosoma cepedianum	subtropical	anadromous freshwater marine brackish pelagic-neritic		33.0
-365	Dorosoma petenense	subtropical	anadromous freshwater marine brackish pelagic-neritic	0.0	15.0
-366	Dysalotus alcocki		bathypelagic marine deep-water oceanodromous	0.0	2100.0
-367	Echeneis naucrates	subtropical	reef-associated marine brackish	1.0	50.0
-368	Ehirava fluviatilis	tropical	amphidromous freshwater marine brackish pelagic-neritic		
-369	Elassoma evergladei	temperate	freshwater demersal		
-370	Elassoma zonatum	temperate	freshwater demersal		
-371	Electrona antarctica	polar	oceanodromous marine demersal		
-372	Electrophorus electricus	tropical	freshwater benthopelagic		
-373	Eleotris acanthopoma	tropical	amphidromous freshwater marine brackish demersal		
-374	Eleutheronema tetradactylum	tropical	amphidromous freshwater marine brackish pelagic-neritic	0.0	23.0
-375	Elops hawaiensis	tropical	anadromous freshwater marine brackish pelagic-neritic	1.0	30.0
-376	Elops saurus	subtropical	amphidromous reef-associated marine brackish		50.0
-377	Emmelichthys struhsakeri	temperate	benthopelagic marine	180.0	428.0
-378	Engraulis encrasicolus	subtropical	oceanodromous marine brackish pelagic-neritic	0.0	400.0
-379	Engraulis japonicus	temperate	oceanodromous marine pelagic-neritic	0.0	400.0
-380	Enophrys diceraus	temperate	marine demersal	0.0	380.0
-381	Enoplosus armatus	temperate	reef-associated marine brackish		90.0
-382	Epinephelus akaara	tropical	reef-associated marine		55.0
-383	Epinephelus areolatus	tropical	reef-associated marine	6.0	200.0
-384	Epinephelus awoara	tropical	reef-associated marine	10.0	50.0
-385	Epinephelus bruneus	tropical	reef-associated marine	20.0	200.0
-386	Epinephelus coioides	subtropical	reef-associated marine brackish		100.0
-387	Epinephelus epistictus	tropical	marine demersal	71.0	291.0
-388	Epinephelus fasciatomaculosus	tropical	reef-associated marine	15.0	30.0
-389	Epinephelus fuscoguttatus	tropical	reef-associated marine	1.0	60.0
-390	Epinephelus lanceolatus	tropical	reef-associated marine brackish	4.0	100.0
-391	Epinephelus latifasciatus	tropical	marine demersal	20.0	230.0
-392	Epinephelus merra	tropical	reef-associated marine	0.0	50.0
-393	Epinephelus moara	tropical	reef-associated marine	20.0	200.0
-394	Epinephelus quoyanus	tropical	reef-associated marine		50.0
-395	Epinephelus septemfasciatus	tropical	reef-associated marine non-migratory	5.0	30.0
-396	Epinephelus sexfasciatus	tropical	reef-associated marine	10.0	80.0
-397	Epinephelus stictus	tropical	marine demersal	60.0	142.0
-398	Epinephelus trimaculatus	tropical	reef-associated marine		30.0
-399	Erimyzon oblongus	subtropical	freshwater demersal		
-400	Erpetoichthys calabaricus	tropical	freshwater brackish demersal	0.0	
-401	Escualosa thoracata	tropical	amphidromous freshwater marine brackish pelagic-neritic	0.0	50.0
-402	Esomus metallicus	tropical	freshwater benthopelagic brackish		
-403	Esox lucius	subtropical	freshwater brackish potamodromous demersal	0.0	30.0
-404	Esox niger	temperate	freshwater demersal non-migratory		6.0
-405	Etheostoma radiosum	subtropical	freshwater benthopelagic		
-406	Ethmalosa fimbriata	tropical	catadromous freshwater marine brackish pelagic-neritic	0.0	
-407	Ethmidium maculatum	tropical	marine pelagic-neritic	0.0	50.0
-408	Etroplus maculatus	tropical	amphidromous freshwater benthopelagic brackish		
-409	Etrumeus micropus	subtropical	marine pelagic-neritic		
-410	Eubalichthys mosaicus	temperate	reef-associated marine		140.0
-411	Euchiloglanis kishinouyei	subtropical	freshwater demersal		
-412	Eumegistus illustris		bathypelagic marine deep-water	1.0	520.0
-413	Eurypegasus draconis	tropical	reef-associated marine brackish	3.0	91.0
-414	Eutaeniophorus festivus		bathypelagic marine deep-water	0.0	200.0
-415	Euthynnus alletteratus	tropical	reef-associated oceanodromous marine brackish	1.0	150.0
-416	Evoxymetopon poeyi	tropical	benthopelagic marine		
-417	Exocoetus volitans	subtropical	oceanodromous marine pelagic-neritic	0.0	20.0
-418	Exostoma labiatum		freshwater demersal		
-419	Facciolella oxyrhyncha	subtropical	marine demersal	30.0	731.0
-420	Fistularia commersonii	tropical	reef-associated marine	0.0	132.0
-421	Fundulus diaphanus	temperate	freshwater benthopelagic brackish non-migratory		
-422	Fundulus grandis	tropical	freshwater benthopelagic brackish potamodromous		
-423	Fundulus heteroclitus	temperate	benthopelagic freshwater marine brackish non-migratory		
-424	Fundulus olivaceus	temperate	freshwater benthopelagic non-migratory		
-425	Gadus chalcogrammus	polar	benthopelagic marine brackish non-migratory	0.0	1280.0
-426	Gadus morhua	temperate	benthopelagic oceanodromous marine brackish	0.0	600.0
-427	Gadus ogac	polar	oceanodromous marine brackish demersal	0.0	200.0
-428	Gagata dolichonema	tropical	freshwater benthopelagic		
-429	Galaxias gollumoides	temperate	freshwater benthopelagic		
-430	Galaxias maculatus	temperate	benthopelagic freshwater marine brackish catadromous		
-431	Galaxiella nigrostriata	temperate	freshwater demersal		
-432	Gambusia affinis	subtropical	freshwater benthopelagic brackish potamodromous		
-433	Garra orientalis	subtropical	freshwater benthopelagic		
-434	Gasterochisma melampus	subtropical	pelagic-oceanic oceanodromous marine	200.0	
-435	Gasterosteus aculeatus	temperate	benthopelagic freshwater marine brackish anadromous	0.0	100.0
-436	Gasterosteus wheatlandi	temperate	benthopelagic marine brackish		
-437	Gempylus serpens		pelagic-oceanic oceanodromous marine deep-water	0.0	600.0
-438	Genyochromis mento	tropical	freshwater benthopelagic	2.0	25.0
-439	Genyomyrus donnyi	tropical	freshwater demersal		
-440	Gigantactis vanhoeffeni		bathypelagic marine deep-water	300.0	5300.0
-441	Gila conspersa	tropical	freshwater benthopelagic		
-442	Gila robusta	subtropical	freshwater benthopelagic		
-443	Gilchristella aestuaria	subtropical	amphidromous freshwater marine brackish pelagic-neritic		
-444	Gillichthys mirabilis	subtropical	marine brackish demersal		
-445	Gillichthys seta	subtropical	marine demersal		
-446	Girella punctata	temperate	reef-associated oceanodromous marine		
-447	Glaridoglanis andersonii		freshwater demersal		
-448	Glossanodon semifasciatus	temperate	benthopelagic marine	70.0	430.0
-449	Glossogobius circumspectus	tropical	freshwater brackish demersal		
-450	Glossogobius olivaceus	temperate	amphidromous freshwater marine brackish demersal		
-451	Glyptosternon maculatum		freshwater demersal		
-452	Glyptothorax fokiensis	subtropical	freshwater benthopelagic brackish		
-453	Glyptothorax trilineatus		freshwater benthopelagic		
-454	Gnathonemus petersii	tropical	freshwater demersal		
-455	Gnathopogon elongatus	temperate	freshwater benthopelagic		
-456	Gnathopogon strigatus	temperate	freshwater benthopelagic		
-457	Gobio gobio	temperate	freshwater benthopelagic brackish potamodromous		
-458	Gobiobotia brevibarba	temperate	freshwater benthopelagic		
-459	Gobiobotia macrocephala	temperate	freshwater benthopelagic		
-460	Gobiobotia naktongensis	temperate	freshwater benthopelagic		
-461	Gobiocypris rarus	temperate	freshwater benthopelagic		
-462	Gonorynchus abbreviatus	subtropical	marine demersal	50.0	100.0
-463	Gonorynchus greyi	subtropical	marine brackish demersal		160.0
-464	Grammatobothus krempfi	tropical	marine demersal		
-465	Grasseichthys gabonensis	tropical	freshwater benthopelagic		
-466	Gudusia chapra	subtropical	pelagic freshwater brackish potamodromous		
-467	Gymnarchus niloticus	tropical	freshwater demersal potamodromous		
-468	Gymnocypris dobula	subtropical	freshwater benthopelagic		
-469	Gymnocypris eckloni	temperate	freshwater benthopelagic		
-470	Gymnocypris namensis	temperate	freshwater benthopelagic		
-471	Gymnocypris przewalskii	temperate	freshwater benthopelagic potamodromous		
-472	Gymnogobius petschiliensis	temperate	amphidromous freshwater marine brackish demersal		
-473	Gymnosarda unicolor	tropical	reef-associated oceanodromous marine	10.0	100.0
-474	Gymnoscopelus nicholsi		bathypelagic marine deep-water oceanodromous	300.0	
-475	Gymnothorax kidako	tropical	reef-associated marine	2.0	350.0
-476	Gymnotus carapo	subtropical	freshwater benthopelagic potamodromous		
-477	Gyrinocheilus aymonieri	tropical	freshwater demersal potamodromous		
-478	Gyrinomimus myersi		bathypelagic marine deep-water	1280.0	2791.0
-479	Gyrinomimus sp.	polar	benthopelagic marine	0.0	1400.0
-480	Halichoeres melanurus	tropical	reef-associated marine	1.0	
-481	Halichoeres tenuispinis	tropical	reef-associated marine		4.0
-482	Halichoeres trimaculatus	tropical	reef-associated marine	2.0	30.0
-483	Halieutaea stellata	tropical	marine demersal	50.0	400.0
-484	Hapalogenys analis	tropical	benthopelagic marine		
-485	Hapalogenys nigripinnis	temperate	benthopelagic marine brackish		
-486	Haplophryne mollis		bathypelagic marine deep-water oceanodromous		2250.0
-487	Hara jerdoni	tropical	freshwater demersal		
-488	Harengula jaguana	tropical	reef-associated marine brackish		22.0
-489	Harpadon microchir	tropical	marine demersal		
-490	Harpadon nehereus	tropical	benthopelagic oceanodromous marine brackish	50.0	
-491	Helicolenus avius		bathydemersal marine deep-water	450.0	600.0
-492	Helicolenus hilgendorfi	temperate	marine demersal	150.0	500.0
-493	Helogenes marmoratus	tropical	freshwater demersal		
-494	Hemibagrus macropterus	temperate	freshwater demersal		
-495	Hemibarbus barbus	temperate	freshwater benthopelagic potamodromous	5.0	20.0
-496	Hemibarbus labeo	temperate	freshwater benthopelagic potamodromous	5.0	20.0
-497	Hemibarbus longirostris	temperate	freshwater benthopelagic		
-498	Hemibarbus maculatus	temperate	freshwater benthopelagic		
-499	Hemibarbus mylodon	temperate	freshwater benthopelagic		
-500	Hemibarbus umbrifer	subtropical	freshwater benthopelagic		
-501	Hemigrammocypris rasborella	temperate	freshwater benthopelagic brackish		
-502	Hemiodopsis gracilis	tropical	freshwater benthopelagic		
-503	Heniochus diphreutes	subtropical	reef-associated marine non-migratory	15.0	210.0
-504	Hepsetus odoe	tropical	freshwater demersal potamodromous		
-505	Herwigia kreffti		bathypelagic marine deep-water	1000.0	3200.0
-506	Heteroconger hassi	tropical	reef-associated marine non-migratory	7.0	45.0
-507	Heteropneustes fossilis	tropical	freshwater brackish demersal		
-508	Heterotis niloticus	tropical	pelagic freshwater	1.0	
-509	Hexagrammos agrammus	temperate	oceanodromous marine demersal		
-510	Himantolophus albinares		bathypelagic marine deep-water	845.0	
-511	Himantolophus groenlandicus		bathypelagic marine deep-water	830.0	
-512	Hiodon alosoides	temperate	pelagic freshwater potamodromous		
-513	Hiodon tergisus	temperate	pelagic freshwater		
-514	Hippocampus comes	tropical	reef-associated marine non-migratory		20.0
-515	Hippocampus histrix	tropical	reef-associated marine non-migratory		82.0
-516	Hippocampus kuda	tropical	reef-associated marine brackish non-migratory	0.0	68.0
-517	Hippocampus trimaculatus	tropical	reef-associated marine non-migratory		100.0
-518	Hippoglossus hippoglossus	temperate	oceanodromous marine demersal	50.0	2000.0
-519	Hippoglossus stenolepis	temperate	oceanodromous marine demersal	0.0	1200.0
-520	Histiopterus typus		reef-associated marine deep-water	40.0	421.0
-521	Histrio histrio	subtropical	reef-associated oceanodromous marine	0.0	50.0
-522	Homaloptera leonardi	tropical	freshwater demersal		
-523	Homatula variegatus	subtropical	freshwater demersal		
-524	Hoplias malabaricus	tropical	freshwater benthopelagic potamodromous		
-525	Hoplostethus japonicus		bathypelagic marine deep-water	336.0	605.0
-526	Hoplunnis punctata		marine demersal deep-water		
-527	Horadandia atukorali	tropical	pelagic freshwater brackish		
-528	Hucho bleekeri	subtropical	freshwater benthopelagic potamodromous		
-529	Hucho taimen	temperate	freshwater benthopelagic potamodromous		
-530	Huso huso	temperate	anadromous freshwater marine brackish demersal	70.0	180.0
-531	Hydrolycus scomberoides	tropical	freshwater benthopelagic		
-532	Hypentelium nigricans	temperate	freshwater demersal potamodromous		
-533	Hyperlophus vittatus	temperate	amphidromous marine brackish pelagic-neritic	10.0	13.0
-534	Hyperoglyphe japonica	temperate	benthopelagic oceanodromous marine	150.0	400.0
-535	Hyperopisus bebe	tropical	freshwater brackish potamodromous demersal		
-536	Hypoatherina tsurugae	temperate	marine pelagic-neritic		
-537	Hypomesus nipponensis	temperate	pelagic anadromous freshwater brackish		
-538	Hypophthalmichthys molitrix	subtropical	freshwater benthopelagic potamodromous	0.0	20.0
-539	Hypophthalmichthys nobilis	temperate	freshwater benthopelagic potamodromous	5.0	
-540	Hypoplectrus gemma	tropical	reef-associated marine		
-541	Hypoptychus dybowskii	temperate	benthopelagic marine		
-542	Hyporhamphus sajori	temperate	amphidromous freshwater marine brackish pelagic-neritic	30.0	
-543	Hyporthodus octofasciatus		bathydemersal marine deep-water	150.0	300.0
-544	Hypselecara temporalis	tropical	freshwater benthopelagic		
-545	Icichthys lockingtoni	subtropical	pelagic-oceanic marine	0.0	900.0
-546	Icosteus aenigmaticus		bathypelagic marine deep-water	0.0	1420.0
-547	Ictalurus punctatus	subtropical	freshwater benthopelagic	15.0	
-548	Ictiobus bubalus	temperate	freshwater demersal		
-549	Ijimaia dofleini		bathydemersal marine deep-water		1281.0
-550	Ilisha africana	tropical	marine brackish pelagic-neritic	0.0	25.0
-551	Ilisha elongata	tropical	marine brackish pelagic-neritic	5.0	
-552	Ilyophis brunneus		bathypelagic marine deep-water	450.0	3120.0
-553	Indostomus paradoxus	tropical	freshwater benthopelagic		
-554	Ischikauia steenackeri	temperate	freshwater demersal		
-555	Isichthys henryi	tropical	freshwater demersal		
-556	Iso hawaiiensis	tropical	reef-associated marine	0.0	2.0
-557	Istiophorus albicans	subtropical	pelagic-oceanic oceanodromous marine	0.0	200.0
-558	Istiophorus platypterus	subtropical	pelagic-oceanic oceanodromous marine	0.0	200.0
-559	Ivindomyrus marchei	tropical	freshwater demersal		
-560	Jenkinsia lamprotaenia	subtropical	reef-associated marine	0.0	50.0
-561	Johnius belangerii	tropical	amphidromous marine brackish demersal		40.0
-562	Johnius grypotus	tropical	benthopelagic marine		
-563	Jordanella floridae	subtropical	freshwater benthopelagic brackish non-migratory		
-564	Kali indica		bathypelagic marine deep-water	1000.0	3300.0
-565	Kareius bicoloratus	temperate	oceanodromous freshwater marine brackish demersal		150.0
-566	Katsuwonus pelamis	tropical	pelagic-oceanic oceanodromous marine	0.0	260.0
-567	Kaupichthys hyoproroides	subtropical	reef-associated marine	1.0	95.0
-568	Kentrocapros aculeatus	temperate	benthopelagic marine	100.0	200.0
-569	Konosirus punctatus	subtropical	oceanodromous marine brackish pelagic-neritic		
-570	Koreocobitis naktongensis	subtropical	freshwater demersal		
-571	Koreocobitis rotundicaudata	temperate	freshwater demersal		
-572	Krefftichthys anderssoni		bathypelagic marine deep-water oceanodromous		2700.0
-573	Kuhlia mugil	tropical	reef-associated marine brackish	3.0	18.0
-574	Kurtus gulliveri	tropical	freshwater benthopelagic brackish		
-575	Kyphosus cinerascens	tropical	reef-associated marine	1.0	45.0
-576	Labeo bata	tropical	freshwater benthopelagic potamodromous		
-577	Labeo batesii	tropical	freshwater benthopelagic		
-578	Labeo calbasu	tropical	freshwater brackish potamodromous demersal	10.0	10.0
-579	Labeo rohita	tropical	freshwater benthopelagic brackish potamodromous	5.0	
-580	Labeo senegalensis	tropical	freshwater benthopelagic potamodromous		
-581	Labichthys carinatus		bathypelagic marine deep-water	0.0	2000.0
-582	Labracinus cyclophthalmus	tropical	reef-associated marine	2.0	20.0
-583	Labracoglossa argentiventris	temperate	reef-associated marine		
-584	Lactoria diaphana	subtropical	reef-associated marine brackish	8.0	50.0
-585	Lagocephalus laevigatus	subtropical	marine brackish pelagic-neritic	10.0	180.0
-586	Lagocephalus lagocephalus	subtropical	benthopelagic oceanodromous marine	10.0	476.0
-587	Lagocephalus lunaris	tropical	oceanodromous marine brackish demersal		
-588	Lagocephalus sceleratus	tropical	reef-associated marine	18.0	100.0
-589	Lagocephalus wheeleri	temperate	marine demersal		
-590	Lampadena atlantica		bathypelagic marine deep-water oceanodromous	60.0	1000.0
-591	Lampadena yaquinae		bathypelagic marine deep-water	100.0	900.0
-592	Lampanyctus crocodilus		bathypelagic marine deep-water oceanodromous	0.0	1192.0
-593	Lampanyctus macdonaldi		bathypelagic marine deep-water oceanodromous	60.0	1464.0
-594	Lampris guttatus		bathypelagic marine deep-water oceanodromous	100.0	500.0
-595	Lamprogrammus niger		bathypelagic marine deep-water	741.0	2000.0
-596	Larimichthys crocea	temperate	benthopelagic oceanodromous marine brackish	10.0	
-597	Larimichthys polyactis	subtropical	benthopelagic oceanodromous marine		120.0
-598	Lateolabrax japonicus	subtropical	catadromous reef-associated freshwater marine brackish	5.0	
-599	Lates calcarifer	tropical	catadromous freshwater marine brackish demersal	10.0	40.0
-600	Lebiasina astrigata	tropical	freshwater demersal		
-601	Lefua echigonia	temperate	freshwater demersal		
-602	Leiocassis crassilabris	subtropical	freshwater demersal		
-603	Leiocassis longirostris	temperate	freshwater demersal		
-604	Lepidocybium flavobrunneum		benthopelagic oceanodromous marine deep-water	200.0	1100.0
-605	Lepisosteus oculatus	temperate	freshwater brackish demersal		
-606	Lepisosteus osseus	temperate	freshwater brackish demersal	0.0	
-607	Lepomis cyanellus	subtropical	freshwater benthopelagic		
-608	Lepomis macrochirus	subtropical	freshwater benthopelagic		
-609	Leporinus affinis	tropical	freshwater benthopelagic		
-610	Leptobarbus hoevenii	tropical	pelagic freshwater potamodromous	3.0	
-611	Leptobotia elongata	subtropical	freshwater demersal		
-612	Leptobotia mantschurica	temperate	freshwater demersal non-migratory		
-613	Leptochilichthys agassizii		bathypelagic marine deep-water	2000.0	3100.0
-614	Leptoderma lubricum		bathypelagic marine deep-water	0.0	1700.0
-615	Leptoderma macrophthalmum		bathydemersal marine deep-water	2063.0	2107.0
-616	Leptoderma retropinna		bathypelagic marine deep-water	600.0	1100.0
-617	Lethrinus obsoletus	tropical	reef-associated marine non-migratory		30.0
-618	Leucaspius delineatus	temperate	pelagic freshwater brackish potamodromous	0.0	1.0
-619	Leuciscus waleckii	temperate	freshwater benthopelagic potamodromous		
-620	Linophryne bicornis		bathypelagic marine deep-water		
-621	Liobagrus anguillicauda	temperate	freshwater benthopelagic		
-622	Liobagrus kingi	temperate	freshwater benthopelagic		
-623	Liobagrus marginatoides	temperate	freshwater benthopelagic		
-624	Liobagrus nigricauda	subtropical	freshwater benthopelagic		
-625	Liobagrus obesus	temperate	freshwater benthopelagic		
-626	Liobagrus reinii	temperate	freshwater benthopelagic		
-627	Lipolagus ochotensis		bathypelagic marine deep-water	0.0	6100.0
-628	Liza affinis	subtropical	marine brackish pelagic-neritic		
-629	Lobianchia gemellarii		bathypelagic marine deep-water oceanodromous	25.0	800.0
-630	Lophiodes caulinaris		marine demersal deep-water	15.0	311.0
-631	Lophiogobius ocellicauda	temperate	freshwater demersal		
-632	Lophiomus setigerus	tropical	marine demersal	30.0	800.0
-633	Lophius americanus	temperate	oceanodromous marine demersal	0.0	668.0
-634	Lota lota	temperate	freshwater brackish potamodromous demersal	1.0	700.0
-635	Luciobarbus capito	temperate	freshwater benthopelagic brackish		
-636	Luciogobius platycephalus	temperate	marine demersal		
-637	Luciosoma bleekeri	tropical	pelagic freshwater		
-638	Luciosoma setigerum	tropical	pelagic freshwater		
-639	Lutjanus argentimaculatus	subtropical	reef-associated freshwater marine brackish oceanodromous	10.0	120.0
-640	Lutjanus bengalensis	tropical	reef-associated marine	10.0	30.0
-641	Lutjanus erythropterus	tropical	reef-associated marine	5.0	100.0
-642	Lutjanus kasmira	tropical	reef-associated marine	3.0	265.0
-643	Lutjanus malabaricus	tropical	reef-associated marine	12.0	100.0
-644	Lutjanus rivulatus	tropical	reef-associated marine	50.0	100.0
-645	Lutjanus russellii	tropical	reef-associated marine brackish	10.0	80.0
-646	Lutjanus sebae	tropical	reef-associated marine brackish	5.0	180.0
-647	Luvarus imperialis	subtropical	pelagic-oceanic oceanodromous marine	0.0	200.0
-648	Lycengraulis grossidens	subtropical	anadromous freshwater marine brackish pelagic-neritic		40.0
-649	Lycodes toyamensis	temperate	marine demersal		
-650	Lycothrissa crocodilus	tropical	pelagic freshwater brackish potamodromous		
-651	Macrochirichthys macrochirus	tropical	freshwater benthopelagic		
-652	Macroramphosus scolopax	subtropical	marine demersal	25.0	600.0
-653	Macrorhamphosodes uradoi	tropical	marine demersal	50.0	675.0
-654	Makaira indica	subtropical	pelagic-oceanic oceanodromous marine	0.0	915.0
-655	Makaira mazara	subtropical	pelagic-oceanic oceanodromous marine	0.0	200.0
-656	Malapterurus electricus	tropical	freshwater benthopelagic potamodromous		
-657	Mallotus villosus	polar	pelagic-oceanic freshwater marine brackish anadromous	0.0	725.0
-658	Malthopsis jordani		bathydemersal marine deep-water	185.0	520.0
-659	Marcusenius senegalensis	tropical	freshwater demersal potamodromous		
-660	Marilyna darwinii	tropical	marine brackish demersal		
-661	Mastacembelus favus	tropical	freshwater demersal		
-662	Masturus lanceolatus		bathypelagic marine brackish deep-water		670.0
-663	Maulisia mauli		bathypelagic marine deep-water	400.0	1200.0
-664	Megalobrama amblycephala	temperate	freshwater benthopelagic	5.0	20.0
-665	Megalobrama terminalis	temperate	freshwater benthopelagic		
-666	Megalops atlanticus	subtropical	amphidromous reef-associated freshwater marine brackish	0.0	30.0
-667	Megalops cyprinoides	tropical	amphidromous benthopelagic freshwater marine brackish	50.0	
-668	Melanocetus johnsoni		bathypelagic marine deep-water	100.0	4500.0
-669	Melanocetus murrayi		bathypelagic marine deep-water	100.0	6370.0
-670	Melanogrammus aeglefinus	temperate	oceanodromous marine demersal	10.0	450.0
-671	Melanotaenia lacustris	tropical	freshwater benthopelagic		
-672	Melichthys vidua	tropical	reef-associated marine	4.0	60.0
-673	Mene maculata	tropical	reef-associated marine brackish	50.0	200.0
-674	Menidia menidia	temperate	oceanodromous marine brackish pelagic-neritic	0.0	3.0
-675	Merlangius merlangus	temperate	benthopelagic oceanodromous marine	10.0	200.0
-676	Merluccius merluccius	temperate	marine demersal	30.0	1075.0
-677	Mesocottus haitej	temperate	freshwater benthopelagic		
-678	Metzia formosae	subtropical	freshwater benthopelagic		
-679	Meuschenia hippocrepis	temperate	marine demersal		120.0
-680	Microcanthus strigatus	tropical	reef-associated oceanodromous marine brackish	1.0	140.0
-681	Microdevario nana	tropical	freshwater benthopelagic brackish		
-682	Micromesistius poutassou	temperate	bathypelagic marine oceanodromous	150.0	3000.0
-683	Micropercops swinhonis	subtropical	freshwater demersal		
-684	Microphis brachyurus	tropical	anadromous freshwater marine brackish demersal		
-685	Microphysogobio alticorpus	subtropical	freshwater benthopelagic		
-686	Microphysogobio brevirostris	subtropical	freshwater benthopelagic	1.0	5.0
-687	Microphysogobio koreensis	temperate	freshwater benthopelagic		
-688	Microphysogobio longidorsalis	temperate	freshwater benthopelagic		
-689	Micropterus dolomieu	temperate	freshwater benthopelagic		
-690	Micropterus floridanus	subtropical	freshwater benthopelagic		
-691	Micropterus salmoides	subtropical	freshwater benthopelagic		7.0
-692	Microrasbora erythromicron	tropical	freshwater benthopelagic		
-693	Microthrissa congica	tropical	pelagic freshwater		
-694	Microthrissa royauxi	tropical	pelagic freshwater		
-695	Miichthys miiuy	temperate	oceanodromous marine brackish demersal	15.0	100.0
-696	Minytrema melanops	subtropical	freshwater demersal		
-697	Misgurnus anguillicaudatus	subtropical	freshwater demersal	5.0	
-698	Misgurnus nikolskyi	temperate	freshwater demersal		
-699	Mola mola	subtropical	pelagic-oceanic oceanodromous marine	30.0	480.0
-700	Monacanthus chinensis	tropical	reef-associated marine	3.0	12.0
-701	Monocentris japonicus	tropical	reef-associated marine	10.0	200.0
-702	Monodactylus argenteus	tropical	freshwater marine brackish pelagic-neritic		
-703	Monognathus jesperseni		bathypelagic marine deep-water		3000.0
-704	Monopterus albus	tropical	freshwater brackish potamodromous demersal	3.0	
-705	Monotrete cochinchinensis	tropical	freshwater demersal		
-706	Moolgarda cunnesius	tropical	catadromous freshwater marine brackish demersal		
-707	Moringua edwardsi	subtropical	reef-associated marine brackish		
-708	Moringua microchir	tropical	reef-associated marine brackish	3.0	20.0
-709	Mormyrops anguilloides	tropical	freshwater demersal potamodromous		
-710	Mormyrus rume	tropical	freshwater demersal potamodromous		
-711	Morone saxatilis	temperate	anadromous freshwater marine brackish demersal	30.0	
-712	Moxostoma congestum	subtropical	freshwater demersal		
-713	Moxostoma poecilurum	temperate	freshwater demersal		
-714	Mugil cephalus	subtropical	benthopelagic freshwater marine brackish catadromous	0.0	120.0
-715	Mugil curema	subtropical	catadromous reef-associated freshwater marine brackish	15.0	
-716	Muraenesox bagio	tropical	oceanodromous marine brackish demersal		100.0
-717	Myctophum affine		bathypelagic marine brackish deep-water oceanodromous	0.0	600.0
-718	Myctophum asperum		bathypelagic marine deep-water oceanodromous	0.0	750.0
-719	Myctophum nitidulum		bathypelagic marine deep-water oceanodromous	0.0	1000.0
-720	Myctophum orientale		bathypelagic marine deep-water		
-721	Myctophum punctatum		bathypelagic marine deep-water oceanodromous	0.0	1000.0
-722	Mylocheilus caurinus	temperate	freshwater brackish demersal		
-723	Mylopharyngodon piceus	subtropical	freshwater demersal potamodromous	5.0	30.0
-724	Myomyrus macrops	tropical	freshwater demersal		
-725	Myrichthys maculosus	tropical	reef-associated marine	0.0	262.0
-726	Myripristis berndti	tropical	reef-associated marine	1.0	50.0
-727	Myroconger compressus	tropical	marine demersal		
-728	Myxocyprinus asiaticus	subtropical	freshwater demersal potamodromous		
-729	Myxus capensis	subtropical	catadromous freshwater marine brackish demersal		
-730	Nannobrachium ritteri		bathypelagic marine deep-water	20.0	1095.0
-731	Nannoperca australis	temperate	freshwater benthopelagic		
-732	Nannoperca obscura	temperate	freshwater benthopelagic brackish		
-733	Nansenia ardesiaca		bathydemersal marine deep-water	260.0	553.0
-734	Narcetes erimelas		bathypelagic marine deep-water	1300.0	2600.0
-735	Narcetes stomias		bathypelagic marine deep-water	1500.0	2300.0
-736	Naso lopezi	tropical	reef-associated marine	6.0	20.0
-737	Nealotus tripes		bathypelagic marine deep-water oceanodromous	914.0	1646.0
-738	Nelusetta ayraudi	subtropical	marine demersal	0.0	360.0
-739	Nematalosa come	tropical	marine pelagic-neritic	10.0	13.0
-740	Nematalosa japonica	tropical	benthopelagic marine		
-741	Nemichthys scolopaceus		bathypelagic marine deep-water	0.0	3656.0
-742	Neoceratias spinifer		marine demersal deep-water	0.0	1200.0
-743	Neocyttus rhomboidalis		bathypelagic marine deep-water oceanodromous	200.0	1240.0
-744	Neolamprologus brichardi	tropical	freshwater benthopelagic		
-745	Neosalanx taihuensis	subtropical	freshwater demersal		
-746	Neoscopelus macrolepidotus		bathypelagic marine non-migratory deep-water	300.0	1180.0
-747	Neoscopelus microchir		bathypelagic marine deep-water	250.0	700.0
-748	Nesiarchus nasutus		benthopelagic marine deep-water	200.0	1200.0
-749	Nessorhamphus ingolfianus		bathypelagic marine deep-water	0.0	1800.0
-750	Nettastoma parviceps		benthopelagic marine deep-water	60.0	1190.0
-751	Nibea albiflora	temperate	benthopelagic marine	25.0	80.0
-752	Nicholsicypris normalis	subtropical	freshwater benthopelagic brackish		
-753	Nimbochromis linni	tropical	freshwater demersal	2.0	61.0
-754	Niwaella delicata	temperate	freshwater demersal		
-755	Normichthys operosus		bathypelagic marine deep-water		1000.0
-756	Notacanthus chemnitzi		benthopelagic marine deep-water	125.0	3285.0
-757	Notemigonus crysoleucas	temperate	freshwater demersal	10.0	
-758	Nothobranchius furzeri	tropical	freshwater benthopelagic non-migratory		
-759	Notolychnus valdiviae		bathypelagic marine deep-water oceanodromous	25.0	700.0
-760	Notopterus notopterus	tropical	freshwater brackish potamodromous demersal		
-761	Notoscopelus caudispinosus		bathypelagic marine deep-water oceanodromous	0.0	
-762	Notoscopelus elongatus	subtropical	pelagic-oceanic oceanodromous marine	45.0	1000.0
-763	Notoscopelus japonicus		bathypelagic marine deep-water	0.0	785.0
-764	Notoscopelus kroyeri	temperate	pelagic-oceanic oceanodromous marine	0.0	1000.0
-765	Notothenia coriiceps	polar	marine demersal	0.0	550.0
-766	Notropis stramineus	temperate	freshwater benthopelagic		
-767	Novumbra hubbsi	temperate	freshwater demersal		
-768	Odax cyanomelas	subtropical	marine pelagic-neritic	1.0	15.0
-769	Odaxothrissa losera	tropical	pelagic freshwater		
-770	Odontamblyopus rubicundus	subtropical	amphidromous benthopelagic marine brackish		
-771	Odontobutis platycephala	subtropical	freshwater benthopelagic		
-772	Odonus niger	tropical	reef-associated oceanodromous marine	5.0	40.0
-773	Oedalechilus labeo	subtropical	marine brackish demersal		
-774	Omegophora armilla	temperate	marine demersal		146.0
-775	Oncorhynchus clarkii	temperate	anadromous freshwater marine brackish demersal	0.0	200.0
-776	Oncorhynchus gorbuscha	subtropical	anadromous freshwater marine brackish demersal	0.0	250.0
-777	Oncorhynchus keta	temperate	benthopelagic freshwater marine brackish anadromous	0.0	250.0
-778	Oncorhynchus kisutch	temperate	anadromous freshwater marine brackish demersal	0.0	250.0
-779	Oncorhynchus masou	temperate	benthopelagic freshwater marine brackish anadromous	0.0	200.0
-780	Oncorhynchus mykiss	subtropical	benthopelagic freshwater marine brackish anadromous	0.0	200.0
-781	Oncorhynchus nerka	temperate	pelagic-oceanic freshwater marine brackish anadromous	0.0	250.0
-782	Oncorhynchus tshawytscha	temperate	benthopelagic freshwater marine brackish anadromous	0.0	375.0
-783	Oneirodes thompsoni		bathypelagic marine deep-water	100.0	2014.0
-784	Onychostoma alticorpus	subtropical	freshwater benthopelagic	0.0	10.0
-785	Onychostoma barbatulum	subtropical	freshwater benthopelagic		
-786	Onychostoma barbatum	subtropical	freshwater benthopelagic		
-787	Onychostoma lini	subtropical	freshwater benthopelagic		
-788	Onychostoma simum	subtropical	freshwater benthopelagic		
-789	Ophisurus macrorhynchos	temperate	marine demersal		
-790	Opisthoproctus soleatus		bathypelagic marine deep-water	300.0	800.0
-791	Opistognathus jacksoniensis	subtropical	reef-associated marine	20.0	
-792	Oplegnathus fasciatus	temperate	reef-associated marine	1.0	10.0
-793	Oplegnathus punctatus	tropical	reef-associated oceanodromous marine	3.0	135.0
-794	Opsariichthys bidens	temperate	freshwater benthopelagic		
-795	Opsariichthys uncirostris	temperate	freshwater benthopelagic		
-796	Oreochromis aureus	tropical	freshwater benthopelagic brackish potamodromous	5.0	
-797	Oreochromis mossambicus	tropical	amphidromous freshwater benthopelagic brackish	1.0	12.0
-798	Oreochromis niloticus	tropical	freshwater benthopelagic brackish potamodromous	0.0	6.0
-799	Oreoglanis macropterus	tropical	freshwater benthopelagic		
-800	Oreoleuciscus potanini	temperate	freshwater demersal		
-801	Oryzias celebensis	tropical	freshwater benthopelagic non-migratory		
-802	Oryzias dancena	tropical	freshwater benthopelagic brackish		
-803	Oryzias javanicus	tropical	freshwater benthopelagic brackish non-migratory		
-804	Oryzias latipes	subtropical	amphidromous freshwater benthopelagic brackish		
-805	Oryzias luzonensis	tropical	freshwater benthopelagic non-migratory		
-806	Oryzias marmoratus	tropical	freshwater benthopelagic non-migratory		
-807	Oryzias melastigma	tropical	freshwater benthopelagic brackish		
-808	Oryzias minutillus	tropical	freshwater benthopelagic non-migratory		
-809	Oryzias sarasinorum	tropical	pelagic freshwater		
-810	Oryzias sinensis	tropical	freshwater benthopelagic		
-811	Osmerus mordax	temperate	pelagic-oceanic freshwater marine brackish anadromous	0.0	425.0
-812	Osteochilus salsburyi	tropical	freshwater benthopelagic		
-813	Osteoglossum bicirrhosum	tropical	freshwater benthopelagic		
-814	Ostichthys japonicus	tropical	reef-associated marine		
-815	Ostracion immaculatus	temperate	marine demersal		
-816	Oxuderces dentatus	tropical	amphidromous freshwater brackish demersal		
-817	Oxymonacanthus longirostris	tropical	reef-associated marine non-migratory	4.0	30.0
-818	Oxyurichthys formosanus	tropical	amphidromous marine brackish demersal		
-819	Paedocypris progenetica	tropical	freshwater benthopelagic		
-820	Pagellus bogaraveo	temperate	benthopelagic marine		700.0
-821	Pagrus auriga	subtropical	benthopelagic oceanodromous marine		170.0
-822	Pagrus major	subtropical	oceanodromous marine demersal	10.0	200.0
-823	Pampus punctatissimus	subtropical	benthopelagic marine		
-824	Pangasianodon gigas	tropical	freshwater benthopelagic potamodromous		
-825	Pangasianodon hypophthalmus	tropical	freshwater benthopelagic potamodromous		
-826	Pangasius larnaudii	tropical	freshwater benthopelagic potamodromous		
-827	Pangio anguillaris	tropical	freshwater demersal		
-828	Pantodon buchholzi	tropical	pelagic freshwater potamodromous		
-829	Papyrocranus congoensis	tropical	freshwater demersal		
-830	Parabramis pekinensis	temperate	amphidromous freshwater benthopelagic		
-831	Parachanna insignis	tropical	freshwater benthopelagic		
-832	Paracheirodon innesi	tropical	pelagic freshwater		
-833	Paracirrhites arcatus	tropical	reef-associated marine	1.0	91.0
-834	Paraconger notialis	tropical	marine demersal	25.0	50.0
-835	Parahucho perryi	temperate	benthopelagic freshwater marine brackish anadromous	0.0	100.0
-836	Parajulis poecilepterus	subtropical	marine demersal		
-837	Parakneria cameronensis	tropical	freshwater benthopelagic		
-838	Paralaubuca typus	tropical	freshwater benthopelagic potamodromous		
-839	Paralichthys olivaceus	subtropical	oceanodromous marine demersal	10.0	200.0
-840	Paraluteres prionurus	tropical	reef-associated marine non-migratory	1.0	25.0
-841	Paramonacanthus choirocephalus	tropical	marine demersal		8.0
-842	Paramormyrops gabonensis	tropical	freshwater demersal		
-843	Paraplagusia japonica	tropical	marine demersal	20.0	65.0
-844	Parapristipoma trilineatum	subtropical	benthopelagic oceanodromous marine		
-845	Pararasbora moltrechti	subtropical	freshwater benthopelagic		
-846	Parargyrops edita	subtropical	freshwater brackish demersal		
-847	Parataeniophorus gulosus		bathypelagic marine deep-water	0.0	1400.0
-848	Paratilapia polleni	tropical	freshwater demersal		
-849	Parazen pacificus		bathydemersal marine deep-water	145.0	500.0
-850	Paretroplus maculatus	tropical	freshwater demersal		
-851	Pareuchiloglanis gracilicaudata	temperate	freshwater benthopelagic		
-852	Pareutropius debauwi	tropical	freshwater demersal		
-853	Pegasus volitans	tropical	marine brackish demersal	1.0	73.0
-854	Pelagocephalus marki	temperate	marine demersal		
-855	Pelecus cultratus	temperate	pelagic anadromous freshwater brackish	20.0	
-856	Pellona ditchela	tropical	anadromous freshwater marine brackish pelagic-neritic	10.0	55.0
-857	Pellona flavipinnis	subtropical	pelagic freshwater brackish		
-858	Pellonula leonensis	tropical	anadromous freshwater marine brackish pelagic-neritic		
-859	Pellonula vorax	tropical	anadromous freshwater marine brackish pelagic-neritic		
-860	Pelteobagrus eupogon	temperate	freshwater demersal		
-861	Pelteobagrus fulvidraco	temperate	freshwater demersal non-migratory		
-862	Pelteobagrus nitidus	temperate	freshwater demersal		
-863	Pelteobagrus vachellii	subtropical	freshwater demersal		
-864	Pennahia argentata	temperate	benthopelagic oceanodromous marine	20.0	140.0
-865	Pentaceros japonicus	subtropical	benthopelagic marine	100.0	830.0
-866	Peprilus triacanthus	subtropical	benthopelagic oceanodromous marine brackish	15.0	420.0
-867	Perca flavescens	temperate	freshwater benthopelagic brackish		56.0
-868	Perccottus glenii	temperate	freshwater brackish demersal		
-869	Percina macrolepida	subtropical	freshwater benthopelagic		
-870	Percocypris pingi	subtropical	freshwater benthopelagic		
-871	Percopsis transmontana	temperate	freshwater demersal		
-872	Pervagor janthinosoma	tropical	reef-associated marine	8.0	20.0
-873	Petrocephalus microphthalmus	tropical	freshwater demersal		
-874	Petrocephalus soudanensis	tropical	freshwater demersal		
-875	Petrochromis trewavasae	tropical	freshwater benthopelagic		
-876	Petroscirtes breviceps	tropical	reef-associated oceanodromous marine		10.0
-877	Petrotilapia nigra	tropical	freshwater demersal	3.0	30.0
-878	Phenacobius mirabilis	subtropical	freshwater demersal		
-879	Phenacogrammus interruptus	tropical	freshwater benthopelagic		
-880	Pholis crassispina	temperate	marine demersal	0.0	5.0
-881	Phoxinus eos	temperate	freshwater demersal		
-882	Phoxinus oxycephalus	temperate	freshwater demersal		
-883	Phoxinus percnurus	subtropical	freshwater benthopelagic non-migratory		
-884	Phoxinus perenurus	subtropical	freshwater benthopelagic non-migratory		
-885	Phoxinus phoxinus	temperate	freshwater brackish potamodromous demersal		
-886	Phoxinus steindachneri	temperate	freshwater benthopelagic		
-887	Phractolaemus ansorgii	tropical	freshwater benthopelagic		
-888	Physiculus japonicus		bathydemersal marine deep-water	150.0	350.0
-889	Pimelodus pictus	tropical	freshwater benthopelagic		
-890	Plagiognathops microlepis	temperate	freshwater benthopelagic		
-891	Platax orbicularis	tropical	reef-associated marine brackish	5.0	30.0
-892	Platichthys stellatus	polar	catadromous freshwater marine brackish demersal	0.0	375.0
-893	Platycephalus indicus	subtropical	reef-associated oceanodromous marine brackish	20.0	200.0
-894	Platytroctes apus		bathypelagic marine deep-water	385.0	5393.0
-895	Plecoglossus altivelis	subtropical	amphidromous freshwater marine brackish demersal	10.0	
-896	Plectropomus areolatus	tropical	reef-associated marine	1.0	20.0
-897	Plectropomus leopardus	tropical	reef-associated oceanodromous marine	3.0	100.0
-898	Pleuragramma antarcticum	polar	pelagic-oceanic marine	0.0	728.0
-899	Pleuronichthys cornutus	temperate	marine demersal	2.0	170.0
-900	Plotosus japonicus	temperate	benthopelagic marine		
-901	Pollachius pollachius	temperate	benthopelagic oceanodromous marine		200.0
-902	Pollachius virens	temperate	oceanodromous marine demersal	37.0	364.0
-903	Pollimyrus adspersus	tropical	freshwater demersal		
-904	Polymixia japonica		bathypelagic marine deep-water	160.0	628.0
-905	Polymixia lowei		bathydemersal marine deep-water	50.0	600.0
-906	Polyodon spathula	temperate	freshwater demersal potamodromous	2.0	
-907	Polypterus ansorgii	tropical	freshwater demersal		
-908	Polypterus bichir	tropical	freshwater demersal potamodromous		
-909	Polypterus delhezi	tropical	freshwater demersal		
-910	Polypterus endlicherii	tropical	freshwater demersal potamodromous		
-911	Polypterus mokelembembe	tropical	freshwater demersal		
-912	Polypterus ornatipinnis	tropical	freshwater demersal		
-913	Polypterus palmas	tropical	freshwater demersal		
-914	Polypterus retropinnis	tropical	freshwater demersal		
-915	Polypterus senegalus	tropical	freshwater demersal potamodromous		
-916	Polypterus teugelsi	tropical	freshwater demersal		
-917	Polypterus weeksii	tropical	freshwater demersal		
-918	Polyspina piosae	subtropical	benthopelagic marine		
-919	Pomatomus saltatrix	subtropical	pelagic-oceanic oceanodromous marine brackish	0.0	200.0
-920	Porichthys myriaster	subtropical	marine demersal	0.0	126.0
-921	Poromitra oscitans		bathypelagic marine deep-water	645.0	5320.0
-922	Potamalosa richmondia	temperate	catadromous freshwater marine brackish pelagic-neritic		
-923	Potamothrissa acutirostris	tropical	pelagic freshwater		
-924	Potamothrissa obtusirostris	tropical	pelagic freshwater		
-925	Pristipomoides multidens	tropical	marine demersal	40.0	245.0
-926	Procetichthys kreffti		bathypelagic marine deep-water	0.0	2200.0
-927	Procypris rabaudi	subtropical	freshwater benthopelagic		
-928	Promethichthys prometheus	subtropical	benthopelagic oceanodromous marine	80.0	800.0
-929	Prosopium cylindraceum	temperate	freshwater brackish potamodromous demersal		72.0
-930	Prosopium williamsoni	temperate	freshwater benthopelagic	5.0	20.0
-931	Protoanguilla palau	tropical	reef-associated marine	35.0	
-932	Psenes cyanophrys		bathypelagic marine deep-water oceanodromous	20.0	550.0
-933	Psenes pellucidus		bathypelagic marine deep-water		1000.0
-934	Psenopsis anomala	tropical	benthopelagic marine	0.0	370.0
-935	Psephurus gladius	subtropical	freshwater demersal potamodromous		
-936	Psetta maxima	temperate	oceanodromous marine brackish demersal	20.0	70.0
-937	Psettodes erumei	tropical	marine demersal	1.0	100.0
-938	Pseudalutarius nasicornis	subtropical	reef-associated marine	1.0	55.0
-939	Pseudaspius leptocephalus	temperate	freshwater benthopelagic		
-940	Pseudecheneis sulcata	tropical	freshwater demersal		
-941	Pseudexostoma yunnanensis	temperate	freshwater demersal		
-942	Pseudobagrus brevicaudatus	temperate	freshwater benthopelagic		
-943	Pseudobagrus brevicorpus	temperate	freshwater benthopelagic		
-944	Pseudobagrus tokiensis	temperate	freshwater benthopelagic		
-945	Pseudobagrus trilineatus	subtropical	freshwater benthopelagic		
-946	Pseudobagrus truncatus	temperate	freshwater benthopelagic		
-947	Pseudobagrus ussuriensis	temperate	freshwater demersal non-migratory		
-948	Pseudobalistes flavimarginatus	tropical	reef-associated marine	2.0	50.0
-949	Pseudogobio esocinus	temperate	freshwater benthopelagic		
-950	Pseudogobius javanicus	tropical	amphidromous benthopelagic freshwater marine brackish		
-951	Pseudohemiculter dispar	subtropical	freshwater benthopelagic brackish		
-952	Pseudolabrus eoethinus	subtropical	reef-associated marine		
-953	Pseudolabrus sieboldi	subtropical	marine demersal		
-954	Pseudolaubuca engraulis	subtropical	freshwater benthopelagic		
-955	Pseudomonacanthus peroni	tropical	reef-associated marine		
-956	Pseudopentaceros richardsoni	temperate	pelagic-oceanic marine	0.0	1000.0
-957	Pseudopentaceros wheeleri	temperate	benthopelagic marine	146.0	800.0
-958	Pseudopungtungia nigra	temperate	freshwater benthopelagic		
-959	Pseudopungtungia tenuicorpus	temperate	freshwater benthopelagic		
-960	Pseudorasbora elongata	subtropical	freshwater benthopelagic		
-961	Pseudorasbora parva	temperate	freshwater benthopelagic		
-962	Pseudorasbora pumila	temperate	freshwater benthopelagic		
-963	Pseudotropheus crabro	tropical	freshwater demersal	15.0	18.0
-964	Psilorhynchus homaloptera	tropical	freshwater demersal		
-965	Psilorhynchus sucatio	subtropical	freshwater demersal		
-966	Pteraclis aesticola	temperate	benthopelagic oceanodromous marine	0.0	100.0
-967	Pteragogus flagellifer	tropical	reef-associated marine		
-968	Pterapogon kauderni	tropical	marine demersal	0.0	16.0
-969	Pterocaesio tile	tropical	reef-associated marine non-migratory		60.0
-970	Pterygoplichthys disjunctivus	tropical	freshwater demersal		
-971	Ptychochromoides katria	tropical	freshwater demersal		
-972	Puck pinnata		bathypelagic marine deep-water		
-973	Pungitius kaibarae	temperate	benthopelagic freshwater marine brackish		
-974	Pungitius pungitius	temperate	benthopelagic freshwater marine brackish anadromous		110.0
-975	Pungitius sinensis	temperate	benthopelagic freshwater marine brackish		
-976	Pungtungia herzi	temperate	freshwater benthopelagic		
-977	Puntius chalakkudiensis	tropical	freshwater benthopelagic		
-978	Puntius denisonii	subtropical	freshwater benthopelagic		
-979	Puntius semifasciolatus	subtropical	freshwater benthopelagic	0.0	5.0
-980	Puntius snyderi	subtropical	freshwater benthopelagic		
-981	Puntius tetrazona	tropical	freshwater benthopelagic		
-982	Puntius ticto	subtropical	freshwater benthopelagic brackish potamodromous		
-983	Pygocentrus nattereri	subtropical	pelagic freshwater		
-984	Pythonichthys microphthalmus	tropical	marine demersal	40.0	150.0
-985	Rachycentron canadum	subtropical	reef-associated oceanodromous marine brackish	0.0	1200.0
-986	Raiamas guttatus	tropical	freshwater benthopelagic potamodromous		
-987	Raiamas senegalensis	tropical	freshwater benthopelagic potamodromous		
-988	Ranzania laevis	subtropical	pelagic-oceanic marine	1.0	140.0
-989	Rasbora cephalotaenia	tropical	freshwater benthopelagic		
-990	Rasbora daniconius	tropical	freshwater benthopelagic brackish potamodromous		
-991	Rasbora steineri	tropical	freshwater benthopelagic		
-992	Rasbora vaterifloris	tropical	freshwater benthopelagic		
-993	Rastrelliger brachysoma	tropical	oceanodromous marine brackish pelagic-neritic	15.0	200.0
-994	Rastrelliger kanagurta	tropical	oceanodromous marine pelagic-neritic	20.0	90.0
-995	Reinhardtius hippoglossoides	boreal	benthopelagic oceanodromous marine	1.0	2000.0
-996	Retropinna retropinna	subtropical	anadromous freshwater marine brackish demersal		
-997	Rexea nakamurai		benthopelagic marine deep-water	340.0	370.0
-998	Rhamphochromis esox	tropical	freshwater demersal	2.0	65.0
-999	Rhinecanthus aculeatus	tropical	reef-associated marine	0.0	50.0
-1000	Rhinogobius giurinus	subtropical	amphidromous freshwater marine brackish demersal		
-1001	Rhinomugil nasutus	tropical	pelagic freshwater brackish		
-1002	Rhinomuraena quaesita	tropical	reef-associated marine non-migratory	1.0	57.0
-1003	Rhodeus ocellatus	subtropical	freshwater benthopelagic		
-1004	Rhodeus pseudosericeus	temperate	pelagic freshwater		
-1005	Rhodeus shitaiensis	subtropical	pelagic freshwater		
-1006	Rhodeus suigensis	temperate	freshwater benthopelagic		
-1007	Rhodeus uyekii	temperate	freshwater benthopelagic		
-1008	Rhyacichthys aspro	tropical	amphidromous freshwater marine brackish demersal		
-1009	Rhynchactis macrothrix		bathypelagic marine deep-water	0.0	2000.0
-1010	Rhynchocypris kumgangensis	temperate	freshwater benthopelagic		
-1011	Rhynchocypris lagowskii	temperate	freshwater benthopelagic		
-1012	Rhynchopelates oxyrhynchus	tropical	benthopelagic freshwater marine brackish		
-1013	Rinoctes nasutus		bathypelagic marine deep-water	2000.0	4156.0
-1014	Rivulus marmoratus	tropical	freshwater benthopelagic brackish non-migratory	0.0	
-1015	Robinsia catherinae	tropical	marine demersal	140.0	243.0
-1016	Rondeletia loricata		bathypelagic marine deep-water	100.0	3500.0
-1017	Rudarius ercodes	temperate	reef-associated oceanodromous marine		
-1018	Ruvettus pretiosus	subtropical	benthopelagic oceanodromous marine	100.0	800.0
-1019	Saccopharynx lavenbergi		bathypelagic marine deep-water	2000.0	3000.0
-1020	Sagamichthys abei		bathypelagic marine deep-water	37.0	1500.0
-1021	Salangichthys microdon	polar	anadromous freshwater marine brackish demersal		
-1022	Salanx ariakensis	subtropical	anadromous freshwater marine brackish demersal		
-1023	Salarias fasciatus	tropical	reef-associated marine	0.0	8.0
-1024	Salmo salar	temperate	benthopelagic freshwater marine brackish anadromous	0.0	210.0
-1025	Salmo trutta	subtropical	anadromous freshwater marine brackish pelagic-neritic	0.0	
-1026	Salmostoma bacaila	tropical	freshwater benthopelagic brackish potamodromous		
-1027	Salvelinus alpinus	temperate	benthopelagic freshwater marine brackish anadromous	30.0	70.0
-1028	Salvelinus fontinalis	temperate	anadromous freshwater marine brackish demersal	15.0	27.0
-1029	Sander canadensis	temperate	freshwater demersal	5.0	
-1030	Sarcocheilichthys nigripinnis	temperate	freshwater benthopelagic		
-1031	Sarcocheilichthys parvus	subtropical	freshwater benthopelagic		
-1032	Sarcocheilichthys sinensis	temperate	freshwater benthopelagic		
-1033	Sarcocheilichthys variegatus	temperate	freshwater benthopelagic		
-1034	Sardina pilchardus	subtropical	oceanodromous freshwater marine brackish pelagic-neritic	10.0	100.0
-1035	Sardinella albella	tropical	reef-associated marine	0.0	50.0
-1036	Sardinella maderensis	subtropical	oceanodromous marine brackish pelagic-neritic	0.0	80.0
-1037	Sardinops melanostictus	subtropical	oceanodromous marine pelagic-neritic	0.0	200.0
-1038	Sargocentron rubrum	subtropical	reef-associated marine	1.0	84.0
-1039	Sarotherodon melanotheron	tropical	freshwater brackish demersal	3.0	
-1040	Satyrichthys amiscus		marine demersal deep-water		
-1041	Saurida undosquamis	subtropical	amphidromous reef-associated marine	1.0	350.0
-1042	Saurogobio dumerili	subtropical	freshwater benthopelagic		
-1043	Scaphiodonichthys acanthopterus	tropical	freshwater benthopelagic		
-1044	Scartelaos histophorus	tropical	amphidromous marine brackish demersal		
-1045	Scarus forsteni	tropical	reef-associated marine	3.0	30.0
-1046	Scarus ghobban	tropical	reef-associated marine brackish	3.0	36.0
-1047	Scarus rubroviolaceus	tropical	reef-associated marine	1.0	36.0
-1048	Scarus schlegeli	tropical	reef-associated marine	1.0	50.0
-1049	Scatophagus argus	tropical	amphidromous reef-associated freshwater marine brackish	1.0	4.0
-1050	Schedophilus velaini		bathypelagic marine deep-water	40.0	500.0
-1051	Schistura balteata	tropical	freshwater benthopelagic		
-1052	Schizopygopsis thermalis		freshwater benthopelagic		
-1053	Schizopygopsis younghusbandi		freshwater benthopelagic		
-1054	Schizothorax biddulphi	temperate	freshwater benthopelagic		
-1055	Schizothorax macropogon		freshwater benthopelagic		
-1056	Schizothorax oconnori		freshwater benthopelagic		
-1057	Schizothorax richardsonii	tropical	freshwater demersal potamodromous		
-1058	Schizothorax waltoni		freshwater benthopelagic		
-1059	Schizothorax wangchiachii	subtropical	freshwater benthopelagic		
-1060	Sciades seemanni	tropical	freshwater marine brackish demersal		
-1061	Sciaenops ocellatus	subtropical	oceanodromous marine brackish demersal	10.0	
-1062	Scleropages formosus	tropical	freshwater benthopelagic		
-1063	Scobinichthys granulatus	temperate	reef-associated marine		
-1064	Scomber australasicus	subtropical	oceanodromous marine pelagic-neritic	87.0	200.0
-1065	Scomber colias	temperate	marine brackish pelagic-neritic		
-1066	Scomber japonicus	subtropical	oceanodromous marine pelagic-neritic	0.0	300.0
-1067	Scomber scombrus	temperate	oceanodromous marine brackish pelagic-neritic	0.0	1000.0
-1068	Scomberomorus cavalla	tropical	reef-associated oceanodromous marine	5.0	140.0
-1069	Scomberomorus munroi	tropical	oceanodromous marine pelagic-neritic		100.0
-1070	Scomberomorus niphonius	temperate	oceanodromous marine pelagic-neritic	0.0	200.0
-1071	Scomberomorus semifasciatus	tropical	oceanodromous marine brackish pelagic-neritic		100.0
-1072	Scombrolabrax heterolepis	subtropical	benthopelagic oceanodromous marine	100.0	900.0
-1073	Scopelengys tristis		bathypelagic marine deep-water oceanodromous	400.0	1830.0
-1074	Scopelogadus mizolepis		bathypelagic marine deep-water	300.0	3385.0
-1075	Scorpis lineolata	temperate	reef-associated marine brackish	1.0	30.0
-1076	Sebastiscus marmoratus	tropical	oceanodromous marine demersal		
-1077	Sebates schlegeli	temperate	marine demersal	3.0	100.0
-1078	Seriola dumerili	subtropical	reef-associated oceanodromous marine	1.0	360.0
-1079	Seriola lalandi	subtropical	benthopelagic marine brackish	3.0	825.0
-1080	Seriola quinqueradiata	subtropical	oceanodromous marine demersal	100.0	
-1081	Serrivomer beanii		bathypelagic marine deep-water	0.0	5998.0
-1082	Serrivomer sector		bathypelagic marine deep-water	0.0	3243.0
-1083	Setipinna melanochir	tropical	freshwater marine brackish pelagic-neritic		
-1084	Setipinna taty	tropical	oceanodromous marine brackish pelagic-neritic	0.0	50.0
-1085	Sewellia lineolata	tropical	freshwater demersal		
-1086	Sicamugil cascasia	tropical	freshwater demersal potamodromous		
-1087	Sicyopterus japonicus	subtropical	amphidromous freshwater marine brackish demersal		
-1088	Siganus fuscescens	tropical	reef-associated oceanodromous marine brackish		50.0
-1089	Siganus unimaculatus	tropical	reef-associated marine		30.0
-1090	Sillago sihama	tropical	amphidromous reef-associated marine brackish	0.0	60.0
-1091	Silurus asotus	temperate	freshwater demersal		
-1092	Silurus glanis	temperate	freshwater benthopelagic brackish non-migratory	0.0	30.0
-1093	Silurus lanzhouensis	temperate	freshwater demersal		
-1094	Silurus meridionalis	subtropical	freshwater demersal		
-1095	Simenchelys parasitica		bathydemersal marine deep-water	136.0	2620.0
-1096	Sinibotia superciliaris	subtropical	freshwater demersal		
-1097	Sinibrama macrops	subtropical	freshwater benthopelagic		
-1098	Siniperca chuatsi	temperate	freshwater benthopelagic	10.0	
-1099	Siniperca knerii	temperate	freshwater benthopelagic brackish		
-1100	Siniperca obscura	temperate	freshwater benthopelagic		
-1101	Siniperca scherzeri	temperate	freshwater benthopelagic brackish		
-1102	Sinocyclocheilus altishoulderus	temperate	freshwater benthopelagic		
-1103	Sinocyclocheilus furcodorsalis	tropical	freshwater benthopelagic		
-1104	Sinocyclocheilus grahami	temperate	freshwater benthopelagic brackish		
-1105	Sinogastromyzon puliensis	subtropical	freshwater demersal	0.0	10.0
-1106	Sirembo imberbis	subtropical	marine demersal	100.0	200.0
-1107	Solea senegalensis	subtropical	marine demersal	12.0	65.0
-1108	Solenostomus cyanopterus	tropical	reef-associated marine	0.0	25.0
-1109	Solivomer arenidens		benthopelagic marine deep-water	1413.0	1413.0
-1110	Sphoeroides annulatus	subtropical	reef-associated marine brackish	0.0	11.0
-1111	Sphoeroides pachygaster	subtropical	benthopelagic marine	50.0	480.0
-1112	Sphoeroides parvus	subtropical	marine brackish demersal		
-1113	Sphoeroides testudineus	subtropical	reef-associated marine brackish		48.0
-1114	Sphyraena barracuda	subtropical	reef-associated marine brackish	1.0	100.0
-1115	Sphyraena japonica	temperate	marine pelagic-neritic		
-1116	Spicara maena	subtropical	marine pelagic-neritic	30.0	130.0
-1117	Spinachia spinachia	temperate	benthopelagic marine brackish non-migratory		
-1118	Spinibarbus caldwelli	subtropical	freshwater benthopelagic	2.0	30.0
-1119	Spinibarbus denticulatus	subtropical	freshwater benthopelagic		
-1120	Spinibarbus sinensis	subtropical	freshwater benthopelagic		
-1121	Spratelloides delicatulus	tropical	reef-associated marine	0.0	50.0
-1122	Spratelloides gracilis	tropical	marine pelagic-neritic	10.0	
-1123	Sprattus antipodum	subtropical	marine pelagic-neritic	0.0	72.0
-1124	Sprattus muelleri	subtropical	marine pelagic-neritic	28.0	110.0
-1125	Sprattus sprattus	temperate	oceanodromous marine brackish pelagic-neritic	10.0	150.0
-1126	Squalidus wolterstorffi	subtropical	freshwater benthopelagic brackish		
-1127	Squaliobarbus curriculus	subtropical	freshwater benthopelagic		
-1128	Squalogadus modificatus		bathypelagic marine deep-water	600.0	1740.0
-1129	Stemonidium hypomelas		bathypelagic marine deep-water	500.0	1229.0
-1130	Stenobrachius leucopsarus		bathypelagic marine deep-water	0.0	3400.0
-1131	Stenodus leucichthys	boreal	anadromous freshwater marine brackish demersal	10.0	
-1132	Stephanolepis cirrhifer	temperate	oceanodromous marine demersal		
-1133	Stiphodon alcedo	subtropical	freshwater demersal		
-1134	Stolephorus chinensis	tropical	marine pelagic-neritic	0.0	50.0
-1135	Stolephorus waitei	tropical	oceanodromous freshwater marine brackish pelagic-neritic	0.0	50.0
-1136	Stylephorus chordatus		bathypelagic marine deep-water		
-1137	Sufflamen fraenatum	tropical	reef-associated oceanodromous marine	8.0	186.0
-1138	Sundasalanx mekongensis	tropical	freshwater demersal		
-1139	Sundasalanx praecox	tropical	freshwater demersal		
-1140	Symbolophorus californiensis	subtropical	pelagic-oceanic marine	0.0	1497.0
-1141	Synaphobranchus kaupii		bathydemersal marine deep-water	120.0	4800.0
-1142	Synbranchus marmoratus	subtropical	freshwater brackish potamodromous demersal		
-1143	Synechogobius ommaturus	subtropical	freshwater demersal		
-1144	Synodontis schoutedeni	tropical	freshwater benthopelagic		
-1145	Synodus variegatus	tropical	reef-associated marine	3.0	121.0
-1146	Taaningichthys minimus		bathypelagic marine deep-water oceanodromous	90.0	800.0
-1147	Takifugu chinensis	temperate	marine demersal		
-1148	Takifugu chrysops	temperate	marine demersal		
-1149	Takifugu exascurus	temperate	marine demersal		
-1150	Takifugu niphobles	temperate	marine demersal		
-1151	Takifugu oblongus	tropical	marine brackish demersal		
-1152	Takifugu obscurus	subtropical	anadromous freshwater marine brackish demersal		
-1153	Takifugu ocellatus	subtropical	anadromous freshwater marine brackish demersal		
-1154	Takifugu pardalis	temperate	marine demersal		
-1155	Takifugu poecilonotus	temperate	freshwater marine brackish demersal		
-1156	Takifugu porphyreus	temperate	marine demersal		
-1157	Takifugu rubripes	temperate	non-migratory freshwater marine brackish demersal		
-1158	Takifugu snyderi	subtropical	marine demersal		
-1159	Takifugu stictonotus	temperate	marine demersal		
-1160	Takifugu vermicularis	temperate	marine demersal		
-1161	Takifugu xanthopterus	temperate	marine demersal		
-1162	Talismania bifurcata		bathydemersal marine deep-water	300.0	2000.0
-1163	Tanichthys albonubes	tropical	freshwater demersal		
-1164	Taractes asper	temperate	pelagic-oceanic oceanodromous marine	1.0	140.0
-1165	Tenualosa ilisha	tropical	anadromous freshwater marine brackish pelagic-neritic		200.0
-1166	Tenualosa thibaudeaui	tropical	pelagic freshwater potamodromous		
-1167	Tenualosa toli	tropical	anadromous freshwater marine brackish pelagic-neritic	10.0	
-1168	Tetrabrachium ocellatum	tropical	marine demersal		51.0
-1169	Tetractenos glaber	subtropical	freshwater marine brackish demersal		
-1170	Tetragonurus atlanticus	subtropical	pelagic-oceanic oceanodromous marine	0.0	800.0
-1171	Tetragonurus cuvieri		bathypelagic marine deep-water oceanodromous	1.0	800.0
-1172	Tetranematichthys quadrifilis	tropical	freshwater demersal		
-1173	Tetraodon biocellatus	tropical	freshwater demersal		
-1174	Tetraodon cutcutia	tropical	freshwater brackish potamodromous demersal		
-1175	Tetraodon mbu	tropical	freshwater brackish demersal		
-1176	Tetraodon miurus	tropical	freshwater demersal		
-1177	Tetraodon nigroviridis	tropical	freshwater brackish demersal		
-1178	Tetraodon palembangensis	tropical	freshwater demersal		
-1179	Tetrapturus angustirostris	subtropical	pelagic-oceanic oceanodromous marine	0.0	1830.0
-1180	Tetrapturus audax	subtropical	pelagic-oceanic oceanodromous marine	0.0	200.0
-1181	Thamnaconus modestus	tropical	reef-associated oceanodromous marine		
-1182	Thaumatichthys pagidostomus		bathydemersal marine deep-water	1392.0	1393.0
-1183	Theragra finnmarchica	polar	benthopelagic marine		
-1184	Thryssa baelama	tropical	reef-associated marine brackish	0.0	50.0
-1185	Thunnus alalunga	subtropical	pelagic-oceanic oceanodromous marine	0.0	600.0
-1186	Thunnus albacares	tropical	pelagic-oceanic oceanodromous marine brackish	1.0	250.0
-1187	Thunnus maccoyii	temperate	pelagic-oceanic oceanodromous marine	50.0	2743.0
-1188	Thunnus obesus	subtropical	pelagic-oceanic oceanodromous marine	0.0	250.0
-1189	Thunnus orientalis	subtropical	pelagic-oceanic oceanodromous marine brackish	1.0	200.0
-1190	Thunnus thynnus	subtropical	pelagic-oceanic oceanodromous marine brackish	0.0	985.0
-1191	Thunnus tonggol	tropical	oceanodromous marine pelagic-neritic	10.0	
-1192	Thymallus arcticus	temperate	freshwater benthopelagic	30.0	
-1193	Thymallus thymallus	temperate	freshwater benthopelagic brackish non-migratory	15.0	
-1194	Thyrsitoides marleyi		benthopelagic marine deep-water	0.0	400.0
-1195	Tinca tinca	temperate	freshwater brackish potamodromous demersal	1.0	
-1196	Tor putitora	subtropical	freshwater benthopelagic potamodromous	0.0	
-1197	Tor sinensis	tropical	freshwater benthopelagic potamodromous		
-1198	Torquigener brevipennis	subtropical	marine demersal	20.0	100.0
-1199	Torquigener hypselogeneion	tropical	marine brackish demersal	18.0	22.0
-1200	Torquigener pleurogramma	subtropical	marine brackish demersal		30.0
-1201	Toxotes chatareus	tropical	pelagic amphidromous freshwater brackish		
-1202	Trachidermus fasciatus	subtropical	benthopelagic freshwater marine brackish catadromous		
-1203	Trachinops taeniatus	temperate	marine pelagic-neritic		
-1204	Trachinotus ovatus	subtropical	marine brackish pelagic-neritic	50.0	200.0
-1205	Trachipterus trachipterus		bathypelagic marine deep-water	100.0	600.0
-1206	Trachurus japonicus	tropical	oceanodromous marine pelagic-neritic	0.0	275.0
-1207	Trachurus trachurus	subtropical	oceanodromous marine pelagic-neritic	0.0	1050.0
-1208	Trachyrincus murrayi	temperate	benthopelagic marine	0.0	1630.0
-1209	Trematocranus placodon	tropical	freshwater demersal		32.0
-1210	Triacanthodes anomalus	tropical	marine demersal		
-1211	Triacanthus biaculeatus	tropical	marine brackish demersal		60.0
-1212	Tribolodon brandtii	temperate	anadromous freshwater marine brackish demersal		
-1213	Tribolodon hakonensis	temperate	freshwater benthopelagic brackish		
-1214	Tribolodon nakamurai	subtropical	freshwater benthopelagic		
-1215	Tribolodon sachalinensis	temperate	benthopelagic freshwater marine brackish anadromous		
-1216	Trichiurus japonicus	subtropical	amphidromous benthopelagic marine brackish	0.0	589.0
-1217	Trichiurus lepturus	subtropical	amphidromous benthopelagic marine brackish	0.0	589.0
-1218	Trichomycterus areolatus	temperate	freshwater benthopelagic		
-1219	Tridentiger barbatus	temperate	brackish demersal		
-1220	Tridentiger bifasciatus	temperate	amphidromous freshwater marine brackish demersal		
-1221	Trigonostigma espei	tropical	freshwater benthopelagic		
-1222	Trigonostigma heteromorpha	tropical	freshwater benthopelagic		
-1223	Triodon macropterus	tropical	reef-associated marine	50.0	300.0
-1224	Triphoturus nigrescens		bathypelagic marine deep-water oceanodromous	100.0	1000.0
-1225	Triplophysa bleekeri	subtropical	freshwater benthopelagic		
-1226	Triplophysa rosa	subtropical	freshwater demersal		
-1227	Triplophysa stoliczkai	subtropical	freshwater benthopelagic		
-1228	Triso dermopterus	tropical	marine demersal	22.0	103.0
-1229	Trixiphichthys weberi	tropical	marine demersal		65.0
-1230	Tropheus duboisi	tropical	freshwater demersal		
-1231	Tropheus moorii	tropical	freshwater benthopelagic		
-1232	Trypauchen vagina	tropical	amphidromous marine brackish demersal		
-1233	Tylerius spinosissimus		bathydemersal marine deep-water	250.0	435.0
-1234	Tylochromis polylepis	tropical	freshwater demersal		
-1235	Umbra pygmaea	temperate	freshwater demersal non-migratory		
-1236	Vaillantella maassi	tropical	freshwater demersal		
-1237	Valamugil cunnesius	tropical	catadromous freshwater marine brackish demersal		
-1238	Variola albimarginata	tropical	reef-associated marine	4.0	200.0
-1239	Variola louti	tropical	reef-associated marine non-migratory	3.0	250.0
-1240	Ventrifossa garmani		bathydemersal marine non-migratory deep-water	200.0	720.0
-1241	Verasper moseri	temperate	marine demersal	1.0	900.0
-1242	Verasper variegatus	subtropical	marine demersal		
-1243	Xanthichthys auromarginatus	tropical	reef-associated marine	8.0	150.0
-1244	Xenobalistes tumidipectoris	tropical	marine demersal		
-1245	Xenocypris argentea	subtropical	freshwater benthopelagic		
-1246	Xenocypris davidi	subtropical	freshwater benthopelagic brackish		
-1247	Xenodermichthys copei		bathypelagic marine deep-water	100.0	2650.0
-1248	Xenomystus nigri	tropical	freshwater demersal		
-1249	Xenotoca eiseni	temperate	freshwater demersal		
-1250	Xiphias gladius	temperate	pelagic-oceanic oceanodromous marine	0.0	800.0
-1251	Xiphophorus hellerii	tropical	freshwater benthopelagic brackish non-migratory		
-1252	Xiphophorus maculatus	tropical	freshwater benthopelagic non-migratory		
-1253	Xyrauchen texanus	temperate	freshwater demersal potamodromous		
-1254	Yaoshanicus arcus	subtropical	freshwater benthopelagic		
-1255	Zacco platypus	subtropical	freshwater benthopelagic		
-1256	Zacco sieboldii	subtropical	freshwater benthopelagic		
-1257	Zalieutes elater	tropical	marine demersal	18.0	113.0
-1258	Zanclus cornutus	subtropical	reef-associated marine	3.0	182.0
-1259	Zebrasoma flavescens	tropical	reef-associated marine	2.0	46.0
-1260	Zebrias zebra	tropical	reef-associated marine brackish		
-1261	Zenion japonicum		bathydemersal marine deep-water	200.0	400.0
-1262	Zenopsis nebulosus		benthopelagic marine deep-water	30.0	800.0
-1263	Zeus faber	temperate	benthopelagic oceanodromous marine brackish	5.0	400.0
-1264	Zu cristatus		bathypelagic marine deep-water		90.0
+species	climate	environment	depth_min	depth_max
+Micropterus floridanus	subtropical	freshwater benthopelagic		
+Ischikauia steenackeri	temperate	freshwater demersal		
+Pseudohemiculter dispar	subtropical	freshwater benthopelagic brackish		
+Tinca tinca	temperate	freshwater brackish potamodromous demersal	1.0	
+Polypterus weeksii	tropical	freshwater demersal		
+Ptychochromoides katria	tropical	freshwater demersal		
+Danionella mirifica	tropical	freshwater benthopelagic		
+Heterotis niloticus	tropical	pelagic freshwater	1.0	
+Puntius tetrazona	tropical	freshwater benthopelagic		
+Paedocypris progenetica	tropical	freshwater benthopelagic		
+Ceratoscopelus maderensis		bathypelagic marine deep-water oceanodromous	51.0	1082.0
+Potamothrissa acutirostris	tropical	pelagic freshwater		
+Pollimyrus adspersus	tropical	freshwater demersal		
+Clupea pallasii	temperate	non-migratory freshwater marine brackish pelagic-neritic	0.0	475.0
+Gobiobotia naktongensis	temperate	freshwater benthopelagic		
+Takifugu obscurus	subtropical	anadromous freshwater marine brackish demersal		
+Aldrovandia affinis		benthopelagic marine deep-water	730.0	2560.0
+Sinocyclocheilus grahami	temperate	freshwater benthopelagic brackish		
+Galaxiella nigrostriata	temperate	freshwater demersal		
+Schizothorax biddulphi	temperate	freshwater benthopelagic		
+Rudarius ercodes	temperate	reef-associated oceanodromous marine		
+Anoplocapros lenticularis	subtropical	marine demersal	10.0	220.0
+Aspidoparia morar	tropical	freshwater benthopelagic		
+Ilisha africana	tropical	marine brackish pelagic-neritic	0.0	25.0
+Brama japonica	subtropical	pelagic-oceanic oceanodromous marine	0.0	620.0
+Pseudaspius leptocephalus	temperate	freshwater benthopelagic		
+Brevoortia tyrannus	subtropical	oceanodromous marine brackish pelagic-neritic	0.0	50.0
+Diplotaxodon limnothrissa	tropical	pelagic freshwater	20.0	220.0
+Lutjanus sebae	tropical	reef-associated marine brackish	5.0	180.0
+Oncorhynchus tshawytscha	temperate	benthopelagic freshwater marine brackish anadromous	0.0	375.0
+Thunnus maccoyii	temperate	pelagic-oceanic oceanodromous marine	50.0	2743.0
+Taractes asper	temperate	pelagic-oceanic oceanodromous marine	1.0	140.0
+Paracirrhites arcatus	tropical	reef-associated marine	1.0	91.0
+Acanthurus lineatus	tropical	reef-associated marine	0.0	15.0
+Allocyttus niger		bathypelagic marine deep-water oceanodromous	560.0	1300.0
+Herwigia kreffti		bathypelagic marine deep-water	1000.0	3200.0
+Torquigener brevipennis	subtropical	marine demersal	20.0	100.0
+Aspasma minima	subtropical	marine demersal		
+Bahaba taipingensis	subtropical	benthopelagic marine brackish		
+Galaxias gollumoides	temperate	freshwater benthopelagic		
+Esox lucius	subtropical	freshwater brackish potamodromous demersal	0.0	30.0
+Arothron manilensis	tropical	reef-associated marine brackish	2.0	20.0
+Synaphobranchus kaupii		bathydemersal marine deep-water	120.0	4800.0
+Escualosa thoracata	tropical	amphidromous freshwater marine brackish pelagic-neritic	0.0	50.0
+Pygocentrus nattereri	subtropical	pelagic freshwater		
+Phoxinus oxycephalus	temperate	freshwater demersal		
+Canthigaster rivulata	tropical	reef-associated marine	0.0	350.0
+Sirembo imberbis	subtropical	marine demersal	100.0	200.0
+Clupeoides borneensis	tropical	pelagic freshwater brackish		
+Barbonymus gonionotus	tropical	freshwater benthopelagic potamodromous	15.0	
+Pseudopentaceros wheeleri	temperate	benthopelagic marine	146.0	800.0
+Astatotilapia calliptera	tropical	freshwater benthopelagic		
+Hypophthalmichthys nobilis	temperate	freshwater benthopelagic potamodromous	5.0	
+Pseudobalistes flavimarginatus	tropical	reef-associated marine	2.0	50.0
+Acanthopagrus schlegelii	subtropical	marine brackish demersal	15.0	
+Lethrinus obsoletus	tropical	reef-associated marine non-migratory		30.0
+Ancherythroculter nigrocauda	subtropical	freshwater benthopelagic		
+Pennahia argentata	temperate	benthopelagic oceanodromous marine	20.0	140.0
+Stolephorus waitei	tropical	oceanodromous freshwater marine brackish pelagic-neritic	0.0	50.0
+Lampadena yaquinae		bathypelagic marine deep-water	100.0	900.0
+Chaetodon auripes	tropical	reef-associated marine non-migratory		
+Zeus faber	temperate	benthopelagic oceanodromous marine brackish	5.0	400.0
+Aluterus scriptus	subtropical	reef-associated marine	3.0	120.0
+Sphoeroides testudineus	subtropical	reef-associated marine brackish		48.0
+Pseudopungtungia tenuicorpus	temperate	freshwater benthopelagic		
+Boulengerella maculata	tropical	pelagic freshwater		
+Psilorhynchus homaloptera	tropical	freshwater demersal		
+Rhodeus uyekii	temperate	freshwater benthopelagic		
+Scomber australasicus	subtropical	oceanodromous marine pelagic-neritic	87.0	200.0
+Myroconger compressus	tropical	marine demersal		
+Lutjanus malabaricus	tropical	reef-associated marine	12.0	100.0
+Bostrychus sinensis	tropical	amphidromous freshwater marine brackish demersal		
+Polyodon spathula	temperate	freshwater demersal potamodromous	2.0	
+Branchiostegus japonicus	tropical	marine demersal	30.0	200.0
+Diaphus chrysorhynchus		bathypelagic marine deep-water	213.0	587.0
+Takifugu porphyreus	temperate	marine demersal		
+Chilodus punctatus	tropical	pelagic freshwater		
+Anarhichas minor	temperate	oceanodromous marine demersal	25.0	600.0
+Ilyophis brunneus		bathypelagic marine deep-water	450.0	3120.0
+Scopelogadus mizolepis		bathypelagic marine deep-water	300.0	3385.0
+Serrivomer beanii		bathypelagic marine deep-water	0.0	5998.0
+Triphoturus nigrescens		bathypelagic marine deep-water oceanodromous	100.0	1000.0
+Coreius guichenoti	subtropical	freshwater benthopelagic		
+Chaunax abei	tropical	marine demersal	90.0	500.0
+Cyprinus carpio	subtropical	freshwater benthopelagic brackish potamodromous		
+Homaloptera leonardi	tropical	freshwater demersal		
+Sargocentron rubrum	subtropical	reef-associated marine	1.0	84.0
+Nannoperca obscura	temperate	freshwater benthopelagic brackish		
+Apteronotus albifrons	tropical	freshwater benthopelagic		
+Cottus reinii	temperate	freshwater demersal		
+Toxotes chatareus	tropical	pelagic amphidromous freshwater brackish		
+Platax orbicularis	tropical	reef-associated marine brackish	5.0	30.0
+Hepsetus odoe	tropical	freshwater demersal potamodromous		
+Bolinichthys pyrsobolus		pelagic-oceanic marine deep-water		778.0
+Lagocephalus laevigatus	subtropical	marine brackish pelagic-neritic	10.0	180.0
+Barbourisia rufa		bathydemersal marine deep-water	120.0	2000.0
+Thyrsitoides marleyi		benthopelagic marine deep-water	0.0	400.0
+Notoscopelus kroyeri	temperate	pelagic-oceanic oceanodromous marine	0.0	1000.0
+Pungtungia herzi	temperate	freshwater benthopelagic		
+Acipenser dabryanus	temperate	anadromous freshwater demersal		
+Astronotus ocellatus	tropical	freshwater benthopelagic		
+Notropis stramineus	temperate	freshwater benthopelagic		
+Conocara macropterum		bathypelagic marine deep-water	800.0	2200.0
+Apeltes quadracus	temperate	benthopelagic freshwater marine brackish	0.0	3.0
+Rhodeus pseudosericeus	temperate	pelagic freshwater		
+Lampanyctus crocodilus		bathypelagic marine deep-water oceanodromous	0.0	1192.0
+Sarcocheilichthys variegatus	temperate	freshwater benthopelagic		
+Himantolophus albinares		bathypelagic marine deep-water	845.0	
+Takifugu poecilonotus	temperate	freshwater marine brackish demersal		
+Creteuchiloglanis kamengensis		freshwater benthopelagic		
+Channa maculata	tropical	freshwater benthopelagic		
+Coreoperca kawamebari	temperate	freshwater benthopelagic		
+Sebastiscus marmoratus	tropical	oceanodromous marine demersal		
+Chaunax pictus		bathydemersal marine deep-water	200.0	978.0
+Fistularia commersonii	tropical	reef-associated marine	0.0	132.0
+Tetrapturus audax	subtropical	pelagic-oceanic oceanodromous marine	0.0	200.0
+Takifugu pardalis	temperate	marine demersal		
+Oplegnathus fasciatus	temperate	reef-associated marine	1.0	10.0
+Pseudorasbora elongata	subtropical	freshwater benthopelagic		
+Paracheirodon innesi	tropical	pelagic freshwater		
+Liza affinis	subtropical	marine brackish pelagic-neritic		
+Acrossocheilus hemispinus	subtropical	freshwater benthopelagic		
+Enophrys diceraus	temperate	marine demersal	0.0	380.0
+Salangichthys microdon	polar	anadromous freshwater marine brackish demersal		
+Monacanthus chinensis	tropical	reef-associated marine	3.0	12.0
+Caulophryne jordani		bathypelagic marine deep-water	100.0	1510.0
+Percopsis transmontana	temperate	freshwater demersal		
+Albula glossodonta	tropical	reef-associated oceanodromous marine brackish		
+Coilia lindmani	tropical	pelagic freshwater brackish		
+Acipenser schrenckii	temperate	anadromous freshwater marine brackish demersal		
+Perccottus glenii	temperate	freshwater brackish demersal		
+Epinephelus epistictus	tropical	marine demersal	71.0	291.0
+Xiphophorus hellerii	tropical	freshwater benthopelagic brackish non-migratory		
+Harpadon nehereus	tropical	benthopelagic oceanodromous marine brackish	50.0	
+Epinephelus septemfasciatus	tropical	reef-associated marine non-migratory	5.0	30.0
+Lefua echigonia	temperate	freshwater demersal		
+Eumegistus illustris		bathypelagic marine deep-water	1.0	520.0
+Leiocassis crassilabris	subtropical	freshwater demersal		
+Diagramma picta	tropical	reef-associated marine non-migratory	1.0	170.0
+Gillichthys seta	subtropical	marine demersal		
+Cubiceps pauciradiatus	tropical	bathypelagic marine	58.0	1000.0
+Mormyrus rume	tropical	freshwater demersal potamodromous		
+Cymatogaster aggregata	subtropical	non-migratory freshwater marine brackish demersal		146.0
+Tetraodon mbu	tropical	freshwater brackish demersal		
+Benthosema pterotum		bathypelagic marine deep-water	10.0	300.0
+Elops saurus	subtropical	amphidromous reef-associated marine brackish		50.0
+Anguilla interioris	tropical	catadromous freshwater marine brackish demersal		
+Muraenesox bagio	tropical	oceanodromous marine brackish demersal		100.0
+Osteochilus salsburyi	tropical	freshwater benthopelagic		
+Zenion japonicum		bathydemersal marine deep-water	200.0	400.0
+Collichthys lucidus	subtropical	oceanodromous marine demersal		90.0
+Solenostomus cyanopterus	tropical	reef-associated marine	0.0	25.0
+Silurus asotus	temperate	freshwater demersal		
+Hypophthalmichthys molitrix	subtropical	freshwater benthopelagic potamodromous	0.0	20.0
+Misgurnus anguillicaudatus	subtropical	freshwater demersal	5.0	
+Enoplosus armatus	temperate	reef-associated marine brackish		90.0
+Novumbra hubbsi	temperate	freshwater demersal		
+Nematalosa come	tropical	marine pelagic-neritic	10.0	13.0
+Zalieutes elater	tropical	marine demersal	18.0	113.0
+Prosopium cylindraceum	temperate	freshwater brackish potamodromous demersal		72.0
+Schizopygopsis younghusbandi		freshwater benthopelagic		
+Alosa alosa	temperate	anadromous freshwater marine brackish pelagic-neritic		300.0
+Ruvettus pretiosus	subtropical	benthopelagic oceanodromous marine	100.0	800.0
+Gymnarchus niloticus	tropical	freshwater demersal potamodromous		
+Megalops atlanticus	subtropical	amphidromous reef-associated freshwater marine brackish	0.0	30.0
+Ariomma indica	tropical	benthopelagic oceanodromous marine	20.0	300.0
+Porichthys myriaster	subtropical	marine demersal	0.0	126.0
+Polypterus delhezi	tropical	freshwater demersal		
+Nelusetta ayraudi	subtropical	marine demersal	0.0	360.0
+Oryzias marmoratus	tropical	freshwater benthopelagic non-migratory		
+Argyrosomus japonicus	tropical	benthopelagic oceanodromous marine brackish		
+Cirrhinus molitorella	tropical	freshwater benthopelagic potamodromous	5.0	20.0
+Pangio anguillaris	tropical	freshwater demersal		
+Sufflamen fraenatum	tropical	reef-associated oceanodromous marine	8.0	186.0
+Malapterurus electricus	tropical	freshwater benthopelagic potamodromous		
+Ctenopharyngodon idella	subtropical	freshwater demersal potamodromous	0.0	30.0
+Dissostichus eleginoides	temperate	pelagic-oceanic oceanodromous marine	50.0	3850.0
+Liobagrus marginatoides	temperate	freshwater benthopelagic		
+Thunnus albacares	tropical	pelagic-oceanic oceanodromous marine brackish	1.0	250.0
+Lycengraulis grossidens	subtropical	anadromous freshwater marine brackish pelagic-neritic		40.0
+Sphoeroides parvus	subtropical	marine brackish demersal		
+Xenotoca eiseni	temperate	freshwater demersal		
+Lepisosteus osseus	temperate	freshwater brackish demersal	0.0	
+Maulisia mauli		bathypelagic marine deep-water	400.0	1200.0
+Amphiprion ocellaris	tropical	reef-associated marine non-migratory	1.0	15.0
+Squalidus wolterstorffi	subtropical	freshwater benthopelagic brackish		
+Anguilla megastoma	tropical	catadromous freshwater marine brackish demersal		
+Diplomystes nahuelbutaensis	subtropical	freshwater demersal		
+Acheilognathus somjinensis	temperate	freshwater benthopelagic		
+Antennatus coccineus	tropical	reef-associated marine	1.0	75.0
+Schizothorax richardsonii	tropical	freshwater demersal potamodromous		
+Pelagocephalus marki	temperate	marine demersal		
+Hoplostethus japonicus		bathypelagic marine deep-water	336.0	605.0
+Microphysogobio longidorsalis	temperate	freshwater benthopelagic		
+Nealotus tripes		bathypelagic marine deep-water oceanodromous	914.0	1646.0
+Alburnus istanbulensis	subtropical	freshwater benthopelagic		
+Bathytroctes michaelsarsi		bathypelagic marine deep-water	2010.0	5057.0
+Gnathopogon elongatus	temperate	freshwater benthopelagic		
+Gila conspersa	tropical	freshwater benthopelagic		
+Canthigaster valentini	tropical	reef-associated marine	1.0	55.0
+Elassoma evergladei	temperate	freshwater demersal		
+Polymixia japonica		bathypelagic marine deep-water	160.0	628.0
+Trachurus trachurus	subtropical	oceanodromous marine pelagic-neritic	0.0	1050.0
+Neosalanx taihuensis	subtropical	freshwater demersal		
+Trachyrincus murrayi	temperate	benthopelagic marine	0.0	1630.0
+Phoxinus perenurus	subtropical	freshwater benthopelagic non-migratory		
+Platichthys stellatus	polar	catadromous freshwater marine brackish demersal	0.0	375.0
+Pseudalutarius nasicornis	subtropical	reef-associated marine	1.0	55.0
+Hippocampus comes	tropical	reef-associated marine non-migratory		20.0
+Thaumatichthys pagidostomus		bathydemersal marine deep-water	1392.0	1393.0
+Bathylaco nigricans		bathypelagic marine deep-water	450.0	4376.0
+Bunocephalus coracoideus	tropical	freshwater demersal		
+Cobitis takatsuensis	temperate	freshwater benthopelagic		
+Scomber japonicus	subtropical	oceanodromous marine pelagic-neritic	0.0	300.0
+Meuschenia hippocrepis	temperate	marine demersal		120.0
+Rhodeus ocellatus	subtropical	freshwater benthopelagic		
+Tetrapturus angustirostris	subtropical	pelagic-oceanic oceanodromous marine	0.0	1830.0
+Microrasbora erythromicron	tropical	freshwater benthopelagic		
+Pterocaesio tile	tropical	reef-associated marine non-migratory		60.0
+Oryzias luzonensis	tropical	freshwater benthopelagic non-migratory		
+Xiphophorus maculatus	tropical	freshwater benthopelagic non-migratory		
+Dallia pectoralis	boreal	freshwater demersal		
+Oplegnathus punctatus	tropical	reef-associated oceanodromous marine	3.0	135.0
+Ilisha elongata	tropical	marine brackish pelagic-neritic	5.0	
+Reinhardtius hippoglossoides	boreal	benthopelagic oceanodromous marine	1.0	2000.0
+Indostomus paradoxus	tropical	freshwater benthopelagic		
+Champsocephalus gunnari	polar	pelagic-oceanic marine	0.0	700.0
+Hyperopisus bebe	tropical	freshwater brackish potamodromous demersal		
+Zu cristatus		bathypelagic marine deep-water		90.0
+Variola albimarginata	tropical	reef-associated marine	4.0	200.0
+Liobagrus kingi	temperate	freshwater benthopelagic		
+Anguilla celebesensis	tropical	catadromous freshwater marine brackish demersal		
+Balistoides conspicillum	tropical	reef-associated marine brackish	1.0	75.0
+Ateleopus japonicus		bathydemersal marine deep-water	140.0	600.0
+Coreius heterodon	subtropical	freshwater benthopelagic		
+Merluccius merluccius	temperate	marine demersal	30.0	1075.0
+Helicolenus hilgendorfi	temperate	marine demersal	150.0	500.0
+Gonorynchus abbreviatus	subtropical	marine demersal	50.0	100.0
+Branchiostegus argentatus	tropical	marine demersal	51.0	65.0
+Leucaspius delineatus	temperate	pelagic freshwater brackish potamodromous	0.0	1.0
+Thunnus alalunga	subtropical	pelagic-oceanic oceanodromous marine	0.0	600.0
+Hippocampus histrix	tropical	reef-associated marine non-migratory		82.0
+Polypterus teugelsi	tropical	freshwater demersal		
+Corydoras rabauti	tropical	freshwater demersal		
+Brienomyrus niger	tropical	freshwater benthopelagic		
+Monognathus jesperseni		bathypelagic marine deep-water		3000.0
+Tropheus duboisi	tropical	freshwater demersal		
+Diplacanthopoma brachysoma		bathydemersal marine deep-water	460.0	1670.0
+Stylephorus chordatus		bathypelagic marine deep-water		
+Canthigaster coronata	tropical	reef-associated marine	6.0	165.0
+Monocentris japonicus	tropical	reef-associated marine	10.0	200.0
+Rhinecanthus aculeatus	tropical	reef-associated marine	0.0	50.0
+Esox niger	temperate	freshwater demersal non-migratory		6.0
+Anguilla luzonensis	tropical	catadromous freshwater marine brackish demersal		
+Diaphus theta		bathypelagic marine deep-water	0.0	3400.0
+Auxis thazard	tropical	oceanodromous marine pelagic-neritic	50.0	
+Crenimugil crenilabis	tropical	reef-associated marine brackish non-migratory	0.0	20.0
+Centropyge loricula	tropical	reef-associated marine brackish non-migratory	15.0	60.0
+Plectropomus areolatus	tropical	reef-associated marine	1.0	20.0
+Eutaeniophorus festivus		bathypelagic marine deep-water	0.0	200.0
+Nimbochromis linni	tropical	freshwater demersal	2.0	61.0
+Gyrinomimus myersi		bathypelagic marine deep-water	1280.0	2791.0
+Pegasus volitans	tropical	marine brackish demersal	1.0	73.0
+Puntius semifasciolatus	subtropical	freshwater benthopelagic	0.0	5.0
+Bathytroctes microlepis		bathypelagic marine deep-water	0.0	4900.0
+Myxus capensis	subtropical	catadromous freshwater marine brackish demersal		
+Mylocheilus caurinus	temperate	freshwater brackish demersal		
+Cryptopsaras couesii		bathypelagic marine deep-water	0.0	3085.0
+Moringua microchir	tropical	reef-associated marine brackish	3.0	20.0
+Lagocephalus wheeleri	temperate	marine demersal		
+Xenodermichthys copei		bathypelagic marine deep-water	100.0	2650.0
+Spinibarbus sinensis	subtropical	freshwater benthopelagic		
+Gymnocypris przewalskii	temperate	freshwater benthopelagic potamodromous		
+Acanthaluteres brownii	subtropical	reef-associated marine		50.0
+Tetranematichthys quadrifilis	tropical	freshwater demersal		
+Oryzias sarasinorum	tropical	pelagic freshwater		
+Chirocentrus dorab	tropical	amphidromous reef-associated marine brackish		120.0
+Silurus glanis	temperate	freshwater benthopelagic brackish non-migratory	0.0	30.0
+Caristius macropus		bathypelagic marine deep-water	200.0	1450.0
+Kali indica		bathypelagic marine deep-water	1000.0	3300.0
+Ranzania laevis	subtropical	pelagic-oceanic marine	1.0	140.0
+Thunnus tonggol	tropical	oceanodromous marine pelagic-neritic	10.0	
+Pagellus bogaraveo	temperate	benthopelagic marine		700.0
+Arothron mappa	tropical	reef-associated marine	4.0	30.0
+Chaca bankanensis	tropical	freshwater demersal		
+Dorosoma petenense	subtropical	anadromous freshwater marine brackish pelagic-neritic	0.0	15.0
+Tylerius spinosissimus		bathydemersal marine deep-water	250.0	435.0
+Paramormyrops gabonensis	tropical	freshwater demersal		
+Psenes pellucidus		bathypelagic marine deep-water		1000.0
+Hyperlophus vittatus	temperate	amphidromous marine brackish pelagic-neritic	10.0	13.0
+Aethaloperca rogaa	tropical	reef-associated marine non-migratory	3.0	50.0
+Mola mola	subtropical	pelagic-oceanic oceanodromous marine	30.0	480.0
+Iso hawaiiensis	tropical	reef-associated marine	0.0	2.0
+Oryzias dancena	tropical	freshwater benthopelagic brackish		
+Anarhichas denticulatus	polar	benthopelagic oceanodromous marine	60.0	1700.0
+Carpiodes carpio	subtropical	freshwater demersal		
+Hemibarbus longirostris	temperate	freshwater benthopelagic		
+Lycothrissa crocodilus	tropical	pelagic freshwater brackish potamodromous		
+Pagrus auriga	subtropical	benthopelagic oceanodromous marine		170.0
+Heteropneustes fossilis	tropical	freshwater brackish demersal		
+Eubalichthys mosaicus	temperate	reef-associated marine		140.0
+Tetractenos glaber	subtropical	freshwater marine brackish demersal		
+Thunnus obesus	subtropical	pelagic-oceanic oceanodromous marine	0.0	250.0
+Boraras maculatus	tropical	freshwater benthopelagic		
+Ictiobus bubalus	temperate	freshwater demersal		
+Cromileptes altivelis	tropical	reef-associated marine	2.0	40.0
+Percocypris pingi	subtropical	freshwater benthopelagic		
+Polypterus palmas	tropical	freshwater demersal		
+Barbus barbus	temperate	freshwater benthopelagic potamodromous	10.0	
+Tetragonurus cuvieri		bathypelagic marine deep-water oceanodromous	1.0	800.0
+Carassius gibelio	temperate	freshwater benthopelagic brackish potamodromous	0.0	
+Lutjanus kasmira	tropical	reef-associated marine	3.0	265.0
+Lagocephalus lunaris	tropical	oceanodromous marine brackish demersal		
+Chaenomugil proboscideus	tropical	marine pelagic-neritic		
+Papyrocranus congoensis	tropical	freshwater demersal		
+Tribolodon hakonensis	temperate	freshwater benthopelagic brackish		
+Elops hawaiensis	tropical	anadromous freshwater marine brackish pelagic-neritic	1.0	30.0
+Anoplopoma fimbria		bathydemersal oceanodromous marine deep-water	0.0	2740.0
+Microthrissa royauxi	tropical	pelagic freshwater		
+Collichthys niveatus	subtropical	oceanodromous marine demersal		
+Merlangius merlangus	temperate	benthopelagic oceanodromous marine	10.0	200.0
+Trigonostigma heteromorpha	tropical	freshwater benthopelagic		
+Melanocetus johnsoni		bathypelagic marine deep-water	100.0	4500.0
+Alepocephalus longiceps		bathydemersal marine deep-water	1240.0	1300.0
+Homatula variegatus	subtropical	freshwater demersal		
+Ablennes hians	subtropical	reef-associated oceanodromous marine brackish	0.0	3.0
+Anarchias sp.	subtropical	reef-associated marine		
+Pelteobagrus fulvidraco	temperate	freshwater demersal non-migratory		
+Hippocampus kuda	tropical	reef-associated marine brackish non-migratory	0.0	68.0
+Rhinomugil nasutus	tropical	pelagic freshwater brackish		
+Stemonidium hypomelas		bathypelagic marine deep-water	500.0	1229.0
+Hapalogenys nigripinnis	temperate	benthopelagic marine brackish		
+Channa argus	subtropical	freshwater benthopelagic		
+Rexea nakamurai		benthopelagic marine deep-water	340.0	370.0
+Chaeturichthys stigmatias	temperate	marine demersal		
+Pomatomus saltatrix	subtropical	pelagic-oceanic oceanodromous marine brackish	0.0	200.0
+Gadus morhua	temperate	benthopelagic oceanodromous marine brackish	0.0	600.0
+Lutjanus bengalensis	tropical	reef-associated marine	10.0	30.0
+Alepocephalus umbriceps		bathydemersal marine deep-water	500.0	2000.0
+Liobagrus nigricauda	subtropical	freshwater benthopelagic		
+Peprilus triacanthus	subtropical	benthopelagic oceanodromous marine brackish	15.0	420.0
+Oxymonacanthus longirostris	tropical	reef-associated marine non-migratory	4.0	30.0
+Glaridoglanis andersonii		freshwater demersal		
+Parachanna insignis	tropical	freshwater benthopelagic		
+Cyprinodon rubrofluviatilis	temperate	freshwater benthopelagic non-migratory		
+Centromochlus perugiae	tropical	freshwater benthopelagic		
+Paraluteres prionurus	tropical	reef-associated marine non-migratory	1.0	25.0
+Mallotus villosus	polar	pelagic-oceanic freshwater marine brackish anadromous	0.0	725.0
+Bathytroctes breviceps		bathypelagic marine deep-water		1650.0
+Pollachius pollachius	temperate	benthopelagic oceanodromous marine		200.0
+Rhynchocypris kumgangensis	temperate	freshwater benthopelagic		
+Pungitius sinensis	temperate	benthopelagic freshwater marine brackish		
+Lophiogobius ocellicauda	temperate	freshwater demersal		
+Clupanodon thrissa	tropical	anadromous freshwater marine brackish pelagic-neritic	0.0	50.0
+Lepidocybium flavobrunneum		benthopelagic oceanodromous marine deep-water	200.0	1100.0
+Etrumeus micropus	subtropical	marine pelagic-neritic		
+Niwaella delicata	temperate	freshwater demersal		
+Acanthopagrus latus	tropical	freshwater marine brackish demersal		50.0
+Luciosoma setigerum	tropical	pelagic freshwater		
+Zanclus cornutus	subtropical	reef-associated marine	3.0	182.0
+Leptobarbus hoevenii	tropical	pelagic freshwater potamodromous	3.0	
+Apogon semilineatus	tropical	reef-associated marine brackish	3.0	100.0
+Crenuchus spilurus	tropical	pelagic freshwater		
+Labeo bata	tropical	freshwater benthopelagic potamodromous		
+Microdevario nana	tropical	freshwater benthopelagic brackish		
+Coelophrys brevicaudata	subtropical	marine demersal		1024.0
+Polypterus ansorgii	tropical	freshwater demersal		
+Puck pinnata		bathypelagic marine deep-water		
+Etroplus maculatus	tropical	amphidromous freshwater benthopelagic brackish		
+Petroscirtes breviceps	tropical	reef-associated oceanodromous marine		10.0
+Sphyraena japonica	temperate	marine pelagic-neritic		
+Arothron hispidus	tropical	reef-associated marine brackish non-migratory	3.0	50.0
+Sicyopterus japonicus	subtropical	amphidromous freshwater marine brackish demersal		
+Thunnus thynnus	subtropical	pelagic-oceanic oceanodromous marine brackish	0.0	985.0
+Diaphus gigas	temperate	pelagic-oceanic marine	100.0	500.0
+Myrichthys maculosus	tropical	reef-associated marine	0.0	262.0
+Campostoma anomalum	subtropical	freshwater benthopelagic		
+Siganus unimaculatus	tropical	reef-associated marine		30.0
+Alepocephalus agassizii		bathydemersal marine deep-water	600.0	2500.0
+Huso huso	temperate	anadromous freshwater marine brackish demersal	70.0	180.0
+Sagamichthys abei		bathypelagic marine deep-water	37.0	1500.0
+Sphoeroides pachygaster	subtropical	benthopelagic marine	50.0	480.0
+Glyptosternon maculatum		freshwater demersal		
+Alepocephalus australis		bathydemersal marine deep-water	1000.0	2600.0
+Coilia reynaldi	tropical	amphidromous freshwater marine brackish pelagic-neritic	0.0	50.0
+Pseudexostoma yunnanensis	temperate	freshwater demersal		
+Nesiarchus nasutus		benthopelagic marine deep-water	200.0	1200.0
+Labeo rohita	tropical	freshwater benthopelagic brackish potamodromous	5.0	
+Cobitis choii	subtropical	freshwater demersal non-migratory		
+Coilia ectenes	subtropical	anadromous freshwater marine brackish pelagic-neritic	0.0	50.0
+Culaea inconstans	temperate	freshwater demersal	0.0	55.0
+Ariomma lurida		bathypelagic marine deep-water	350.0	
+Luciosoma bleekeri	tropical	pelagic freshwater		
+Cynoponticus ferox	subtropical	marine demersal	10.0	100.0
+Tetraodon miurus	tropical	freshwater demersal		
+Stephanolepis cirrhifer	temperate	oceanodromous marine demersal		
+Xenocypris davidi	subtropical	freshwater benthopelagic brackish		
+Micropterus dolomieu	temperate	freshwater benthopelagic		
+Umbra pygmaea	temperate	freshwater demersal non-migratory		
+Gasterosteus aculeatus	temperate	benthopelagic freshwater marine brackish anadromous	0.0	100.0
+Engraulis japonicus	temperate	oceanodromous marine pelagic-neritic	0.0	400.0
+Epinephelus lanceolatus	tropical	reef-associated marine brackish	4.0	100.0
+Genyomyrus donnyi	tropical	freshwater demersal		
+Balistes vetula	tropical	reef-associated marine	2.0	275.0
+Rasbora steineri	tropical	freshwater benthopelagic		
+Zenopsis nebulosus		benthopelagic marine deep-water	30.0	800.0
+Narcetes stomias		bathypelagic marine deep-water	1500.0	2300.0
+Gempylus serpens		pelagic-oceanic oceanodromous marine deep-water	0.0	600.0
+Nansenia ardesiaca		bathydemersal marine deep-water	260.0	553.0
+Abalistes stellaris	tropical	amphidromous marine demersal		
+Takifugu snyderi	subtropical	marine demersal		
+Epinephelus bruneus	tropical	reef-associated marine	20.0	200.0
+Scomberomorus semifasciatus	tropical	oceanodromous marine brackish pelagic-neritic		100.0
+Sinocyclocheilus furcodorsalis	tropical	freshwater benthopelagic		
+Scomberomorus niphonius	temperate	oceanodromous marine pelagic-neritic	0.0	200.0
+Auchenoglanis occidentalis	tropical	freshwater demersal potamodromous		
+Hemibarbus labeo	temperate	freshwater benthopelagic potamodromous	5.0	20.0
+Cottus hangiongensis	temperate	catadromous freshwater marine brackish demersal		
+Oncorhynchus gorbuscha	subtropical	anadromous freshwater marine brackish demersal	0.0	250.0
+Microphysogobio brevirostris	subtropical	freshwater benthopelagic	1.0	5.0
+Petrotilapia nigra	tropical	freshwater demersal	3.0	30.0
+Gnathopogon strigatus	temperate	freshwater benthopelagic		
+Rondeletia loricata		bathypelagic marine deep-water	100.0	3500.0
+Hemibagrus macropterus	temperate	freshwater demersal		
+Chelon labrosus	subtropical	catadromous freshwater marine brackish demersal		
+Spratelloides gracilis	tropical	marine pelagic-neritic	10.0	
+Fundulus olivaceus	temperate	freshwater benthopelagic non-migratory		
+Tetraodon nigroviridis	tropical	freshwater brackish demersal		
+Nematalosa japonica	tropical	benthopelagic marine		
+Stolephorus chinensis	tropical	marine pelagic-neritic	0.0	50.0
+Acanthurus leucosternon	tropical	reef-associated marine	0.0	25.0
+Moolgarda cunnesius	tropical	catadromous freshwater marine brackish demersal		
+Hyperoglyphe japonica	temperate	benthopelagic oceanodromous marine	150.0	400.0
+Paralaubuca typus	tropical	freshwater benthopelagic potamodromous		
+Seriola quinqueradiata	subtropical	oceanodromous marine demersal	100.0	
+Carnegiella strigata	tropical	pelagic freshwater		
+Oreoglanis macropterus	tropical	freshwater benthopelagic		
+Onychostoma barbatum	subtropical	freshwater benthopelagic		
+Pellonula vorax	tropical	anadromous freshwater marine brackish pelagic-neritic		
+Gadus chalcogrammus	polar	benthopelagic marine brackish non-migratory	0.0	1280.0
+Osmerus mordax	temperate	pelagic-oceanic freshwater marine brackish anadromous	0.0	425.0
+Puntius denisonii	subtropical	freshwater benthopelagic		
+Exocoetus volitans	subtropical	oceanodromous marine pelagic-neritic	0.0	20.0
+Schizothorax waltoni		freshwater benthopelagic		
+Lepomis macrochirus	subtropical	freshwater benthopelagic		
+Centrobranchus choerocephalus		bathypelagic marine deep-water		1050.0
+Pungitius kaibarae	temperate	benthopelagic freshwater marine brackish		
+Stenodus leucichthys	boreal	anadromous freshwater marine brackish demersal	10.0	
+Mastacembelus favus	tropical	freshwater demersal		
+Phoxinus eos	temperate	freshwater demersal		
+Takifugu chrysops	temperate	marine demersal		
+Triodon macropterus	tropical	reef-associated marine	50.0	300.0
+Solea senegalensis	subtropical	marine demersal	12.0	65.0
+Leptobotia elongata	subtropical	freshwater demersal		
+Brachymystax lenok	temperate	anadromous freshwater benthopelagic		
+Chelonodon patoca	tropical	anadromous reef-associated freshwater marine brackish	4.0	
+Cataetyx rubrirostris		bathydemersal marine deep-water	300.0	1000.0
+Microphysogobio alticorpus	subtropical	freshwater benthopelagic		
+Anodontostoma chacunda	tropical	anadromous freshwater marine brackish pelagic-neritic	0.0	50.0
+Leptoderma retropinna		bathypelagic marine deep-water	600.0	1100.0
+Oryzias melastigma	tropical	freshwater benthopelagic brackish		
+Cheilinus undulatus	tropical	reef-associated marine	1.0	100.0
+Sardinops melanostictus	subtropical	oceanodromous marine pelagic-neritic	0.0	200.0
+Hemibarbus maculatus	temperate	freshwater benthopelagic		
+Halieutaea stellata	tropical	marine demersal	50.0	400.0
+Aulopus japonicus	tropical	marine demersal	85.0	510.0
+Megalobrama terminalis	temperate	freshwater benthopelagic		
+Alepocephalus bairdii		bathydemersal marine deep-water	365.0	1700.0
+Siniperca scherzeri	temperate	freshwater benthopelagic brackish		
+Spratelloides delicatulus	tropical	reef-associated marine	0.0	50.0
+Pseudobagrus truncatus	temperate	freshwater benthopelagic		
+Lutjanus erythropterus	tropical	reef-associated marine	5.0	100.0
+Anguilla obscura	tropical	catadromous freshwater marine brackish demersal		
+Trichiurus lepturus	subtropical	amphidromous benthopelagic marine brackish	0.0	589.0
+Paralichthys olivaceus	subtropical	oceanodromous marine demersal	10.0	200.0
+Anguilla japonica	subtropical	catadromous freshwater marine brackish demersal	1.0	400.0
+Vaillantella maassi	tropical	freshwater demersal		
+Isichthys henryi	tropical	freshwater demersal		
+Ariosoma shiroanago	temperate	marine demersal		
+Dysalotus alcocki		bathypelagic marine deep-water oceanodromous	0.0	2100.0
+Elassoma zonatum	temperate	freshwater demersal		
+Rasbora daniconius	tropical	freshwater benthopelagic brackish potamodromous		
+Sundasalanx praecox	tropical	freshwater demersal		
+Chaenocephalus aceratus	polar	marine demersal	5.0	770.0
+Plagiognathops microlepis	temperate	freshwater benthopelagic		
+Antennarius striatus	subtropical	reef-associated marine brackish	10.0	219.0
+Auriglobus modestus	tropical	freshwater demersal		
+Neoscopelus macrolepidotus		bathypelagic marine non-migratory deep-water	300.0	1180.0
+Antennarius coccineus	tropical	reef-associated marine	0.0	104.0
+Oxuderces dentatus	tropical	amphidromous freshwater brackish demersal		
+Oreochromis aureus	tropical	freshwater benthopelagic brackish potamodromous	5.0	
+Gonorynchus greyi	subtropical	marine brackish demersal		160.0
+Trypauchen vagina	tropical	amphidromous marine brackish demersal		
+Gilchristella aestuaria	subtropical	amphidromous freshwater marine brackish pelagic-neritic		
+Rhynchactis macrothrix		bathypelagic marine deep-water	0.0	2000.0
+Epinephelus awoara	tropical	reef-associated marine	10.0	50.0
+Luvarus imperialis	subtropical	pelagic-oceanic oceanodromous marine	0.0	200.0
+Verasper moseri	temperate	marine demersal	1.0	900.0
+Kurtus gulliveri	tropical	freshwater benthopelagic brackish		
+Coregonus lavaretus	temperate	anadromous freshwater marine brackish demersal		
+Eleotris acanthopoma	tropical	amphidromous freshwater marine brackish demersal		
+Thymallus arcticus	temperate	freshwater benthopelagic	30.0	
+Benthosema fibulatum		bathypelagic marine deep-water oceanodromous	0.0	2000.0
+Nannobrachium ritteri		bathypelagic marine deep-water	20.0	1095.0
+Myripristis berndti	tropical	reef-associated marine	1.0	50.0
+Scatophagus argus	tropical	amphidromous reef-associated freshwater marine brackish	1.0	4.0
+Neoceratias spinifer		marine demersal deep-water	0.0	1200.0
+Labichthys carinatus		bathypelagic marine deep-water	0.0	2000.0
+Lutjanus argentimaculatus	subtropical	reef-associated freshwater marine brackish oceanodromous	10.0	120.0
+Boreogadus saida	polar	oceanodromous marine brackish demersal	0.0	400.0
+Acentrogobius pflaumii	subtropical	marine brackish demersal		
+Epinephelus akaara	tropical	reef-associated marine		55.0
+Tribolodon brandtii	temperate	anadromous freshwater marine brackish demersal		
+Carangoides armatus	tropical	reef-associated marine brackish		
+Acrossocheilus monticola	temperate	freshwater benthopelagic		
+Yaoshanicus arcus	subtropical	freshwater benthopelagic		
+Seriola dumerili	subtropical	reef-associated oceanodromous marine	1.0	360.0
+Petrocephalus soudanensis	tropical	freshwater demersal		
+Liobagrus obesus	temperate	freshwater benthopelagic		
+Euthynnus alletteratus	tropical	reef-associated oceanodromous marine brackish	1.0	150.0
+Lagocephalus lagocephalus	subtropical	benthopelagic oceanodromous marine	10.0	476.0
+Anomalops katoptron	tropical	reef-associated marine	2.0	400.0
+Oncorhynchus clarkii	temperate	anadromous freshwater marine brackish demersal	0.0	200.0
+Diretmus argenteus		bathypelagic marine deep-water	0.0	2000.0
+Pseudolaubuca engraulis	subtropical	freshwater benthopelagic		
+Narcetes erimelas		bathypelagic marine deep-water	1300.0	2600.0
+Oncorhynchus kisutch	temperate	anadromous freshwater marine brackish demersal	0.0	250.0
+Sewellia lineolata	tropical	freshwater demersal		
+Paraplagusia japonica	tropical	marine demersal	20.0	65.0
+Sciaenops ocellatus	subtropical	oceanodromous marine brackish demersal	10.0	
+Lepomis cyanellus	subtropical	freshwater benthopelagic		
+Ammodytes hexapterus	temperate	benthopelagic oceanodromous marine brackish	0.0	275.0
+Pelteobagrus vachellii	subtropical	freshwater demersal		
+Pholis crassispina	temperate	marine demersal	0.0	5.0
+Pseudolabrus sieboldi	subtropical	marine demersal		
+Hemibarbus barbus	temperate	freshwater benthopelagic potamodromous	5.0	20.0
+Xanthichthys auromarginatus	tropical	reef-associated marine	8.0	150.0
+Lagocephalus sceleratus	tropical	reef-associated marine	18.0	100.0
+Cyphomyrus discorhynchus	tropical	freshwater demersal		
+Oryzias celebensis	tropical	freshwater benthopelagic non-migratory		
+Rastrelliger brachysoma	tropical	oceanodromous marine brackish pelagic-neritic	15.0	200.0
+Benthosema glaciale		pelagic-oceanic marine non-migratory deep-water	0.0	1407.0
+Scopelengys tristis		bathypelagic marine deep-water oceanodromous	400.0	1830.0
+Thryssa baelama	tropical	reef-associated marine brackish	0.0	50.0
+Acentrogobius chlorostigmatoides	tropical	freshwater brackish demersal		
+Callionymus curvicornis	subtropical	freshwater marine brackish demersal		
+Distoechodon tumirostris	subtropical	freshwater benthopelagic	10.0	20.0
+Plectropomus leopardus	tropical	reef-associated oceanodromous marine	3.0	100.0
+Takifugu ocellatus	subtropical	anadromous freshwater marine brackish demersal		
+Tetraodon cutcutia	tropical	freshwater brackish potamodromous demersal		
+Clinocottus analis	subtropical	marine demersal non-migratory	0.0	18.0
+Tor putitora	subtropical	freshwater benthopelagic potamodromous	0.0	
+Gymnoscopelus nicholsi		bathypelagic marine deep-water oceanodromous	300.0	
+Jenkinsia lamprotaenia	subtropical	reef-associated marine	0.0	50.0
+Dactyloptena tiltoni		bathydemersal marine deep-water	119.0	565.0
+Leptoderma macrophthalmum		bathydemersal marine deep-water	2063.0	2107.0
+Cromeria nilotica	tropical	freshwater benthopelagic		
+Biwia zezera	temperate	freshwater demersal		
+Micropterus salmoides	subtropical	freshwater benthopelagic		7.0
+Triacanthus biaculeatus	tropical	marine brackish demersal		60.0
+Oryzias minutillus	tropical	freshwater benthopelagic non-migratory		
+Scarus ghobban	tropical	reef-associated marine brackish	3.0	36.0
+Fundulus diaphanus	temperate	freshwater benthopelagic brackish non-migratory		
+Apareiodon affinis	subtropical	freshwater benthopelagic		
+Tropheus moorii	tropical	freshwater benthopelagic		
+Katsuwonus pelamis	tropical	pelagic-oceanic oceanodromous marine	0.0	260.0
+Helogenes marmoratus	tropical	freshwater demersal		
+Istiophorus albicans	subtropical	pelagic-oceanic oceanodromous marine	0.0	200.0
+Trixiphichthys weberi	tropical	marine demersal		65.0
+Notothenia coriiceps	polar	marine demersal	0.0	550.0
+Beryx decadactylus		bathydemersal marine deep-water	110.0	1000.0
+Crossostoma lacustre	subtropical	freshwater demersal	1.0	10.0
+Pentaceros japonicus	subtropical	benthopelagic marine	100.0	830.0
+Trachurus japonicus	tropical	oceanodromous marine pelagic-neritic	0.0	275.0
+Sundasalanx mekongensis	tropical	freshwater demersal		
+Fundulus heteroclitus	temperate	benthopelagic freshwater marine brackish non-migratory		
+Agonostomus monticola	subtropical	catadromous freshwater marine brackish pelagic-neritic		
+Alepocephalus bicolor		bathydemersal marine deep-water	439.0	1080.0
+Pleuragramma antarcticum	polar	pelagic-oceanic marine	0.0	728.0
+Melanocetus murrayi		bathypelagic marine deep-water	100.0	6370.0
+Monodactylus argenteus	tropical	freshwater marine brackish pelagic-neritic		
+Serrivomer sector		bathypelagic marine deep-water	0.0	3243.0
+Alburnus alburnus	temperate	freshwater benthopelagic brackish potamodromous	1.0	
+Puntius chalakkudiensis	tropical	freshwater benthopelagic		
+Acipenser baerii	temperate	anadromous freshwater marine brackish demersal	1.0	
+Pseudopungtungia nigra	temperate	freshwater benthopelagic		
+Acreichthys tomentosus	tropical	reef-associated marine non-migratory	2.0	15.0
+Bagarius yarrelli	tropical	freshwater demersal potamodromous		
+Clupeichthys aesarnensis	tropical	pelagic freshwater potamodromous		
+Hiodon alosoides	temperate	pelagic freshwater potamodromous		
+Salarias fasciatus	tropical	reef-associated marine	0.0	8.0
+Epinephelus fasciatomaculosus	tropical	reef-associated marine	15.0	30.0
+Rasbora vaterifloris	tropical	freshwater benthopelagic		
+Batrachomoeus trispinosus	tropical	reef-associated marine brackish		
+Labeo senegalensis	tropical	freshwater benthopelagic potamodromous		
+Acheilognathus macropterus	subtropical	freshwater benthopelagic brackish		
+Bathygadus antrodes		bathydemersal marine deep-water	792.0	1200.0
+Derichthys serpentinus		bathypelagic marine deep-water	0.0	2000.0
+Coryphaena equiselis	subtropical	pelagic-oceanic oceanodromous marine	0.0	
+Takifugu oblongus	tropical	marine brackish demersal		
+Oreoleuciscus potanini	temperate	freshwater demersal		
+Lateolabrax japonicus	subtropical	catadromous reef-associated freshwater marine brackish	5.0	
+Rasbora cephalotaenia	tropical	freshwater benthopelagic		
+Amblydoras gonzalezi	tropical	freshwater demersal		
+Potamothrissa obtusirostris	tropical	pelagic freshwater		
+Harengula jaguana	tropical	reef-associated marine brackish		22.0
+Leptobotia mantschurica	temperate	freshwater demersal non-migratory		
+Epinephelus sexfasciatus	tropical	reef-associated marine	10.0	80.0
+Acantopsis choirorhynchos	tropical	freshwater brackish demersal		
+Odontobutis platycephala	subtropical	freshwater benthopelagic		
+Coreoleuciscus splendidus	temperate	freshwater demersal		
+Hiodon tergisus	temperate	pelagic freshwater		
+Bertella idiomorpha	temperate	marine demersal	0.0	3475.0
+Labeo calbasu	tropical	freshwater brackish potamodromous demersal	10.0	10.0
+Cromeria occidentalis	tropical	freshwater benthopelagic		
+Simenchelys parasitica		bathydemersal marine deep-water	136.0	2620.0
+Abudefduf vaigiensis	tropical	reef-associated oceanodromous marine	1.0	15.0
+Diodon holocanthus	subtropical	reef-associated marine	2.0	200.0
+Pellona ditchela	tropical	anadromous freshwater marine brackish pelagic-neritic	10.0	55.0
+Trachidermus fasciatus	subtropical	benthopelagic freshwater marine brackish catadromous		
+Oreochromis mossambicus	tropical	amphidromous freshwater benthopelagic brackish	1.0	12.0
+Luciobarbus capito	temperate	freshwater benthopelagic brackish		
+Catostomus commersonii	temperate	catadromous freshwater demersal		
+Melanotaenia lacustris	tropical	freshwater benthopelagic		
+Phoxinus phoxinus	temperate	freshwater brackish potamodromous demersal		
+Rhyacichthys aspro	tropical	amphidromous freshwater marine brackish demersal		
+Opsariichthys uncirostris	temperate	freshwater benthopelagic		
+Chionodraco myersi		bathydemersal marine deep-water	200.0	800.0
+Paratilapia polleni	tropical	freshwater demersal		
+Coregonus clupeaformis	temperate	anadromous freshwater marine brackish demersal	18.0	128.0
+Arctoscopus japonicus		bathydemersal marine deep-water	0.0	550.0
+Coregonus oxyrinchus	temperate	anadromous freshwater marine brackish demersal		
+Scarus schlegeli	tropical	reef-associated marine	1.0	50.0
+Marilyna darwinii	tropical	marine brackish demersal		
+Sardinella maderensis	subtropical	oceanodromous marine brackish pelagic-neritic	0.0	80.0
+Chaetodermis penicilligera	tropical	reef-associated marine		
+Ventrifossa garmani		bathydemersal marine non-migratory deep-water	200.0	720.0
+Talismania bifurcata		bathydemersal marine deep-water	300.0	2000.0
+Johnius belangerii	tropical	amphidromous marine brackish demersal		40.0
+Ostichthys japonicus	tropical	reef-associated marine		
+Parargyrops edita	subtropical	freshwater brackish demersal		
+Odonus niger	tropical	reef-associated oceanodromous marine	5.0	40.0
+Siganus fuscescens	tropical	reef-associated oceanodromous marine brackish		50.0
+Setipinna melanochir	tropical	freshwater marine brackish pelagic-neritic		
+Ditrema temminckii	temperate	marine demersal		
+Gillichthys mirabilis	subtropical	marine brackish demersal		
+Carassius auratus	subtropical	freshwater benthopelagic potamodromous	0.0	20.0
+Oryzias latipes	subtropical	amphidromous freshwater benthopelagic brackish		
+Tenualosa ilisha	tropical	anadromous freshwater marine brackish pelagic-neritic		200.0
+Epinephelus fuscoguttatus	tropical	reef-associated marine	1.0	60.0
+Acanthogobius hasta	temperate	amphidromous freshwater marine brackish demersal		
+Distichodus sexfasciatus	tropical	pelagic freshwater		
+Anguilla anguilla	temperate	catadromous freshwater marine brackish demersal	0.0	700.0
+Oedalechilus labeo	subtropical	marine brackish demersal		
+Oneirodes thompsoni		bathypelagic marine deep-water	100.0	2014.0
+Psettodes erumei	tropical	marine demersal	1.0	100.0
+Osteoglossum bicirrhosum	tropical	freshwater benthopelagic		
+Cheilochromis euchilus	tropical	freshwater benthopelagic non-migratory		
+Epinephelus coioides	subtropical	reef-associated marine brackish		100.0
+Pareutropius debauwi	tropical	freshwater demersal		
+Leporinus affinis	tropical	freshwater benthopelagic		
+Cololabis saira	subtropical	pelagic-oceanic oceanodromous marine	0.0	230.0
+Scaphiodonichthys acanthopterus	tropical	freshwater benthopelagic		
+Chaetodontoplus septentrionalis	tropical	reef-associated marine non-migratory	5.0	15.0
+Thunnus orientalis	subtropical	pelagic-oceanic oceanodromous marine brackish	1.0	200.0
+Neoscopelus microchir		bathypelagic marine deep-water	250.0	700.0
+Cetostoma regani		bathypelagic marine deep-water	0.0	2250.0
+Schizothorax macropogon		freshwater benthopelagic		
+Microthrissa congica	tropical	pelagic freshwater		
+Acentrophryne dolichonema		bathypelagic marine deep-water	201.0	1105.0
+Polymixia lowei		bathydemersal marine deep-water	50.0	600.0
+Puntius ticto	subtropical	freshwater benthopelagic brackish potamodromous		
+Ehirava fluviatilis	tropical	amphidromous freshwater marine brackish pelagic-neritic		
+Conger myriaster	temperate	oceanodromous marine demersal	320.0	830.0
+Oncorhynchus keta	temperate	benthopelagic freshwater marine brackish anadromous	0.0	250.0
+Triplophysa rosa	subtropical	freshwater demersal		
+Eleutheronema tetradactylum	tropical	amphidromous freshwater marine brackish pelagic-neritic	0.0	23.0
+Abramis brama	temperate	freshwater benthopelagic brackish potamodromous	1.0	
+Makaira mazara	subtropical	pelagic-oceanic oceanodromous marine	0.0	200.0
+Makaira indica	subtropical	pelagic-oceanic oceanodromous marine	0.0	915.0
+Salanx ariakensis	subtropical	anadromous freshwater marine brackish demersal		
+Scomber colias	temperate	marine brackish pelagic-neritic		
+Rinoctes nasutus		bathypelagic marine deep-water	2000.0	4156.0
+Gadus ogac	polar	oceanodromous marine brackish demersal	0.0	200.0
+Sardinella albella	tropical	reef-associated marine	0.0	50.0
+Epinephelus moara	tropical	reef-associated marine	20.0	200.0
+Theragra finnmarchica	polar	benthopelagic marine		
+Clupeonella cultriventris	temperate	anadromous freshwater marine brackish pelagic-neritic	10.0	13.0
+Polyspina piosae	subtropical	benthopelagic marine		
+Hexagrammos agrammus	temperate	oceanodromous marine demersal		
+Koreocobitis naktongensis	subtropical	freshwater demersal		
+Trichomycterus areolatus	temperate	freshwater benthopelagic		
+Xenobalistes tumidipectoris	tropical	marine demersal		
+Acipenser transmontanus	subtropical	anadromous freshwater marine brackish demersal	1.0	122.0
+Sphyraena barracuda	subtropical	reef-associated marine brackish	1.0	100.0
+Triso dermopterus	tropical	marine demersal	22.0	103.0
+Pseudogobio esocinus	temperate	freshwater benthopelagic		
+Pythonichthys microphthalmus	tropical	marine demersal	40.0	150.0
+Gymnocypris eckloni	temperate	freshwater benthopelagic		
+Lampris guttatus		bathypelagic marine deep-water oceanodromous	100.0	500.0
+Petrochromis trewavasae	tropical	freshwater benthopelagic		
+Sarcocheilichthys parvus	subtropical	freshwater benthopelagic		
+Colisa lalia	tropical	freshwater benthopelagic		
+Aeoliscus strigatus	tropical	reef-associated marine	1.0	20.0
+Gagata dolichonema	tropical	freshwater benthopelagic		
+Garra orientalis	subtropical	freshwater benthopelagic		
+Anarhichas lupus	temperate	oceanodromous marine demersal	1.0	600.0
+Parapristipoma trilineatum	subtropical	benthopelagic oceanodromous marine		
+Denticeps clupeoides	tropical	pelagic freshwater		
+Lamprogrammus niger		bathypelagic marine deep-water	741.0	2000.0
+Minytrema melanops	subtropical	freshwater demersal		
+Trematocranus placodon	tropical	freshwater demersal		32.0
+Barbus trimaculatus	tropical	freshwater benthopelagic potamodromous		
+Acheilognathus intermedia	temperate	freshwater benthopelagic		
+Pseudotropheus crabro	tropical	freshwater demersal	15.0	18.0
+Gyrinocheilus aymonieri	tropical	freshwater demersal potamodromous		
+Hippocampus trimaculatus	tropical	reef-associated marine non-migratory		100.0
+Ceratias uranoscopus		bathypelagic marine deep-water	0.0	2091.0
+Odontamblyopus rubicundus	subtropical	amphidromous benthopelagic marine brackish		
+Assurger anzac	tropical	benthopelagic marine	150.0	400.0
+Carapus bermudensis	tropical	reef-associated marine non-migratory	1.0	235.0
+Acipenser sinensis	temperate	anadromous freshwater marine brackish demersal		
+Lobianchia gemellarii		bathypelagic marine deep-water oceanodromous	25.0	800.0
+Moxostoma poecilurum	temperate	freshwater demersal		
+Melichthys vidua	tropical	reef-associated marine	4.0	60.0
+Beryx splendens	subtropical	benthopelagic marine	25.0	1300.0
+Galaxias maculatus	temperate	benthopelagic freshwater marine brackish catadromous		
+Sphoeroides annulatus	subtropical	reef-associated marine brackish	0.0	11.0
+Pangasianodon hypophthalmus	tropical	freshwater benthopelagic potamodromous		
+Gudusia chapra	subtropical	pelagic freshwater brackish potamodromous		
+Gymnothorax kidako	tropical	reef-associated marine	2.0	350.0
+Tribolodon nakamurai	subtropical	freshwater benthopelagic		
+Lophiodes caulinaris		marine demersal deep-water	15.0	311.0
+Cynoglossus semilaevis	subtropical	freshwater marine brackish demersal		
+Psenopsis anomala	tropical	benthopelagic marine	0.0	370.0
+Schistura balteata	tropical	freshwater benthopelagic		
+Epinephelus merra	tropical	reef-associated marine	0.0	50.0
+Sicamugil cascasia	tropical	freshwater demersal potamodromous		
+Gymnotus carapo	subtropical	freshwater benthopelagic potamodromous		
+Anguilla bengalensis	tropical	benthopelagic freshwater marine brackish catadromous		
+Aptocyclus ventricosus	temperate	benthopelagic marine	0.0	1700.0
+Coregonus nasus	polar	anadromous freshwater marine brackish demersal		
+Hucho taimen	temperate	freshwater benthopelagic potamodromous		
+Ictalurus punctatus	subtropical	freshwater benthopelagic	15.0	
+Helicolenus avius		bathydemersal marine deep-water	450.0	600.0
+Zebrias zebra	tropical	reef-associated marine brackish		
+Jordanella floridae	subtropical	freshwater benthopelagic brackish non-migratory		
+Girella punctata	temperate	reef-associated oceanodromous marine		
+Johnius grypotus	tropical	benthopelagic marine		
+Euchiloglanis kishinouyei	subtropical	freshwater demersal		
+Prosopium williamsoni	temperate	freshwater benthopelagic	5.0	20.0
+Pseudecheneis sulcata	tropical	freshwater demersal		
+Miichthys miiuy	temperate	oceanodromous marine brackish demersal	15.0	100.0
+Tetraodon palembangensis	tropical	freshwater demersal		
+Gymnogobius petschiliensis	temperate	amphidromous freshwater marine brackish demersal		
+Evoxymetopon poeyi	tropical	benthopelagic marine		
+Dendrophysa russelii	tropical	amphidromous freshwater marine brackish demersal		
+Rhynchocypris lagowskii	temperate	freshwater benthopelagic		
+Caranx melampygus	tropical	reef-associated marine brackish	0.0	190.0
+Ctenolucius hujeta	tropical	pelagic freshwater		
+Polypterus endlicherii	tropical	freshwater demersal potamodromous		
+Pteraclis aesticola	temperate	benthopelagic oceanodromous marine	0.0	100.0
+Scleropages formosus	tropical	freshwater benthopelagic		
+Spinachia spinachia	temperate	benthopelagic marine brackish non-migratory		
+Dactyloptena peterseni	tropical	marine demersal	50.0	210.0
+Menidia menidia	temperate	oceanodromous marine brackish pelagic-neritic	0.0	3.0
+Rhamphochromis esox	tropical	freshwater demersal	2.0	65.0
+Trachinotus ovatus	subtropical	marine brackish pelagic-neritic	50.0	200.0
+Xenocypris argentea	subtropical	freshwater benthopelagic		
+Polypterus bichir	tropical	freshwater demersal potamodromous		
+Icichthys lockingtoni	subtropical	pelagic-oceanic marine	0.0	900.0
+Hippoglossus hippoglossus	temperate	oceanodromous marine demersal	50.0	2000.0
+Scarus forsteni	tropical	reef-associated marine	3.0	30.0
+Lophiomus setigerus	tropical	marine demersal	30.0	800.0
+Micromesistius poutassou	temperate	bathypelagic marine oceanodromous	150.0	3000.0
+Hypentelium nigricans	temperate	freshwater demersal potamodromous		
+Pseudopentaceros richardsoni	temperate	pelagic-oceanic marine	0.0	1000.0
+Robinsia catherinae	tropical	marine demersal	140.0	243.0
+Hyporhamphus sajori	temperate	amphidromous freshwater marine brackish pelagic-neritic	30.0	
+Sebates schlegeli	temperate	marine demersal	3.0	100.0
+Oncorhynchus mykiss	subtropical	benthopelagic freshwater marine brackish anadromous	0.0	200.0
+Notoscopelus elongatus	subtropical	pelagic-oceanic oceanodromous marine	45.0	1000.0
+Macrochirichthys macrochirus	tropical	freshwater benthopelagic		
+Tenualosa toli	tropical	anadromous freshwater marine brackish pelagic-neritic	10.0	
+Notoscopelus caudispinosus		bathypelagic marine deep-water oceanodromous	0.0	
+Zacco platypus	subtropical	freshwater benthopelagic		
+Colomesus asellus	tropical	freshwater demersal		
+Kaupichthys hyoproroides	subtropical	reef-associated marine	1.0	95.0
+Histrio histrio	subtropical	reef-associated oceanodromous marine	0.0	50.0
+Procetichthys kreffti		bathypelagic marine deep-water	0.0	2200.0
+Caulophryne pelagica		bathypelagic marine deep-water		2500.0
+Pampus punctatissimus	subtropical	benthopelagic marine		
+Marcusenius senegalensis	tropical	freshwater demersal potamodromous		
+Danio rerio	tropical	freshwater benthopelagic		
+Amphiprion bicinctus	tropical	reef-associated marine non-migratory	1.0	30.0
+Nettastoma parviceps		benthopelagic marine deep-water	60.0	1190.0
+Solivomer arenidens		benthopelagic marine deep-water	1413.0	1413.0
+Paraconger notialis	tropical	marine demersal	25.0	50.0
+Spicara maena	subtropical	marine pelagic-neritic	30.0	130.0
+Gasterochisma melampus	subtropical	pelagic-oceanic oceanodromous marine	200.0	
+Cypselurus hiraii	temperate	marine pelagic-neritic		
+Hemibarbus mylodon	temperate	freshwater benthopelagic		
+Gnathonemus petersii	tropical	freshwater demersal		
+Aphyocypris chinensis	temperate	freshwater benthopelagic		
+Sarcocheilichthys sinensis	temperate	freshwater benthopelagic		
+Hapalogenys analis	tropical	benthopelagic marine		
+Myctophum punctatum		bathypelagic marine deep-water oceanodromous	0.0	1000.0
+Danio dangila	tropical	freshwater benthopelagic		
+Chaenophryne melanorhabdus		bathypelagic marine deep-water		1250.0
+Acheilognathus yamatsutae	temperate	freshwater benthopelagic		
+Aulorhynchus flavidus	temperate	benthopelagic marine	0.0	30.0
+Retropinna retropinna	subtropical	anadromous freshwater marine brackish demersal		
+Myctophum affine		bathypelagic marine brackish deep-water oceanodromous	0.0	600.0
+Eurypegasus draconis	tropical	reef-associated marine brackish	3.0	91.0
+Carinotetraodon lorteti	tropical	freshwater benthopelagic		
+Symbolophorus californiensis	subtropical	pelagic-oceanic marine	0.0	1497.0
+Cyema atrum		bathypelagic marine deep-water	330.0	5100.0
+Halichoeres tenuispinis	tropical	reef-associated marine		4.0
+Carassius carassius	temperate	freshwater brackish potamodromous demersal	5.0	
+Anguilla rostrata	subtropical	catadromous freshwater marine brackish demersal	0.0	464.0
+Chitala blanci	tropical	freshwater demersal potamodromous		
+Psenes cyanophrys		bathypelagic marine deep-water oceanodromous	20.0	550.0
+Culter alburnus	temperate	freshwater benthopelagic		
+Procypris rabaudi	subtropical	freshwater benthopelagic		
+Bolinichthys distofax		pelagic-oceanic marine non-migratory deep-water	100.0	690.0
+Canthigaster jactator	tropical	reef-associated marine	1.0	30.0
+Pagrus major	subtropical	oceanodromous marine demersal	10.0	200.0
+Oncorhynchus masou	temperate	benthopelagic freshwater marine brackish anadromous	0.0	200.0
+Salmostoma bacaila	tropical	freshwater benthopelagic brackish potamodromous		
+Scombrolabrax heterolepis	subtropical	benthopelagic oceanodromous marine	100.0	900.0
+Megalobrama amblycephala	temperate	freshwater benthopelagic	5.0	20.0
+Lampadena atlantica		bathypelagic marine deep-water oceanodromous	60.0	1000.0
+Tribolodon sachalinensis	temperate	benthopelagic freshwater marine brackish anadromous		
+Electrona antarctica	polar	oceanodromous marine demersal		
+Phenacogrammus interruptus	tropical	freshwater benthopelagic		
+Triacanthodes anomalus	tropical	marine demersal		
+Platytroctes apus		bathypelagic marine deep-water	385.0	5393.0
+Notolychnus valdiviae		bathypelagic marine deep-water oceanodromous	25.0	700.0
+Odax cyanomelas	subtropical	marine pelagic-neritic	1.0	15.0
+Anguilla reinhardtii	tropical	catadromous freshwater marine brackish demersal	0.0	1.0
+Arripis trutta	subtropical	anadromous marine brackish pelagic-neritic	30.0	39.0
+Mugil cephalus	subtropical	benthopelagic freshwater marine brackish catadromous	0.0	120.0
+Chalceus macrolepidotus	tropical	pelagic freshwater		
+Scartelaos histophorus	tropical	amphidromous marine brackish demersal		
+Anguilla mossambica	tropical	catadromous freshwater marine brackish demersal		
+Ammodytes personatus	temperate	oceanodromous marine demersal		
+Balistapus undulatus	tropical	reef-associated marine	2.0	50.0
+Silurus lanzhouensis	temperate	freshwater demersal		
+Onychostoma lini	subtropical	freshwater benthopelagic		
+Bufoceratias thele		bathypelagic marine deep-water	0.0	1500.0
+Tridentiger barbatus	temperate	brackish demersal		
+Clupeichthys perakensis	tropical	pelagic freshwater		
+Parazen pacificus		bathydemersal marine deep-water	145.0	500.0
+Parabramis pekinensis	temperate	amphidromous freshwater benthopelagic		
+Nemichthys scolopaceus		bathypelagic marine deep-water	0.0	3656.0
+Petrocephalus microphthalmus	tropical	freshwater demersal		
+Tylochromis polylepis	tropical	freshwater demersal		
+Exostoma labiatum		freshwater demersal		
+Chondrostoma lemmingii	temperate	freshwater benthopelagic		
+Sinibrama macrops	subtropical	freshwater benthopelagic		
+Taaningichthys minimus		bathypelagic marine deep-water oceanodromous	90.0	800.0
+Glyptothorax trilineatus		freshwater benthopelagic		
+Synodontis schoutedeni	tropical	freshwater benthopelagic		
+Sarotherodon melanotheron	tropical	freshwater brackish demersal	3.0	
+Naso lopezi	tropical	reef-associated marine	6.0	20.0
+Boulengeromyrus knoepffleri	tropical	freshwater demersal		
+Pervagor janthinosoma	tropical	reef-associated marine	8.0	20.0
+Thymallus thymallus	temperate	freshwater benthopelagic brackish non-migratory	15.0	
+Labracinus cyclophthalmus	tropical	reef-associated marine	2.0	20.0
+Sardina pilchardus	subtropical	oceanodromous freshwater marine brackish pelagic-neritic	10.0	100.0
+Coilia nasus	subtropical	anadromous freshwater marine brackish pelagic-neritic	0.0	50.0
+Bathytroctes macrolepis		bathypelagic marine deep-water	2500.0	5850.0
+Fundulus grandis	tropical	freshwater benthopelagic brackish potamodromous		
+Torquigener hypselogeneion	tropical	marine brackish demersal	18.0	22.0
+Koreocobitis rotundicaudata	temperate	freshwater demersal		
+Microphysogobio koreensis	temperate	freshwater benthopelagic		
+Chromobotia macracanthus	tropical	freshwater demersal		
+Cyprinella lutrensis	temperate	freshwater benthopelagic		
+Xyrauchen texanus	temperate	freshwater demersal potamodromous		
+Aphredoderus sayanus	temperate	freshwater demersal		
+Takifugu chinensis	temperate	marine demersal		
+Liobagrus reinii	temperate	freshwater benthopelagic		
+Ijimaia dofleini		bathydemersal marine deep-water		1281.0
+Rhynchopelates oxyrhynchus	tropical	benthopelagic freshwater marine brackish		
+Saurogobio dumerili	subtropical	freshwater benthopelagic		
+Boleophthalmus pectinirostris	tropical	non-migratory freshwater marine brackish demersal	0.0	
+Tanichthys albonubes	tropical	freshwater demersal		
+Esomus metallicus	tropical	freshwater benthopelagic brackish		
+Barbatula toni	temperate	freshwater demersal		
+Onychostoma simum	subtropical	freshwater benthopelagic		
+Saccopharynx lavenbergi		bathypelagic marine deep-water	2000.0	3000.0
+Larimichthys crocea	temperate	benthopelagic oceanodromous marine brackish	10.0	
+Oxyurichthys formosanus	tropical	amphidromous marine brackish demersal		
+Amanses scopas	tropical	reef-associated marine	3.0	18.0
+Gasterosteus wheatlandi	temperate	benthopelagic marine brackish		
+Sillago sihama	tropical	amphidromous reef-associated marine brackish	0.0	60.0
+Canthidermis maculata	subtropical	reef-associated marine	1.0	110.0
+Notacanthus chemnitzi		benthopelagic marine deep-water	125.0	3285.0
+Heniochus diphreutes	subtropical	reef-associated marine non-migratory	15.0	210.0
+Lota lota	temperate	freshwater brackish potamodromous demersal	1.0	700.0
+Parakneria cameronensis	tropical	freshwater benthopelagic		
+Synbranchus marmoratus	subtropical	freshwater brackish potamodromous demersal		
+Aesopia cornuta	tropical	reef-associated marine	8.0	100.0
+Mormyrops anguilloides	tropical	freshwater demersal potamodromous		
+Morone saxatilis	temperate	anadromous freshwater marine brackish demersal	30.0	
+Liobagrus anguillicauda	temperate	freshwater benthopelagic		
+Mene maculata	tropical	reef-associated marine brackish	50.0	200.0
+Triplophysa stoliczkai	subtropical	freshwater benthopelagic		
+Sinibotia superciliaris	subtropical	freshwater demersal		
+Siniperca chuatsi	temperate	freshwater benthopelagic	10.0	
+Schizothorax oconnori		freshwater benthopelagic		
+Schizothorax wangchiachii	subtropical	freshwater benthopelagic		
+Opistognathus jacksoniensis	subtropical	reef-associated marine	20.0	
+Trachinops taeniatus	temperate	marine pelagic-neritic		
+Labracoglossa argentiventris	temperate	reef-associated marine		
+Normichthys operosus		bathypelagic marine deep-water		1000.0
+Anyperodon leucogrammicus	tropical	reef-associated marine non-migratory	1.0	80.0
+Pseudobagrus tokiensis	temperate	freshwater benthopelagic		
+Lepisosteus oculatus	temperate	freshwater brackish demersal		
+Gobiobotia macrocephala	temperate	freshwater benthopelagic		
+Pseudolabrus eoethinus	subtropical	reef-associated marine		
+Valamugil cunnesius	tropical	catadromous freshwater marine brackish demersal		
+Siniperca obscura	temperate	freshwater benthopelagic		
+Gobiobotia brevibarba	temperate	freshwater benthopelagic		
+Chanodichthys mongolicus	subtropical	freshwater benthopelagic		
+Rhodeus shitaiensis	subtropical	pelagic freshwater		
+Monopterus albus	tropical	freshwater brackish potamodromous demersal	3.0	
+Aphyocypris kikuchii	subtropical	freshwater benthopelagic	0.0	5.0
+Salmo trutta	subtropical	anadromous freshwater marine brackish pelagic-neritic	0.0	
+Horadandia atukorali	tropical	pelagic freshwater brackish		
+Physiculus japonicus		bathydemersal marine deep-water	150.0	350.0
+Glossogobius olivaceus	temperate	amphidromous freshwater marine brackish demersal		
+Gobiocypris rarus	temperate	freshwater benthopelagic		
+Nibea albiflora	temperate	benthopelagic marine	25.0	80.0
+Misgurnus nikolskyi	temperate	freshwater demersal		
+Gymnocypris namensis	temperate	freshwater benthopelagic		
+Icosteus aenigmaticus		bathypelagic marine deep-water	0.0	1420.0
+Spinibarbus denticulatus	subtropical	freshwater benthopelagic		
+Opsariichthys bidens	temperate	freshwater benthopelagic		
+Culter mongolicus	subtropical	freshwater benthopelagic		
+Benthodesmus tenuis		benthopelagic marine deep-water	200.0	850.0
+Cantherhines pardalis	tropical	reef-associated marine	2.0	20.0
+Raiamas guttatus	tropical	freshwater benthopelagic potamodromous		
+Campylomormyrus numenius	tropical	freshwater demersal		
+Astyanax mexicanus	subtropical	freshwater benthopelagic potamodromous		
+Chitala ornata	tropical	pelagic freshwater potamodromous		
+Leptochilichthys agassizii		bathypelagic marine deep-water	2000.0	3100.0
+Polypterus senegalus	tropical	freshwater demersal potamodromous		
+Takifugu xanthopterus	temperate	marine demersal		
+Chaunax tosaensis	temperate	marine demersal		
+Chlorurus sordidus	tropical	reef-associated oceanodromous marine brackish	0.0	50.0
+Pseudobagrus ussuriensis	temperate	freshwater demersal non-migratory		
+Cephalopholis boenak	tropical	reef-associated marine non-migratory	1.0	64.0
+Hypoplectrus gemma	tropical	reef-associated marine		
+Branchiostegus albus	temperate	benthopelagic marine	30.0	100.0
+Variola louti	tropical	reef-associated marine non-migratory	3.0	250.0
+Onychostoma barbatulum	subtropical	freshwater benthopelagic		
+Percina macrolepida	subtropical	freshwater benthopelagic		
+Monotrete cochinchinensis	tropical	freshwater demersal		
+Lebiasina astrigata	tropical	freshwater demersal		
+Scomberomorus cavalla	tropical	reef-associated oceanodromous marine	5.0	140.0
+Diaphus luetkeni		bathypelagic marine deep-water oceanodromous	40.0	750.0
+Anguilla bicolor	tropical	catadromous freshwater marine brackish demersal		
+Rachycentron canadum	subtropical	reef-associated oceanodromous marine brackish	0.0	1200.0
+Pelteobagrus nitidus	temperate	freshwater demersal		
+Diaphus splendidus		bathypelagic marine deep-water oceanodromous	0.0	8000.0
+Trichiurus japonicus	subtropical	amphidromous benthopelagic marine brackish	0.0	589.0
+Synechogobius ommaturus	subtropical	freshwater demersal		
+Aldrichetta forsteri	temperate	catadromous freshwater marine brackish demersal	0.0	50.0
+Scobinichthys granulatus	temperate	reef-associated marine		
+Hypoatherina tsurugae	temperate	marine pelagic-neritic		
+Pterygoplichthys disjunctivus	tropical	freshwater demersal		
+Polypterus mokelembembe	tropical	freshwater demersal		
+Psephurus gladius	subtropical	freshwater demersal potamodromous		
+Tetraodon biocellatus	tropical	freshwater demersal		
+Anguilla nebulosa	tropical	catadromous freshwater marine brackish demersal	3.0	10.0
+Zebrasoma flavescens	tropical	reef-associated marine	2.0	46.0
+Phenacobius mirabilis	subtropical	freshwater demersal		
+Salmo salar	temperate	benthopelagic freshwater marine brackish anadromous	0.0	210.0
+Salvelinus alpinus	temperate	benthopelagic freshwater marine brackish anadromous	30.0	70.0
+Pteragogus flagellifer	tropical	reef-associated marine		
+Nothobranchius furzeri	tropical	freshwater benthopelagic non-migratory		
+Parataeniophorus gulosus		bathypelagic marine deep-water	0.0	1400.0
+Phractolaemus ansorgii	tropical	freshwater benthopelagic		
+Arapaima gigas	tropical	freshwater demersal		
+Notopterus notopterus	tropical	freshwater brackish potamodromous demersal		
+Oreochromis niloticus	tropical	freshwater benthopelagic brackish potamodromous	0.0	6.0
+Hoplunnis punctata		marine demersal deep-water		
+Malthopsis jordani		bathydemersal marine deep-water	185.0	520.0
+Sprattus sprattus	temperate	oceanodromous marine brackish pelagic-neritic	10.0	150.0
+Diaphus lucidus		bathypelagic marine deep-water oceanodromous	0.0	2999.0
+Phoxinus percnurus	subtropical	freshwater benthopelagic non-migratory		
+Pimelodus pictus	tropical	freshwater benthopelagic		
+Halichoeres trimaculatus	tropical	reef-associated marine	2.0	30.0
+Tetrabrachium ocellatum	tropical	marine demersal		51.0
+Tridentiger bifasciatus	temperate	amphidromous freshwater marine brackish demersal		
+Rastrelliger kanagurta	tropical	oceanodromous marine pelagic-neritic	20.0	90.0
+Citharinus congicus	tropical	pelagic freshwater		
+Mesocottus haitej	temperate	freshwater benthopelagic		
+Blicca bjoerkna	temperate	freshwater brackish potamodromous demersal	0.0	
+Halichoeres melanurus	tropical	reef-associated marine	1.0	
+Neolamprologus brichardi	tropical	freshwater benthopelagic		
+Microcanthus strigatus	tropical	reef-associated oceanodromous marine brackish	1.0	140.0
+Rhinomuraena quaesita	tropical	reef-associated marine non-migratory	1.0	57.0
+Thamnaconus modestus	tropical	reef-associated oceanodromous marine		
+Ivindomyrus marchei	tropical	freshwater demersal		
+Polypterus retropinnis	tropical	freshwater demersal		
+Moringua edwardsi	subtropical	reef-associated marine brackish		
+Tor sinensis	tropical	freshwater benthopelagic potamodromous		
+Grasseichthys gabonensis	tropical	freshwater benthopelagic		
+Sinocyclocheilus altishoulderus	temperate	freshwater benthopelagic		
+Anguilla australis	subtropical	benthopelagic freshwater marine brackish catadromous	0.0	
+Seriola lalandi	subtropical	benthopelagic marine brackish	3.0	825.0
+Hoplias malabaricus	tropical	freshwater benthopelagic potamodromous		
+Atractosteus spatula	subtropical	freshwater brackish demersal	0.0	
+Lactoria diaphana	subtropical	reef-associated marine brackish	8.0	50.0
+Erpetoichthys calabaricus	tropical	freshwater brackish demersal	0.0	
+Krefftichthys anderssoni		bathypelagic marine deep-water oceanodromous		2700.0
+Takifugu stictonotus	temperate	marine demersal		
+Gyrinomimus sp.	polar	benthopelagic marine	0.0	1400.0
+Bregmaceros nectabanus	tropical	marine non-migratory pelagic-neritic		350.0
+Myctophum orientale		bathypelagic marine deep-water		
+Lates calcarifer	tropical	catadromous freshwater marine brackish demersal	10.0	40.0
+Myxocyprinus asiaticus	subtropical	freshwater demersal potamodromous		
+Plotosus japonicus	temperate	benthopelagic marine		
+Cobitis striata	temperate	freshwater benthopelagic		
+Epinephelus latifasciatus	tropical	marine demersal	20.0	230.0
+Brevimyrus niger	tropical	freshwater benthopelagic		
+Alepocephalus productus		bathydemersal marine deep-water	1150.0	3500.0
+Diogenichthys atlanticus		bathypelagic marine deep-water oceanodromous	0.0	1050.0
+Pleuronichthys cornutus	temperate	marine demersal	2.0	170.0
+Amia calva	temperate	freshwater demersal		
+Sarcocheilichthys nigripinnis	temperate	freshwater benthopelagic		
+Etheostoma radiosum	subtropical	freshwater benthopelagic		
+Kareius bicoloratus	temperate	oceanodromous freshwater marine brackish demersal		150.0
+Coloconger cadenati		bathydemersal marine deep-water	270.0	600.0
+Xiphias gladius	temperate	pelagic-oceanic oceanodromous marine	0.0	800.0
+Amazonsprattus scintilla	tropical	pelagic freshwater		
+Hemigrammocypris rasborella	temperate	freshwater benthopelagic brackish		
+Scomber scombrus	temperate	oceanodromous marine brackish pelagic-neritic	0.0	1000.0
+Oryzias sinensis	tropical	freshwater benthopelagic		
+Emmelichthys struhsakeri	temperate	benthopelagic marine	180.0	428.0
+Schizopygopsis thermalis		freshwater benthopelagic		
+Pseudogobius javanicus	tropical	amphidromous benthopelagic freshwater marine brackish		
+Clupea harengus	temperate	benthopelagic oceanodromous marine brackish	0.0	364.0
+Setipinna taty	tropical	oceanodromous marine brackish pelagic-neritic	0.0	50.0
+Silurus meridionalis	subtropical	freshwater demersal		
+Ostracion immaculatus	temperate	marine demersal		
+Istiophorus platypterus	subtropical	pelagic-oceanic oceanodromous marine	0.0	200.0
+Gambusia affinis	subtropical	freshwater benthopelagic brackish potamodromous		
+Pseudorasbora pumila	temperate	freshwater benthopelagic		
+Epinephelus quoyanus	tropical	reef-associated marine		50.0
+Chauliodus sloani		bathypelagic marine deep-water	200.0	4700.0
+Rhodeus suigensis	temperate	freshwater benthopelagic		
+Aulichthys japonicus	temperate	benthopelagic marine		
+Haplophryne mollis		bathypelagic marine deep-water oceanodromous		2250.0
+Konosirus punctatus	subtropical	oceanodromous marine brackish pelagic-neritic		
+Leuciscus waleckii	temperate	freshwater benthopelagic potamodromous		
+Sander canadensis	temperate	freshwater demersal	5.0	
+Lutjanus russellii	tropical	reef-associated marine brackish	10.0	80.0
+Scomberomorus munroi	tropical	oceanodromous marine pelagic-neritic		100.0
+Metzia formosae	subtropical	freshwater benthopelagic		
+Gobio gobio	temperate	freshwater benthopelagic brackish potamodromous		
+Colomesus psittacus	tropical	freshwater marine brackish demersal		40.0
+Epinephelus areolatus	tropical	reef-associated marine	6.0	200.0
+Curimatopsis evelynae	tropical	freshwater benthopelagic		
+Conocara murrayi		bathypelagic marine deep-water	1200.0	2603.0
+Takifugu niphobles	temperate	marine demersal		
+Odaxothrissa losera	tropical	pelagic freshwater		
+Hydrolycus scomberoides	tropical	freshwater benthopelagic		
+Anoplogaster cornuta		bathypelagic marine deep-water	2.0	4992.0
+Anguilla malgumora	tropical	catadromous freshwater marine brackish demersal		
+Pareuchiloglanis gracilicaudata	temperate	freshwater benthopelagic		
+Hypoptychus dybowskii	temperate	benthopelagic marine		
+Acrossocheilus wenchowensis	subtropical	freshwater benthopelagic brackish		
+Macroramphosus scolopax	subtropical	marine demersal	25.0	600.0
+Acheilognathus typus	temperate	freshwater benthopelagic		
+Pristipomoides multidens	tropical	marine demersal	40.0	245.0
+Pellonula leonensis	tropical	anadromous freshwater marine brackish pelagic-neritic		
+Cycleptus elongatus	subtropical	freshwater benthopelagic		
+Glossogobius circumspectus	tropical	freshwater brackish demersal		
+Potamalosa richmondia	temperate	catadromous freshwater marine brackish pelagic-neritic		
+Myomyrus macrops	tropical	freshwater demersal		
+Scorpis lineolata	temperate	reef-associated marine brackish	1.0	30.0
+Saurida undosquamis	subtropical	amphidromous reef-associated marine	1.0	350.0
+Spinibarbus caldwelli	subtropical	freshwater benthopelagic	2.0	30.0
+Pelecus cultratus	temperate	pelagic anadromous freshwater brackish	20.0	
+Promethichthys prometheus	subtropical	benthopelagic oceanodromous marine	80.0	800.0
+Ophisurus macrorhynchos	temperate	marine demersal		
+Ethmidium maculatum	tropical	marine pelagic-neritic	0.0	50.0
+Onychostoma alticorpus	subtropical	freshwater benthopelagic	0.0	10.0
+Tenualosa thibaudeaui	tropical	pelagic freshwater potamodromous		
+Polypterus ornatipinnis	tropical	freshwater demersal		
+Raiamas senegalensis	tropical	freshwater benthopelagic potamodromous		
+Bajacalifornia megalops		bathypelagic marine deep-water	150.0	3200.0
+Nessorhamphus ingolfianus		bathypelagic marine deep-water	0.0	1800.0
+Avocettina infans		bathypelagic marine deep-water	0.0	4580.0
+Chilomycterus reticulatus	subtropical	reef-associated marine	20.0	100.0
+Gigantactis vanhoeffeni		bathypelagic marine deep-water	300.0	5300.0
+Notemigonus crysoleucas	temperate	freshwater demersal	10.0	
+Squalogadus modificatus		bathypelagic marine deep-water	600.0	1740.0
+Pseudomonacanthus peroni	tropical	reef-associated marine		
+Acipenser ruthenus	temperate	freshwater brackish potamodromous demersal	1.0	
+Coilia mystus	tropical	amphidromous freshwater marine brackish pelagic-neritic	10.0	
+Psilorhynchus sucatio	subtropical	freshwater demersal		
+Brachyhypopomus occidentalis	tropical	freshwater benthopelagic		
+Parajulis poecilepterus	subtropical	marine demersal		
+Electrophorus electricus	tropical	freshwater benthopelagic		
+Erimyzon oblongus	subtropical	freshwater demersal		
+Harpadon microchir	tropical	marine demersal		
+Rivulus marmoratus	tropical	freshwater benthopelagic brackish non-migratory	0.0	
+Oncorhynchus nerka	temperate	pelagic-oceanic freshwater marine brackish anadromous	0.0	250.0
+Sciades seemanni	tropical	freshwater marine brackish demersal		
+Microphis brachyurus	tropical	anadromous freshwater marine brackish demersal		
+Pangasius larnaudii	tropical	freshwater benthopelagic potamodromous		
+Cottus poecilopus	temperate	freshwater brackish demersal	0.0	15.0
+Pellona flavipinnis	subtropical	pelagic freshwater brackish		
+Megalops cyprinoides	tropical	amphidromous benthopelagic freshwater marine brackish	50.0	
+Synodus variegatus	tropical	reef-associated marine	3.0	121.0
+Chanodichthys dabryi	temperate	freshwater benthopelagic		
+Opisthoproctus soleatus		bathypelagic marine deep-water	300.0	800.0
+Siniperca knerii	temperate	freshwater benthopelagic brackish		
+Pseudorasbora parva	temperate	freshwater benthopelagic		
+Glossanodon semifasciatus	temperate	benthopelagic marine	70.0	430.0
+Catla catla	subtropical	freshwater benthopelagic brackish potamodromous	5.0	
+Platycephalus indicus	subtropical	reef-associated oceanodromous marine brackish	20.0	200.0
+Chitala lopis	tropical	freshwater demersal		
+Labeo batesii	tropical	freshwater benthopelagic		
+Danacetichthys galathenus		bathypelagic marine deep-water	0.0	1330.0
+Arothron firmamentum	subtropical	marine demersal	10.0	360.0
+Alosa sapidissima	temperate	anadromous freshwater marine brackish pelagic-neritic	0.0	250.0
+Satyrichthys amiscus		marine demersal deep-water		
+Larimichthys polyactis	subtropical	benthopelagic oceanodromous marine		120.0
+Hippoglossus stenolepis	temperate	oceanodromous marine demersal	0.0	1200.0
+Crossorhombus azureus	tropical	marine demersal	13.0	60.0
+Antigonia capros	tropical	marine demersal	50.0	900.0
+Scarus rubroviolaceus	tropical	reef-associated marine	1.0	36.0
+Lophius americanus	temperate	oceanodromous marine demersal	0.0	668.0
+Cynotilapia afra	tropical	freshwater benthopelagic	3.0	30.0
+Barilius bendelisis	tropical	freshwater benthopelagic potamodromous		
+Chanos chanos	tropical	amphidromous benthopelagic freshwater marine brackish	1.0	30.0
+Ethmalosa fimbriata	tropical	catadromous freshwater marine brackish pelagic-neritic	0.0	
+Heteroconger hassi	tropical	reef-associated marine non-migratory	7.0	45.0
+Sprattus muelleri	subtropical	marine pelagic-neritic	28.0	110.0
+Pollachius virens	temperate	oceanodromous marine demersal	37.0	364.0
+Arctogadus glacialis		bathypelagic marine non-migratory deep-water	0.0	1000.0
+Diretmoides veriginae		bathypelagic marine deep-water	340.0	1300.0
+Nicholsicypris normalis	subtropical	freshwater benthopelagic brackish		
+Schedophilus velaini		bathypelagic marine deep-water	40.0	500.0
+Epinephelus stictus	tropical	marine demersal	60.0	142.0
+Rhinogobius giurinus	subtropical	amphidromous freshwater marine brackish demersal		
+Paramonacanthus choirocephalus	tropical	marine demersal		8.0
+Hemibarbus umbrifer	subtropical	freshwater benthopelagic		
+Chlorophthalmus agassizi		bathydemersal marine brackish deep-water	50.0	1000.0
+Alosa pseudoharengus	temperate	anadromous freshwater marine brackish pelagic-neritic	5.0	145.0
+Linophryne bicornis		bathypelagic marine deep-water		
+Bassozetus zenkevitchi		bathypelagic marine deep-water	0.0	6930.0
+Puntius snyderi	subtropical	freshwater benthopelagic		
+Pelteobagrus eupogon	temperate	freshwater demersal		
+Grammatobothus krempfi	tropical	marine demersal		
+Pseudobagrus brevicorpus	temperate	freshwater benthopelagic		
+Pseudobagrus brevicaudatus	temperate	freshwater benthopelagic		
+Xenomystus nigri	tropical	freshwater demersal		
+Diceratias pileatus		bathypelagic marine deep-water	640.0	1430.0
+Lipolagus ochotensis		bathypelagic marine deep-water	0.0	6100.0
+Macrorhamphosodes uradoi	tropical	marine demersal	50.0	675.0
+Psetta maxima	temperate	oceanodromous marine brackish demersal	20.0	70.0
+Sinogastromyzon puliensis	subtropical	freshwater demersal	0.0	10.0
+Paretroplus maculatus	tropical	freshwater demersal		
+Kuhlia mugil	tropical	reef-associated marine brackish	3.0	18.0
+Zacco sieboldii	subtropical	freshwater benthopelagic		
+Pangasianodon gigas	tropical	freshwater benthopelagic potamodromous		
+Doederleinia berycoides	tropical	marine demersal	100.0	600.0
+Sprattus antipodum	subtropical	marine pelagic-neritic	0.0	72.0
+Takifugu rubripes	temperate	non-migratory freshwater marine brackish demersal		
+Takifugu vermicularis	temperate	marine demersal		
+Gila robusta	subtropical	freshwater benthopelagic		
+Lampanyctus macdonaldi		bathypelagic marine deep-water oceanodromous	60.0	1464.0
+Histiopterus typus		reef-associated marine deep-water	40.0	421.0
+Cyprinella spiloptera	temperate	freshwater benthopelagic		
+Mugil curema	subtropical	catadromous reef-associated freshwater marine brackish	15.0	
+Myctophum asperum		bathypelagic marine deep-water oceanodromous	0.0	750.0
+Cephalopholis argus	tropical	reef-associated marine non-migratory	1.0	40.0
+Hara jerdoni	tropical	freshwater demersal		
+Facciolella oxyrhyncha	subtropical	marine demersal	30.0	731.0
+Ataxolepis apus	tropical	bathypelagic marine	1464.0	
+Anguilla dieffenbachii	subtropical	catadromous freshwater marine brackish demersal		
+Leiocassis longirostris	temperate	freshwater demersal		
+Micropercops swinhonis	subtropical	freshwater demersal		
+Hucho bleekeri	subtropical	freshwater benthopelagic potamodromous		
+Torquigener pleurogramma	subtropical	marine brackish demersal		30.0
+Hemiodopsis gracilis	tropical	freshwater benthopelagic		
+Hypomesus nipponensis	temperate	pelagic anadromous freshwater brackish		
+Pseudobagrus trilineatus	subtropical	freshwater benthopelagic		
+Acheilognathus signifer	temperate	freshwater benthopelagic		
+Omegophora armilla	temperate	marine demersal		146.0
+Acheilognathus koreensis	temperate	freshwater benthopelagic		
+Echeneis naucrates	subtropical	reef-associated marine brackish	1.0	50.0
+Mylopharyngodon piceus	subtropical	freshwater demersal potamodromous	5.0	30.0
+Parahucho perryi	temperate	benthopelagic freshwater marine brackish anadromous	0.0	100.0
+Moxostoma congestum	subtropical	freshwater demersal		
+Glyptothorax fokiensis	subtropical	freshwater benthopelagic brackish		
+Brienomyrus brachyistius	tropical	freshwater benthopelagic brackish		
+Himantolophus groenlandicus		bathypelagic marine deep-water	830.0	
+Stiphodon alcedo	subtropical	freshwater demersal		
+Cobitis sinensis	subtropical	freshwater benthopelagic		
+Notoscopelus japonicus		bathypelagic marine deep-water	0.0	785.0
+Stenobrachius leucopsarus		bathypelagic marine deep-water	0.0	3400.0
+Cynoglossus abbreviatus		marine demersal deep-water	20.0	85.0
+Oryzias javanicus	tropical	freshwater benthopelagic brackish non-migratory		
+Poromitra oscitans		bathypelagic marine deep-water	645.0	5320.0
+Cranoglanis bouderius	tropical	freshwater demersal		
+Kyphosus cinerascens	tropical	reef-associated marine	1.0	45.0
+Acipenser gueldenstaedtii	temperate	anadromous freshwater marine brackish demersal	1.0	
+Pararasbora moltrechti	subtropical	freshwater benthopelagic		
+Pantodon buchholzi	tropical	pelagic freshwater potamodromous		
+Squaliobarbus curriculus	subtropical	freshwater benthopelagic		
+Bathyprion danae		bathypelagic marine deep-water	100.0	3200.0
+Alepocephalus tenebrosus		bathydemersal marine deep-water	46.0	5500.0
+Aulostomus chinensis	tropical	reef-associated marine	3.0	122.0
+Alburnus tarichi	temperate	freshwater benthopelagic		
+Protoanguilla palau	tropical	reef-associated marine	35.0	
+Coryphaena hippurus	subtropical	oceanodromous marine brackish pelagic-neritic	0.0	85.0
+Nannoperca australis	temperate	freshwater benthopelagic		
+Tetragonurus atlanticus	subtropical	pelagic-oceanic oceanodromous marine	0.0	800.0
+Triplophysa bleekeri	subtropical	freshwater benthopelagic		
+Trachipterus trachipterus		bathypelagic marine deep-water	100.0	600.0
+Dimidiochromis compressiceps	tropical	freshwater benthopelagic		
+Chelonodon pleurospilus	subtropical	marine demersal		
+Perca flavescens	temperate	freshwater benthopelagic brackish		56.0
+Melanogrammus aeglefinus	temperate	oceanodromous marine demersal	10.0	450.0
+Luciogobius platycephalus	temperate	marine demersal		
+Plecoglossus altivelis	subtropical	amphidromous freshwater marine brackish demersal	10.0	
+Phoxinus steindachneri	temperate	freshwater benthopelagic		
+Dorosoma cepedianum	subtropical	anadromous freshwater marine brackish pelagic-neritic		33.0
+Verasper variegatus	subtropical	marine demersal		
+Hyporthodus octofasciatus		bathydemersal marine deep-water	150.0	300.0
+Myctophum nitidulum		bathypelagic marine deep-water oceanodromous	0.0	1000.0
+Hypselecara temporalis	tropical	freshwater benthopelagic		
+Engraulis encrasicolus	subtropical	oceanodromous marine brackish pelagic-neritic	0.0	400.0
+Lutjanus rivulatus	tropical	reef-associated marine	50.0	100.0
+Leptoderma lubricum		bathypelagic marine deep-water	0.0	1700.0
+Pterapogon kauderni	tropical	marine demersal	0.0	16.0
+Anguilla marmorata	tropical	catadromous freshwater marine brackish demersal	1.0	400.0
+Genyochromis mento	tropical	freshwater benthopelagic	2.0	25.0
+Chrysochir aureus	tropical	benthopelagic marine brackish		
+Carinotetraodon salivator	tropical	freshwater benthopelagic	1.0	2.0
+Epinephelus trimaculatus	tropical	reef-associated marine		30.0
+Pungitius pungitius	temperate	benthopelagic freshwater marine brackish anadromous		110.0
+Coelorinchus kishinouyei		bathydemersal marine non-migratory deep-water	250.0	450.0
+Neocyttus rhomboidalis		bathypelagic marine deep-water oceanodromous	200.0	1240.0
+Aplocheilus panchax	tropical	freshwater benthopelagic brackish non-migratory		
+Trigonostigma espei	tropical	freshwater benthopelagic		
+Salvelinus fontinalis	temperate	anadromous freshwater marine brackish demersal	15.0	27.0
+Gymnocypris dobula	subtropical	freshwater benthopelagic		
+Kentrocapros aculeatus	temperate	benthopelagic marine	100.0	200.0
+Cephalopholis sonnerati	tropical	reef-associated marine non-migratory	10.0	150.0
+Lycodes toyamensis	temperate	marine demersal		
+Clupeichthys goniognathus	tropical	pelagic freshwater		
+Cirrhinus mrigala	tropical	freshwater demersal		
+Brachaluteres ulvarum	temperate	reef-associated marine	25.0	30.0
+Masturus lanceolatus		bathypelagic marine brackish deep-water		670.0
+Gymnosarda unicolor	tropical	reef-associated oceanodromous marine	10.0	100.0
+Takifugu exascurus	temperate	marine demersal		
+Auxis rochei	tropical	oceanodromous marine brackish pelagic-neritic	10.0	
