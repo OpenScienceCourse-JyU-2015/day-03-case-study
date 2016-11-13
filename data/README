@@ -82,9 +82,9 @@ python fasta2table.py compilation_COI.fasta > compilation_COI.tsv
 
 
 
---------------------------
-fish-prot-evolution.sqlite
---------------------------
+--------------------
+fishbase_data.sqlite
+--------------------
 
 md5sum: fda4378da9b39643da0024aa378217f0
 

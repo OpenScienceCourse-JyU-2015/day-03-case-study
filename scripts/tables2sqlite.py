@@ -26,9 +26,9 @@ import pandas as pd
 ### ** Create an SQLite connection to a database file
 
 # Delete the database file if it already exists
-if os.path.isfile("../data/fish-prot-evolution.sqlite") :
-    os.remove("../data/fish-prot-evolution.sqlite")
-con = sql.connect("../data/fish-prot-evolution.sqlite")
+if os.path.isfile("../data/fishbase_data.sqlite") :
+    os.remove("../data/fishbase_data.sqlite")
+con = sql.connect("../data/fishbase_data.sqlite")
 
 ### ** Load and save Fishbase data
 
