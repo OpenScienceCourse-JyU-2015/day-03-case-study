@@ -79,3 +79,31 @@ Those files were derived from the compilation_*.fasta files using the Python
 script fasta2table.py, e.g.:
 
 python fasta2table.py compilation_COI.fasta > compilation_COI.tsv
+
+
+
+--------------------------
+fish-prot-evolution.sqlite
+--------------------------
+
+md5sum: fda4378da9b39643da0024aa378217f0
+
+format: SQLite database
+
+This file contains the information from the tab-separated tables
+fishbase_[temperature|environment|extra_data].tsv and was produced by the
+Python script tables2sqlite.py.
+
+
+
+--------------------
+aa_properties.sqlite
+--------------------
+
+md5sum: 3b5006d9423cee42c4fd89bdd1b5cbd6
+
+format: SQLite database
+
+This file contains some amino acid indices extracted from the aaindex1 database
+release 9.1 (AUG 2006), as it was provided in the seqinr R package. The file
+was produced by the R script makeAAtables.R.
