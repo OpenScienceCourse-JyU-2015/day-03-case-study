@@ -22,6 +22,22 @@ much more efficient to use the R package rfishbase
 
 
 
+-------------------------------------------------
+fishbase_[temperature|environment|extra_data].tsv
+-------------------------------------------------
+
+md5sum: a555fd724ce07caa81158f26b68486f2  fishbase_environment.tsv
+        0915eeab49526a7769a04cdda88e51e9  fishbase_extra_data.tsv
+        55781ce0cd413ed13aea3c64e255d8db  fishbase_temperature.tsv
+
+format: Tab-separated tables with header
+
+These tables were produced by splitting the original Fishbase table
+'fishbase_table.tsv' into separate tables, with some column overlap, for
+pedagogical purpose only.
+
+
+
 -------------------
 compilation_*.fasta
 -------------------
